@@ -1,9 +1,9 @@
 name: Crawl Silver Price
 
 on:
-  workflow_dispatch:       # Cho phép chạy thủ công
+  workflow_dispatch:       # Cho phép chạy tay
   schedule:
-    - cron: '0 0 * * *'    # Chạy mỗi ngày lúc 00:00 UTC (~07:00 Việt Nam)
+    - cron: '0 0 * * *'    # Mỗi ngày lúc 07:00 giờ Việt Nam
 
 jobs:
   crawl:
@@ -19,15 +19,16 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install puppeteer
+        run: npm install
 
       - name: Run crawler
-        run: node crawl_silver.js
+        run: |
+          node crawl_silver.js
 
       - name: Commit result
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add silver_price.json
-          git commit -m "Update silver price $(date +'%Y-%m-%d')" || echo "No changes"
+          git commit -m "Update silver price $(date +'%Y-%m-%d %H:%M')" || echo "No changes"
           git push
