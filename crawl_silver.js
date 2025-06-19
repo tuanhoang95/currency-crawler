@@ -5,12 +5,12 @@ const fs = require('fs');
 (async () => {
     try {
         const url = 'https://giabac.phuquygroup.vn/';
-        console.log('🔗 Gửi request đến:', url);
+        console.log('🔗 Fetch:', url);
 
         const res = await fetch(url);
-        const body = await res.text();
+        const html = await res.text();
 
-        const $ = cheerio.load(body);
+        const $ = cheerio.load(html);
 
         const rows = $('table.table-striped tbody tr');
         let matched = null;
@@ -18,24 +18,28 @@ const fs = require('fs');
 
         rows.each((i, el) => {
             const cols = $(el).find('td');
-            if (cols.length < 4) return; // skip row ko đủ cột
+            if (cols.length < 4) return; // không đủ cột thì bỏ qua
 
-            const product = $(cols[0]).text().trim();
-            const unit = $(cols[1]).text().trim();
-            const buyPrice = $(cols[2]).text().trim();
-            const sellPrice = $(cols[3]).text().trim();
+            const product = $(cols[0]).text().replace(/\s+/g, ' ').trim();
+            const unit = $(cols[1]).text().replace(/\s+/g, ' ').trim();
+            let buyPrice = $(cols[2]).text().replace(/\s+/g, '').replace(/,/g, '');
+            let sellPrice = $(cols[3]).text().replace(/\s+/g, '').replace(/,/g, '');
+
+            // Nếu giá rỗng hoặc dấu '-', đổi thành null
+            buyPrice = buyPrice === '-' || buyPrice === '' ? null : Number(buyPrice);
+            sellPrice = sellPrice === '-' || sellPrice === '' ? null : Number(sellPrice);
 
             logs.push({ product, unit, buyPrice, sellPrice });
 
             if (
                 product.toLowerCase().includes('1kilo') &&
-                unit.toLowerCase().includes('vnd/kg')
+                unit.toLowerCase().includes('vnđ/kg')
             ) {
-                matched = { product, unit, sellPrice };
+                matched = { product, unit, buyPrice, sellPrice };
             }
         });
 
-        console.log('📋 Dữ liệu bảng:');
+        console.log('📋 Tất cả dữ liệu:');
         logs.forEach((row, i) => {
             console.log(`🔸 [${i}] ${row.product} | ${row.unit} | Mua: ${row.buyPrice} | Bán: ${row.sellPrice}`);
         });
@@ -46,11 +50,11 @@ const fs = require('fs');
                 ...matched
             };
             fs.writeFileSync('silver_price.json', JSON.stringify(output, null, 2));
-            console.log('\n✅ Lưu file silver_price.json thành công');
+            console.log('\n✅ Đã lưu file silver_price.json');
         } else {
-            console.log('\n❌ Không tìm thấy dòng BẠC 1KILO');
+            console.log('\n❌ Không tìm thấy sản phẩm 1KILO');
         }
     } catch (err) {
-        console.error('❌ Lỗi khi crawl:', err);
+        console.error('❌ Lỗi:', err);
     }
 })();
