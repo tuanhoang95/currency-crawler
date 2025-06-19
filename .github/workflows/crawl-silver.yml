@@ -1,0 +1,33 @@
+name: Crawl Silver Price
+
+on:
+  workflow_dispatch:       # Cho phép chạy thủ công
+  schedule:
+    - cron: '0 0 * * *'    # Chạy mỗi ngày lúc 00:00 UTC (~07:00 Việt Nam)
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install puppeteer
+
+      - name: Run crawler
+        run: node crawl_silver.js
+
+      - name: Commit result
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add silver_price.json
+          git commit -m "Update silver price $(date +'%Y-%m-%d')" || echo "No changes"
+          git push
