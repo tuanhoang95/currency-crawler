@@ -1,9 +1,9 @@
 name: Crawl Silver Price
 
 on:
-  workflow_dispatch:       # Cho phép chạy tay
+  workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'    # Mỗi ngày lúc 07:00 giờ Việt Nam
+    - cron: '0 * * * *' # chạy mỗi giờ
 
 jobs:
   crawl:
@@ -19,13 +19,12 @@ jobs:
           node-version: 18
 
       - name: Install dependencies
-        run: npm install
+        run: npm install node-fetch@2 cheerio
 
-      - name: Run crawler
-        run: |
-          node crawl_silver.js
+      - name: Run crawl script
+        run: node crawl_silver.js
 
-      - name: Commit result
+      - name: Commit updated price file
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
