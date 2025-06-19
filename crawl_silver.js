@@ -1,67 +1,56 @@
-const puppeteer = require('puppeteer');
+const fetch = require('node-fetch');
+const cheerio = require('cheerio');
 const fs = require('fs');
 
 (async () => {
-  console.log('🚀 Khởi động trình duyệt...');
-  const browser = await puppeteer.launch({ headless: 'new', args: ['--no-sandbox'] });
-  const page = await browser.newPage();
+    try {
+        const url = 'https://giabac.phuquygroup.vn/';
+        console.log('🔗 Gửi request đến:', url);
 
-  console.log('🌐 Truy cập trang web...');
-  await page.goto('https://giabac.phuquygroup.vn/', { waitUntil: 'networkidle2' });
+        const res = await fetch(url);
+        const body = await res.text();
 
-  console.log('⏳ Chờ bảng giá tải...');
-  await page.waitForSelector('table.table-striped');
+        const $ = cheerio.load(body);
 
-  console.log('🔍 Đang phân tích dữ liệu bảng...');
-  const result = await page.evaluate(() => {
-    const rows = Array.from(document.querySelectorAll('table.table-striped tbody tr'));
-    const logs = [];
-    let matched = null;
+        const rows = $('table.table-striped tbody tr');
+        let matched = null;
+        const logs = [];
 
-    for (const row of rows) {
-      const cols = row.querySelectorAll('td');
-      if (cols.length < 4) continue; // bỏ dòng không đủ cột
+        rows.each((i, el) => {
+            const cols = $(el).find('td');
+            if (cols.length < 4) return; // skip row ko đủ cột
 
-      const product = cols[0]?.innerText.trim();
-      const unit = cols[1]?.innerText.trim();
-      const buyPrice = cols[2]?.innerText.trim();
-      const sellPrice = cols[3]?.innerText.trim();
+            const product = $(cols[0]).text().trim();
+            const unit = $(cols[1]).text().trim();
+            const buyPrice = $(cols[2]).text().trim();
+            const sellPrice = $(cols[3]).text().trim();
 
-      // Ghi log lại cho mỗi dòng
-      logs.push({ product, unit, buyPrice, sellPrice });
+            logs.push({ product, unit, buyPrice, sellPrice });
 
-      // Kiểm tra điều kiện khớp
-      if (
-        product?.toLowerCase().includes('1kilo') &&
-        unit?.toLowerCase().includes('vnd/kg')
-      ) {
-        matched = { product, unit, sellPrice };
-      }
+            if (
+                product.toLowerCase().includes('1kilo') &&
+                unit.toLowerCase().includes('vnd/kg')
+            ) {
+                matched = { product, unit, sellPrice };
+            }
+        });
+
+        console.log('📋 Dữ liệu bảng:');
+        logs.forEach((row, i) => {
+            console.log(`🔸 [${i}] ${row.product} | ${row.unit} | Mua: ${row.buyPrice} | Bán: ${row.sellPrice}`);
+        });
+
+        if (matched) {
+            const output = {
+                timestamp: new Date().toISOString(),
+                ...matched
+            };
+            fs.writeFileSync('silver_price.json', JSON.stringify(output, null, 2));
+            console.log('\n✅ Lưu file silver_price.json thành công');
+        } else {
+            console.log('\n❌ Không tìm thấy dòng BẠC 1KILO');
+        }
+    } catch (err) {
+        console.error('❌ Lỗi khi crawl:', err);
     }
-
-    return { logs, matched };
-  });
-
-  console.log('\n📋 Dữ liệu từng dòng đã đọc được từ bảng:');
-  result.logs.forEach((row, i) => {
-    console.log(`🔸 [${i}] ${row.product} | ${row.unit} | Mua: ${row.buyPrice} | Bán: ${row.sellPrice}`);
-  });
-
-  if (result.matched) {
-    const output = {
-      timestamp: new Date().toISOString(),
-      ...result.matched
-    };
-    console.log('\n✅ Đã tìm thấy dòng khớp:');
-    console.log(output);
-
-    console.log('\n💾 Đang lưu vào silver_price.json...');
-    fs.writeFileSync('silver_price.json', JSON.stringify(output, null, 2));
-    console.log('✅ Đã lưu xong!');
-  } else {
-    console.log('\n❌ Không tìm thấy dòng BẠC 1KG nào!');
-  }
-
-  console.log('🛑 Đóng trình duyệt...');
-  await browser.close();
 })();
