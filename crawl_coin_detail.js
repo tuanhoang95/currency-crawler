@@ -14,6 +14,10 @@ function download(url) {
   });
 }
 
+function delay(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
 (async () => {
   try {
     console.log("📥 Fetching coin list...");
@@ -26,37 +30,27 @@ function download(url) {
       fs.mkdirSync(dir, { recursive: true });
     }
 
-    let index = 0;
+    // Lọc coin chưa có file json
+    const coinsToFetch = coinIds.filter(id => {
+      const filePath = path.join(dir, `${id}.json`);
+      return !fs.existsSync(filePath);
+    }).slice(0, 200); // chỉ lấy 200 coin chưa crawl
 
-    const interval = setInterval(async () => {
-      let count = 0;
-      while (index < coinIds.length && count < 3) {
-        const id = coinIds[index];
-        const filePath = path.join(dir, `${id}.json`);
+    console.log(`🔎 Sẽ lấy thông tin cho ${coinsToFetch.length} coin chưa crawl`);
 
-        if (fs.existsSync(filePath)) {
-          console.log(`🔹 Skip ${id}, file đã tồn tại.`);
-          index++;
-          continue;
-        }
-
-        try {
-          const url = `https://api.coingecko.com/api/v3/coins/${id}`;
-          const data = await download(url);
-          fs.writeFileSync(filePath, data);
-          console.log(`✅ [${index + 1}/${coinIds.length}] Đã lưu ${id}.json`);
-          count++;
-        } catch (err) {
-          console.warn(`⚠️ Lỗi tải ${id}: ${err.message}`);
-        }
-        index++;
+    for (const id of coinsToFetch) {
+      try {
+        const url = `https://api.coingecko.com/api/v3/coins/${id}`;
+        const data = await download(url);
+        fs.writeFileSync(path.join(dir, `${id}.json`), data);
+        console.log(`✅ Đã lưu ${id}.json`);
+        await delay(3000); // delay 3 giây = 20 request/phút
+      } catch (err) {
+        console.warn(`⚠️ Lỗi tải ${id}: ${err.message}`);
       }
+    }
 
-      if (index >= coinIds.length) {
-        clearInterval(interval);
-        console.log("✅ Hoàn thành tải thông tin coin.");
-      }
-    }, 60 * 1000); // 1 phút = 60000ms
+    console.log("✅ Hoàn thành batch crawl 200 coin.");
 
   } catch (err) {
     console.error("❌ Lỗi:", err.message);
