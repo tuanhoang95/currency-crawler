@@ -1,42 +1,45 @@
 name: Crawl Coin Detail Hourly
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '0 * * * *'  # mỗi giờ 1 lần
+  workflow_dispatch:        # 🧠 Cho phép chạy thủ công từ GitHub UI
+  push:                     # 🚀 Tự động chạy khi file crawl_coin_detail.js thay đổi
+    paths:
+      - 'crawl_coin_detail.js'
+  schedule:                 # ⏰ Tự động chạy mỗi giờ một lần (vào phút 0)
+    - cron: '0 * * * *'
 
 jobs:
   crawl:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # 🖥️ Dùng máy ảo Ubuntu mới nhất để chạy job
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - name: 🧾 Checkout code
+        uses: actions/checkout@v4  # Lấy code từ repository
 
-      - name: Pull latest changes
+      - name: 🔄 Pull latest changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git pull origin main || true
+          git pull origin main || true  # Luôn pull code mới để tránh xung đột khi push
 
-      - name: Setup Node.js
+      - name: 🛠️ Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18
+          node-version: 18  # Dùng Node.js version 18
 
-      - name: Install dependencies
-        run: npm install
+      - name: 📦 Install dependencies
+        run: npm install  # Cài các package từ package.json (nếu có)
 
-      - name: Run crawl script
+      - name: 🚀 Run crawl script
         run: node crawl_coin_detail.js
-        continue-on-error: true
+        continue-on-error: true  # ⚠️ Dù lỗi vẫn tiếp tục job
 
-      - name: Commit updated coin details
-        if: always()
+      - name: 💾 Commit updated coin details
+        if: always()  # 🔁 Luôn chạy dù có lỗi ở bước trước
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git pull origin main --rebase || true
+          git pull origin main --rebase || true  # Kéo code mới nhất để giảm xung đột
           git add coin/detail/
           git diff --cached --quiet || git commit -m "🪙 Update coin details $(date +'%Y-%m-%d %H:%M')"
           git push
