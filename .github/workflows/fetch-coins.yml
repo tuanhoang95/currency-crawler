@@ -1,0 +1,34 @@
+name: Fetch Coin List from CoinGecko
+
+on:
+  schedule:
+    - cron: '0 0 * * *'     # ⏰ Chạy hàng ngày lúc 00:00 UTC
+  workflow_dispatch:        # 🧠 Cho phép chạy thủ công từ GitHub UI
+  push:                     # 🚀 Tự động khi có thay đổi file JS
+    paths:
+      - 'fetch-coins.js'
+
+jobs:
+  fetch-coins:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 🚀 Run fetch-coins.js
+        run: node fetch-coins.js
+
+      - name: 💾 Commit and push all_coins.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add all_coins.json
+          git diff --cached --quiet || git commit -m "🪙 Update all_coins.json"
+          git push
+        continue-on-error: true
