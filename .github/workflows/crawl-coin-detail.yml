@@ -27,8 +27,8 @@ jobs:
         with:
           node-version: 18  # Dùng Node.js version 18
 
-      - name: 📦 Install dependencies
-        run: npm install  # Cài các package từ package.json (nếu có)
+      # - name: 📦 Install dependencies
+      #   run: npm install  # Cài các package từ package.json (nếu có)
 
       - name: 🚀 Run crawl script
         run: node crawl_coin_detail.js
