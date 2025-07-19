@@ -38,12 +38,13 @@ function delay(ms) {
 
     console.log(`🔎 Sẽ lấy thông tin cho ${coinsToFetch.length} coin chưa crawl`);
 
-    for (const id of coinsToFetch) {
+    for (let i = 0; i < coinsToFetch.length; i++) {
+      const id = coinsToFetch[i];
       try {
         const url = `https://api.coingecko.com/api/v3/coins/${id}`;
         const data = await download(url);
         fs.writeFileSync(path.join(dir, `${id}.json`), data);
-        console.log(`✅ Đã lưu ${id}.json`);
+        console.log(`[${i + 1}/${coinsToFetch.length}] Đã lưu ${id}.json`);
         await delay(3000); // delay 3 giây = 20 request/phút
       } catch (err) {
         console.warn(`⚠️ Lỗi tải ${id}: ${err.message}`);
