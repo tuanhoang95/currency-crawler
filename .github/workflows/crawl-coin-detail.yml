@@ -1,0 +1,31 @@
+name: Crawl Coin Detail
+
+on:
+  workflow_dispatch:  # Cho phép chạy thủ công từ GitHub UI
+  schedule:
+    - cron: '0 * * * *'  # Tự động chạy mỗi giờ (bạn có thể chỉnh lại theo nhu cầu)
+
+jobs:
+  crawl-coin-details:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 🚀 Run crawl_coin_detail.js
+        run: node crawl_coin_detail.js
+
+      - name: 💾 Commit & push coin details
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add coin/detail/
+          git diff --cached --quiet || git commit -m "🪙 Update coin details"
+          git push
+        continue-on-error: true
