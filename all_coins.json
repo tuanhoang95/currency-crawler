@@ -2325,6 +2325,11 @@
     "name": "aiAPIS"
   },
   {
+    "id": "aibrk",
+    "symbol": "aibrk",
+    "name": "aibrk"
+  },
+  {
     "id": "aicat",
     "symbol": "aicat",
     "name": "AICAT"
@@ -5125,11 +5130,6 @@
     "name": "Archethic"
   },
   {
-    "id": "archi-ai",
-    "symbol": "arai",
-    "name": "Archi AI"
-  },
-  {
     "id": "archie-the-cigar-poodle",
     "symbol": "archie",
     "name": "Archie the Cigar Poodle"
@@ -5438,11 +5438,6 @@
     "id": "army-of-fortune-gem",
     "symbol": "afg",
     "name": "Army of Fortune Gem"
-  },
-  {
-    "id": "army-of-fortune-metaverse",
-    "symbol": "afc",
-    "name": "Army of Fortune Metaverse"
   },
   {
     "id": "arnoya-classic",
@@ -7253,6 +7248,11 @@
     "id": "baby-maga",
     "symbol": "babymaga",
     "name": "Baby Maga"
+  },
+  {
+    "id": "baby-manyu",
+    "symbol": "babymanyu",
+    "name": "Baby Manyu"
   },
   {
     "id": "babymarvin-inu",
@@ -13645,6 +13645,11 @@
     "name": "Bruv"
   },
   {
+    "id": "bruv-2",
+    "symbol": "bruv",
+    "name": "bruv"
+  },
+  {
     "id": "brz",
     "symbol": "brz",
     "name": "Brazilian Digital"
@@ -17608,6 +17613,11 @@
     "id": "codemong-ai-games",
     "symbol": "coai",
     "name": "CodeMong Ai Games"
+  },
+  {
+    "id": "codeputerbot",
+    "symbol": "codeputer",
+    "name": "CodeputerBot"
   },
   {
     "id": "coder-gf",
@@ -27028,11 +27038,6 @@
     "id": "eqifi",
     "symbol": "eqx",
     "name": "EQIFi"
-  },
-  {
-    "id": "equalizer",
-    "symbol": "eqz",
-    "name": "Equalizer"
   },
   {
     "id": "equalizer-base",
@@ -44120,6 +44125,11 @@
     "name": "LINK yVault"
   },
   {
+    "id": "linos-ai",
+    "symbol": "lns",
+    "name": "Linos AI"
+  },
+  {
     "id": "linpuss",
     "symbol": "lpuss",
     "name": "Linpuss"
@@ -44293,11 +44303,6 @@
     "id": "liquid-solana-derivative",
     "symbol": "lsd",
     "name": "Liquid Solana Derivative"
-  },
-  {
-    "id": "liquid-staked-canto",
-    "symbol": "scanto",
-    "name": "Liquid Staked Canto"
   },
   {
     "id": "liquid-staked-ethereum",
@@ -45298,11 +45303,6 @@
     "id": "luckyinu",
     "symbol": "lucky",
     "name": "Luckyinu"
-  },
-  {
-    "id": "lucky-mio",
-    "symbol": "lmi",
-    "name": "Lucky Mio"
   },
   {
     "id": "luckysleprecoin",
@@ -55600,6 +55600,11 @@
     "name": "OpenKaito"
   },
   {
+    "id": "openledger-2",
+    "symbol": "open",
+    "name": "Openledger"
+  },
+  {
     "id": "openleverage",
     "symbol": "ole",
     "name": "OpenLeverage"
@@ -65705,11 +65710,6 @@
     "name": "Sakai Vault"
   },
   {
-    "id": "sake-inu",
-    "symbol": "sake",
-    "name": "Sake Inu"
-  },
-  {
     "id": "sake-token",
     "symbol": "sake",
     "name": "SakeSwap"
@@ -69425,11 +69425,6 @@
     "name": "Solana"
   },
   {
-    "id": "solana-arcade",
-    "symbol": "solcade",
-    "name": "Solana Arcade"
-  },
-  {
     "id": "solana-beach",
     "symbol": "solana",
     "name": "Solana Beach"
@@ -69808,11 +69803,6 @@
     "id": "solgram",
     "symbol": "gram",
     "name": "SOLGRAM"
-  },
-  {
-    "id": "solgraph",
-    "symbol": "graph",
-    "name": "SolGraph"
   },
   {
     "id": "solgun-sniper",
@@ -73678,11 +73668,6 @@
     "id": "surge-2",
     "symbol": "srg",
     "name": "SURGE"
-  },
-  {
-    "id": "surrealverse",
-    "symbol": "azee",
-    "name": "SurrealVerse"
   },
   {
     "id": "survarium",
@@ -80098,6 +80083,11 @@
     "id": "vaiot",
     "symbol": "vai",
     "name": "VAIOT"
+  },
+  {
+    "id": "vala-capital-markets",
+    "symbol": "vcm",
+    "name": "VALA CAPITAL MARKETS"
   },
   {
     "id": "valencia-cf-fan-token",
