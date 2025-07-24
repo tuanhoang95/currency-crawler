@@ -50,11 +50,6 @@
     "name": "Landwolf"
   },
   {
-    "id": "0xcoco",
-    "symbol": "coco",
-    "name": "0xCoco"
-  },
-  {
     "id": "0xgasless-2",
     "symbol": "0xgas",
     "name": "0xGasless"
@@ -643,6 +638,11 @@
     "id": "aark-digital",
     "symbol": "aark",
     "name": "Aark Digital"
+  },
+  {
+    "id": "aarna-atv111",
+    "symbol": "atv111",
+    "name": "aarna atv111"
   },
   {
     "id": "aastoken",
@@ -1980,6 +1980,11 @@
     "name": "Agent Arena by Masa"
   },
   {
+    "id": "agent-bapo",
+    "symbol": "bapo",
+    "name": "AGENT BAPO"
+  },
+  {
     "id": "agentcoin-tv",
     "symbol": "aitv",
     "name": "AITV"
@@ -2203,11 +2208,6 @@
     "id": "ago",
     "symbol": "ago",
     "name": "ago"
-  },
-  {
-    "id": "agora-ausd-katana",
-    "symbol": "ausd",
-    "name": "Agora AUSD (Katana)"
   },
   {
     "id": "agora-by-virtuals",
@@ -2810,11 +2810,6 @@
     "name": "AI Trader Agent"
   },
   {
-    "id": "aitrump",
-    "symbol": "aitrump",
-    "name": "AITRUMP"
-  },
-  {
     "id": "aittcoin",
     "symbol": "aitt",
     "name": "Aittcoin"
@@ -2983,11 +2978,6 @@
     "id": "akropolis",
     "symbol": "kaon",
     "name": "Kaon"
-  },
-  {
-    "id": "aktionariat-alan-frei-company-tokenized-shares",
-    "symbol": "afs",
-    "name": "Aktionariat Alan Frei Company Tokenized Shares"
   },
   {
     "id": "aktionariat-axelra-early-stage-ag-tokenized-shares",
@@ -4365,6 +4355,11 @@
     "name": "Anime"
   },
   {
+    "id": "animecoin-2",
+    "symbol": "ani",
+    "name": "Animecoin"
+  },
+  {
     "id": "animefication",
     "symbol": "anime",
     "name": "Animefication"
@@ -4848,6 +4843,11 @@
     "id": "aptos",
     "symbol": "apt",
     "name": "Aptos"
+  },
+  {
+    "id": "aptos-bridged-wbtc-aptos",
+    "symbol": "wbtc",
+    "name": "Aptos Bridged WBTC (Aptos)"
   },
   {
     "id": "aptos-launch-token",
@@ -7223,11 +7223,6 @@
     "id": "baby-goatseus-maximus",
     "symbol": "babygoat",
     "name": "Baby Goatseus Maximus"
-  },
-  {
-    "id": "baby-grok",
-    "symbol": "babygrok",
-    "name": "Baby Grok"
   },
   {
     "id": "baby-grok-4",
@@ -12088,6 +12083,11 @@
     "id": "boner",
     "symbol": "$boner",
     "name": "BONER"
+  },
+  {
+    "id": "boner-2",
+    "symbol": "boner",
+    "name": "boner"
   },
   {
     "id": "bonerium-boneswap",
@@ -21570,6 +21570,11 @@
     "name": "Defibox bRAM"
   },
   {
+    "id": "defi-cattos",
+    "symbol": "cattos",
+    "name": "Defi Cattos"
+  },
+  {
     "id": "defichain",
     "symbol": "dfi",
     "name": "DeFiChain"
@@ -21723,6 +21728,11 @@
     "id": "defit",
     "symbol": "defit",
     "name": "Digital Fitness"
+  },
+  {
+    "id": "defituna",
+    "symbol": "tuna",
+    "name": "DeFituna"
   },
   {
     "id": "defive",
@@ -23933,6 +23943,11 @@
     "id": "dogemoon",
     "symbol": "dogemoon",
     "name": "Dogemoon"
+  },
+  {
+    "id": "dogenerates",
+    "symbol": "dogen",
+    "name": "Dogenerates"
   },
   {
     "id": "doge-of-grok-ai",
@@ -26865,6 +26880,11 @@
     "name": "Energy8"
   },
   {
+    "id": "energy-coin",
+    "symbol": "energy",
+    "name": "ENERGY COIN"
+  },
+  {
     "id": "energy-efficient-mortgage-tokenized-stock-defichain",
     "symbol": "deem",
     "name": "iShares MSCI Emerging Markets ETF Defichain"
@@ -27850,11 +27870,6 @@
     "name": "EverETH Reflect"
   },
   {
-    "id": "evereth-2",
-    "symbol": "eeth",
-    "name": "EverETH"
-  },
-  {
     "id": "everid",
     "symbol": "id",
     "name": "Everest"
@@ -28495,6 +28510,11 @@
     "name": "FARM"
   },
   {
+    "id": "farmai",
+    "symbol": "farmai",
+    "name": "FarmAI"
+  },
+  {
     "id": "farmers-world-wood",
     "symbol": "fww",
     "name": "Farmers World Wood"
@@ -28688,11 +28708,6 @@
     "id": "fatgf",
     "symbol": "fatgf",
     "name": "FATGF"
-  },
-  {
-    "id": "fat-guy",
-    "symbol": "fatguy",
-    "name": "FAT GUY"
   },
   {
     "id": "father-of-meme-origin",
@@ -29623,6 +29638,11 @@
     "id": "flipr",
     "symbol": "flipr",
     "name": "Flipr"
+  },
+  {
+    "id": "flip-the-frog",
+    "symbol": "flip",
+    "name": "Flip the Frog"
   },
   {
     "id": "flits",
@@ -31500,11 +31520,6 @@
     "name": "Game Bee"
   },
   {
-    "id": "gamebitcoin-power",
-    "symbol": "pwr",
-    "name": "Gamebitcoin Power"
-  },
-  {
     "id": "gameboy",
     "symbol": "gboy",
     "name": "GameBoy"
@@ -32255,6 +32270,11 @@
     "name": "GenomeFi"
   },
   {
+    "id": "genome-protocol",
+    "symbol": "nome",
+    "name": "Genome Protocol"
+  },
+  {
     "id": "genomesdao",
     "symbol": "$gene",
     "name": "GenomesDAO GENE"
@@ -32758,11 +32778,6 @@
     "id": "gizmo-imaginary-kitten-runes",
     "symbol": "gizmo",
     "name": "GIZMO"
-  },
-  {
-    "id": "glacier-network",
-    "symbol": "gls",
-    "name": "Glacier Network"
   },
   {
     "id": "glades",
@@ -34350,6 +34365,11 @@
     "name": "Grok Queen"
   },
   {
+    "id": "grokrooms",
+    "symbol": "grokrooms",
+    "name": "Grokrooms"
+  },
+  {
     "id": "grokster",
     "symbol": "grk",
     "name": "Grokster"
@@ -35008,6 +35028,11 @@
     "id": "hana-by-virtuals",
     "symbol": "hana",
     "name": "Hana by Virtuals"
+  },
+  {
+    "id": "hana-network",
+    "symbol": "hana",
+    "name": "Hana Network"
   },
   {
     "id": "hanbao",
@@ -37770,6 +37795,11 @@
     "name": "iiii lovvvv youuuu"
   },
   {
+    "id": "ika",
+    "symbol": "ika",
+    "name": "Ika"
+  },
+  {
     "id": "ikigai",
     "symbol": "ikigai",
     "name": "Ikigai"
@@ -39900,6 +39930,11 @@
     "name": "Jonny Five"
   },
   {
+    "id": "jooce",
+    "symbol": "jooce",
+    "name": "JOOCE"
+  },
+  {
     "id": "jooce-memecoin-index",
     "symbol": "jmx",
     "name": "JOOCE Memecoin Index"
@@ -41400,11 +41435,6 @@
     "name": "Kingdom of ANTs ANT Coins"
   },
   {
-    "id": "kingdomverse",
-    "symbol": "king",
-    "name": "Kingdomverse"
-  },
-  {
     "id": "kingdomx",
     "symbol": "kt",
     "name": "KingdomX"
@@ -41643,6 +41673,11 @@
     "id": "kittywifhat",
     "symbol": "kwh",
     "name": "Kittywifhat"
+  },
+  {
+    "id": "kiwi-2",
+    "symbol": "kiwi",
+    "name": "Kiwi"
   },
   {
     "id": "kiwi-meme",
@@ -44680,6 +44715,11 @@
     "name": "LMGroupToken"
   },
   {
+    "id": "lnfi-network",
+    "symbol": "ln",
+    "name": "Lnfi Network"
+  },
+  {
     "id": "loaded-lions",
     "symbol": "lion",
     "name": "Loaded Lions"
@@ -45653,6 +45693,11 @@
     "id": "lunr-token",
     "symbol": "lunr",
     "name": "LunarCrush"
+  },
+  {
+    "id": "luntra-infrastructure",
+    "symbol": "$luntra",
+    "name": "Luntra Infrastructure"
   },
   {
     "id": "lusd",
@@ -46743,6 +46788,11 @@
     "id": "marblex",
     "symbol": "mbx",
     "name": "MARBLEX"
+  },
+  {
+    "id": "marcat-maker",
+    "symbol": "marcat",
+    "name": "marcat maker"
   },
   {
     "id": "marcopolo",
@@ -47995,6 +48045,11 @@
     "name": "MemePad"
   },
   {
+    "id": "memerot",
+    "symbol": "memerot",
+    "name": "Memerot"
+  },
+  {
     "id": "memerwa",
     "symbol": "merwa",
     "name": "memerwa"
@@ -48482,7 +48537,7 @@
   {
     "id": "metahub-finance",
     "symbol": "men",
-    "name": "MetaHub"
+    "name": "DAC Platform"
   },
   {
     "id": "metainside-by-virtuals",
@@ -50515,6 +50570,11 @@
     "name": "Monsterra MAG"
   },
   {
+    "id": "moo",
+    "symbol": "moo",
+    "name": "Moo"
+  },
+  {
     "id": "moocat",
     "symbol": "moocat",
     "name": "MooCat [OLD]"
@@ -52208,6 +52268,11 @@
     "id": "nanometer-bitcoin",
     "symbol": "nmbtc",
     "name": "NanoMeter Bitcoin"
+  },
+  {
+    "id": "naoris",
+    "symbol": "naoris",
+    "name": "Naoris Protocol"
   },
   {
     "id": "naos-finance",
@@ -56722,7 +56787,12 @@
   {
     "id": "oxygen",
     "symbol": "oxy",
-    "name": "Oxygen"
+    "name": "Oxygen (Solana)"
+  },
+  {
+    "id": "oxygen-ethereum",
+    "symbol": "oxy",
+    "name": "Oxygen (Ethereum)"
   },
   {
     "id": "ozak-ai",
@@ -57983,11 +58053,6 @@
     "id": "pennystocks",
     "symbol": "pennystock",
     "name": "pennystocks"
-  },
-  {
-    "id": "penos",
-    "symbol": "penos",
-    "name": "PENOS"
   },
   {
     "id": "penose",
@@ -64600,6 +64665,11 @@
     "name": "XRP"
   },
   {
+    "id": "ripplebids",
+    "symbol": "xrpb-sol",
+    "name": "Ripplebids"
+  },
+  {
     "id": "ripples",
     "symbol": "rpls",
     "name": "Ripples"
@@ -66818,11 +66888,6 @@
     "id": "sdoge",
     "symbol": "sdoge",
     "name": "SDOGE"
-  },
-  {
-    "id": "s-d-o-g-e-on-tron",
-    "symbol": "sdoge",
-    "name": "S.D.O.G.E on Tron"
   },
   {
     "id": "sdola",
@@ -71352,7 +71417,12 @@
   {
     "id": "spookyswap",
     "symbol": "boo",
-    "name": "Spookyswap"
+    "name": "SpookySwap [Old]"
+  },
+  {
+    "id": "spookyswap-2",
+    "symbol": "boo",
+    "name": "SpookySwap"
   },
   {
     "id": "spookyswap-bridged-wbnb-fantom",
@@ -72268,6 +72338,11 @@
     "id": "stargate-finance",
     "symbol": "stg",
     "name": "Stargate Finance"
+  },
+  {
+    "id": "stargate-wrapped-eeth-scroll",
+    "symbol": "weeth",
+    "name": "Stargate Bridged weETH (Scroll)"
   },
   {
     "id": "stargaze",
@@ -73771,7 +73846,7 @@
   },
   {
     "id": "superior",
-    "symbol": "$superior",
+    "symbol": "superior",
     "name": "SUPERIOR"
   },
   {
@@ -76440,6 +76515,11 @@
     "name": "Thief Cat"
   },
   {
+    "id": "think-protocol",
+    "symbol": "think",
+    "name": "THINK Protocol"
+  },
+  {
     "id": "thirstcoin",
     "symbol": "thirstcoin",
     "name": "Thirstcoin"
@@ -78235,11 +78315,6 @@
     "name": "TronClassic"
   },
   {
-    "id": "trondog",
-    "symbol": "trondog",
-    "name": "TronDog"
-  },
-  {
     "id": "tronkey",
     "symbol": "tronkey",
     "name": "TRONKEY"
@@ -78493,6 +78568,11 @@
     "id": "trust-protocol-ai",
     "symbol": "trust",
     "name": "TRUST Protocol AI"
+  },
+  {
+    "id": "trustra",
+    "symbol": "trust",
+    "name": "Trustra"
   },
   {
     "id": "trustswap",
@@ -84543,6 +84623,11 @@
     "id": "wrapped-dinamo-zagreb-kayen",
     "symbol": "wdzg",
     "name": "Wrapped Dinamo Zagreb (Kayen)"
+  },
+  {
+    "id": "wrapped-dione",
+    "symbol": "dione",
+    "name": "Wrapped Dione"
   },
   {
     "id": "wrapped-dmt",
