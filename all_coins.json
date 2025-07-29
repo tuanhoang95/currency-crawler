@@ -565,6 +565,11 @@
     "name": "9to5io"
   },
   {
+    "id": "a0x",
+    "symbol": "a0x",
+    "name": "A0x"
+  },
+  {
     "id": "a16gems",
     "symbol": "a16g",
     "name": "a16gems"
@@ -8520,11 +8525,6 @@
     "name": "BASEY AI Agent"
   },
   {
-    "id": "base-yield-index",
-    "symbol": "bsdx",
-    "name": "Base Yield Index"
-  },
-  {
     "id": "basic-attention-token",
     "symbol": "bat",
     "name": "Basic Attention"
@@ -8943,11 +8943,6 @@
     "id": "befi-labs",
     "symbol": "befi",
     "name": "BeFi Labs"
-  },
-  {
-    "id": "befitter",
-    "symbol": "fiu",
-    "name": "beFITTER"
   },
   {
     "id": "be-for-fwx",
@@ -12482,6 +12477,11 @@
   {
     "id": "boots",
     "symbol": "boots",
+    "name": "boots [OLD]"
+  },
+  {
+    "id": "boots-2",
+    "symbol": "boots",
     "name": "boots"
   },
   {
@@ -15373,11 +15373,6 @@
     "id": "catscoin-2",
     "symbol": "cats",
     "name": "Catscoin"
-  },
-  {
-    "id": "cats-do-something",
-    "symbol": "cds",
-    "name": "Cats Do Something"
   },
   {
     "id": "catseye",
@@ -28550,6 +28545,11 @@
     "name": "Farcaster Flower"
   },
   {
+    "id": "farcats",
+    "symbol": "farcats",
+    "name": "Farcats"
+  },
+  {
     "id": "farlaunch",
     "symbol": "far",
     "name": "FarLaunch"
@@ -31195,6 +31195,11 @@
     "name": "Furucombo"
   },
   {
+    "id": "fusd-by-the-fedz",
+    "symbol": "fusd",
+    "name": "The Fedz FUSD"
+  },
+  {
     "id": "fuse-bridged-wbnb-fuse",
     "symbol": "wbnb",
     "name": "Fuse Bridged WBNB (Fuse)"
@@ -31387,6 +31392,11 @@
   {
     "id": "gaia-2",
     "symbol": "sn57",
+    "name": "Gaia"
+  },
+  {
+    "id": "gaia-3",
+    "symbol": "gaia",
     "name": "Gaia"
   },
   {
@@ -32645,6 +32655,11 @@
     "name": "Gigacat"
   },
   {
+    "id": "gigacat-3",
+    "symbol": "gcat",
+    "name": "GigaCat"
+  },
+  {
     "id": "gigachad-2",
     "symbol": "giga",
     "name": "Gigachad"
@@ -33750,6 +33765,11 @@
     "name": "gooncoin"
   },
   {
+    "id": "gooncoin-2",
+    "symbol": "goon",
+    "name": "GOONCOIN"
+  },
+  {
     "id": "gooner",
     "symbol": "gooner",
     "name": "Gooner"
@@ -34778,6 +34798,11 @@
     "id": "h2",
     "symbol": "$h2",
     "name": "H2 Finance"
+  },
+  {
+    "id": "h-2",
+    "symbol": "h",
+    "name": "H"
   },
   {
     "id": "h2finance",
@@ -37215,11 +37240,6 @@
     "name": "HYDT"
   },
   {
-    "id": "hyena",
-    "symbol": "hyena",
-    "name": "HYENA"
-  },
-  {
     "id": "hygea-ai",
     "symbol": "hgai",
     "name": "Hygea AI"
@@ -38498,6 +38518,11 @@
     "id": "innoviatrust",
     "symbol": "inva",
     "name": "InnoviaTrust"
+  },
+  {
+    "id": "innovosens",
+    "symbol": "isens",
+    "name": "Innovosens"
   },
   {
     "id": "inoai",
@@ -39940,6 +39965,11 @@
     "name": "John the Coin"
   },
   {
+    "id": "john-tsubasa-rivals",
+    "symbol": "john",
+    "name": "John Tsubasa Rivals"
+  },
+  {
     "id": "joi",
     "symbol": "joi",
     "name": "Joi"
@@ -40303,6 +40333,11 @@
     "id": "just-buy-1-worth-of-this-coin",
     "symbol": "$1",
     "name": "just buy $1 worth of this coin"
+  },
+  {
+    "id": "just-can-t-prove-it",
+    "symbol": "detective",
+    "name": "Just can't prove it"
   },
   {
     "id": "just-cuz",
@@ -41248,6 +41283,11 @@
     "id": "kewl-exchange",
     "symbol": "kwl",
     "name": "KEWL EXCHANGE"
+  },
+  {
+    "id": "key-2",
+    "symbol": "key",
+    "name": "KEY"
   },
   {
     "id": "keyboard-cat",
@@ -45278,11 +45318,6 @@
     "id": "loser-coin",
     "symbol": "lowb",
     "name": "Loser Coin"
-  },
-  {
-    "id": "los-on-sol",
-    "symbol": "los",
-    "name": "Los on Sol"
   },
   {
     "id": "lossless",
@@ -52160,6 +52195,11 @@
     "name": "Mystic Treasure"
   },
   {
+    "id": "mystify",
+    "symbol": "myst",
+    "name": "Mystify"
+  },
+  {
     "id": "mythos",
     "symbol": "myth",
     "name": "Mythos"
@@ -54426,8 +54466,8 @@
   },
   {
     "id": "novas",
-    "symbol": "novas",
-    "name": "NOVAS"
+    "symbol": "xnl",
+    "name": "XNL"
   },
   {
     "id": "nova-tether-usd",
@@ -62160,11 +62200,6 @@
     "name": "PWOG"
   },
   {
-    "id": "pyges",
-    "symbol": "pyges",
-    "name": "Pyges"
-  },
-  {
     "id": "pygmy-hippo",
     "symbol": "kobushi",
     "name": "Pygmy Hippo"
@@ -64461,7 +64496,7 @@
   },
   {
     "id": "rhea-2",
-    "symbol": "$rhea",
+    "symbol": "rhea",
     "name": "RHEA"
   },
   {
@@ -65208,6 +65243,11 @@
     "id": "rook",
     "symbol": "rook",
     "name": "Rook"
+  },
+  {
+    "id": "rookie-card",
+    "symbol": "rookie",
+    "name": "ROOKIE CARD"
   },
   {
     "id": "roolz",
@@ -69850,6 +69890,11 @@
     "name": "Solana Spaces"
   },
   {
+    "id": "solana-stock-index",
+    "symbol": "ssx",
+    "name": "Solana Stock Index"
+  },
+  {
     "id": "solana-street-bets",
     "symbol": "ssb",
     "name": "Solana Street Bets"
@@ -71158,6 +71203,11 @@
     "id": "spatial-computing",
     "symbol": "cmpt",
     "name": "Spatial Computing"
+  },
+  {
+    "id": "spawn-tools",
+    "symbol": "spawn",
+    "name": "Spawn Tools"
   },
   {
     "id": "spdr-s-p-500-etf-trust-defichain",
@@ -74265,11 +74315,6 @@
     "name": "Swell"
   },
   {
-    "id": "swell-restaked-btc",
-    "symbol": "swbtc",
-    "name": "Swell Restaked BTC"
-  },
-  {
     "id": "sweply",
     "symbol": "swply",
     "name": "Sweply"
@@ -75308,6 +75353,11 @@
     "id": "teddyonheels",
     "symbol": "toh",
     "name": "TeddyOnHeels"
+  },
+  {
+    "id": "teddy-the-tile-doge",
+    "symbol": "teddy",
+    "name": "Teddy the Tile Doge"
   },
   {
     "id": "te-food",
@@ -79610,6 +79660,11 @@
     "name": "UNIT DAO"
   },
   {
+    "id": "unite-2",
+    "symbol": "unite",
+    "name": "Unite"
+  },
+  {
     "id": "united-base-postal",
     "symbol": "ubps",
     "name": "United Base Postal"
@@ -79993,6 +80048,11 @@
     "id": "ura-dex",
     "symbol": "ura",
     "name": "Ura"
+  },
+  {
+    "id": "uranium",
+    "symbol": "xu3o8",
+    "name": "Uranium"
   },
   {
     "id": "uraniumx",
@@ -86383,6 +86443,11 @@
     "id": "xgrav_astrovault",
     "symbol": "xgrav",
     "name": "xGRAV_Astrovault"
+  },
+  {
+    "id": "xgrok",
+    "symbol": "xgrok",
+    "name": "XGrok"
   },
   {
     "id": "xgrow",
