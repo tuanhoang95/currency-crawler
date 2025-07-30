@@ -635,9 +635,19 @@
     "name": "Aark Digital"
   },
   {
+    "id": "aarna-afi-802v2",
+    "symbol": "afi 802v2",
+    "name": "aarna afi 802v2"
+  },
+  {
     "id": "aarna-atv111",
     "symbol": "atv111",
     "name": "aarna atv111"
+  },
+  {
+    "id": "aarna-atv-808",
+    "symbol": "atv808",
+    "name": "aarna atv 808"
   },
   {
     "id": "aastoken",
@@ -2265,6 +2275,11 @@
     "name": "A Hunters Dream"
   },
   {
+    "id": "ai",
+    "symbol": "ai4",
+    "name": "AI⁴"
+  },
+  {
     "id": "ai16z",
     "symbol": "ai16z",
     "name": "ai16z"
@@ -3290,11 +3305,6 @@
     "name": "AdaptLearnIntellectCompanyEngine"
   },
   {
-    "id": "alicenet",
-    "symbol": "alca",
-    "name": "AliceNet"
-  },
-  {
     "id": "alicius-muskimus",
     "symbol": "acm",
     "name": "Alicius Muskimus"
@@ -3945,11 +3955,6 @@
     "name": "AMERICA IS BACK"
   },
   {
-    "id": "american-bitcoin",
-    "symbol": "abtc",
-    "name": "American Bitcoin"
-  },
-  {
     "id": "american-coin",
     "symbol": "usa",
     "name": "American Coin"
@@ -4583,6 +4588,11 @@
     "id": "ape-and-pepe",
     "symbol": "apepe",
     "name": "Ape and Pepe"
+  },
+  {
+    "id": "apechainhoes",
+    "symbol": "hoes",
+    "name": "ApeChainHOES"
   },
   {
     "id": "apecoin",
@@ -9430,11 +9440,6 @@
     "name": "BFIC Coin"
   },
   {
-    "id": "bha",
-    "symbol": "bha",
-    "name": "BHA"
-  },
-  {
     "id": "b-h-a-d",
     "symbol": "bhad",
     "name": "B.H.A.D"
@@ -9780,7 +9785,17 @@
     "name": "Billy"
   },
   {
+    "id": "billy-base",
+    "symbol": "billy",
+    "name": "Billy Base"
+  },
+  {
     "id": "billy-bets-by-virtuals",
+    "symbol": "$billy",
+    "name": "Billy Bets by Virtuals [OLD]"
+  },
+  {
+    "id": "billy-bets-by-virtuals-2",
     "symbol": "$billy",
     "name": "Billy Bets by Virtuals"
   },
@@ -11328,6 +11343,11 @@
     "id": "blocktools",
     "symbol": "tools",
     "name": "Blocktools"
+  },
+  {
+    "id": "blocktrader365",
+    "symbol": "bt365",
+    "name": "BlockTrader365"
   },
   {
     "id": "blockv",
@@ -18525,6 +18545,11 @@
     "name": "Cook"
   },
   {
+    "id": "cook-4",
+    "symbol": "cook",
+    "name": "cook"
+  },
+  {
     "id": "cook-cat",
     "symbol": "ccat",
     "name": "Cook Cat"
@@ -20018,6 +20043,11 @@
     "id": "ct100-index",
     "symbol": "ct100",
     "name": "CT100 INDEX"
+  },
+  {
+    "id": "ct-bonk",
+    "symbol": "ct",
+    "name": "草台班"
   },
   {
     "id": "cthulhu-finance",
@@ -21972,7 +22002,12 @@
   {
     "id": "degenx",
     "symbol": "dgnx",
-    "name": "DegenX"
+    "name": "DegenX (Avalanche)"
+  },
+  {
+    "id": "degenx-ethereum",
+    "symbol": "dgnx",
+    "name": "DegenX (Ethereum)"
   },
   {
     "id": "degen-zoo",
@@ -28945,6 +28980,11 @@
     "name": "Feline Fury"
   },
   {
+    "id": "felis",
+    "symbol": "felis",
+    "name": "Felis"
+  },
+  {
     "id": "felix",
     "symbol": "flx",
     "name": "Felix"
@@ -29488,6 +29528,11 @@
     "id": "flame-3",
     "symbol": "flame",
     "name": "Flame"
+  },
+  {
+    "id": "flame-4",
+    "symbol": "flame",
+    "name": "FLAME"
   },
   {
     "id": "flamengo-fan-token",
@@ -30248,6 +30293,11 @@
     "id": "forex-lens",
     "symbol": "forexlens",
     "name": "Forex Lens"
+  },
+  {
+    "id": "forge3",
+    "symbol": "forge",
+    "name": "Forge3"
   },
   {
     "id": "forgive-me-father",
@@ -33608,11 +33658,6 @@
     "id": "gone",
     "symbol": "gone",
     "name": "Gone"
-  },
-  {
-    "id": "gonfty",
-    "symbol": "gnfty",
-    "name": "GoNFTY"
   },
   {
     "id": "gong",
@@ -37990,6 +38035,11 @@
     "name": "Imagine"
   },
   {
+    "id": "imagine-2",
+    "symbol": "imagine",
+    "name": "IMAGINE"
+  },
+  {
     "id": "imaro",
     "symbol": "imaro",
     "name": "IMARO"
@@ -42116,7 +42166,7 @@
   },
   {
     "id": "kommunitas-2",
-    "symbol": "kommunitas token",
+    "symbol": "kom",
     "name": "Kommunitas"
   },
   {
@@ -43458,6 +43508,11 @@
     "id": "leeds-united-fan-token",
     "symbol": "lufc",
     "name": "Leeds United Fan Token"
+  },
+  {
+    "id": "leemonhead",
+    "symbol": "leemon",
+    "name": "LeemonHead"
   },
   {
     "id": "lee-quid",
@@ -45428,11 +45483,6 @@
     "id": "lower",
     "symbol": "lower",
     "name": "lower"
-  },
-  {
-    "id": "lowq",
-    "symbol": "lowq",
-    "name": "LowQ"
   },
   {
     "id": "low-quality-cat",
@@ -56555,11 +56605,6 @@
     "name": "Origin Dollar"
   },
   {
-    "id": "origin-dollar-governance",
-    "symbol": "ogv",
-    "name": "Origin DeFi Governance"
-  },
-  {
     "id": "origin-ether",
     "symbol": "oeth",
     "name": "Origin Ether"
@@ -59105,11 +59150,6 @@
     "name": "Pig Finance"
   },
   {
-    "id": "pigga",
-    "symbol": "pigga",
-    "name": "Pigga"
-  },
-  {
     "id": "pigged-by-piggy",
     "symbol": "$piggy",
     "name": "PIGGED•BY•PIGGY"
@@ -59733,6 +59773,11 @@
     "id": "playpad",
     "symbol": "ppad",
     "name": "PlayPad"
+  },
+  {
+    "id": "playsout",
+    "symbol": "play",
+    "name": "PlaysOut"
   },
   {
     "id": "play-to-create",
@@ -65510,6 +65555,11 @@
     "name": "RUGPROOF"
   },
   {
+    "id": "rugproof-launchpad",
+    "symbol": "$rugproof",
+    "name": "RugProof Launchpad"
+  },
+  {
     "id": "rugpull",
     "symbol": "rugpull",
     "name": "Brian"
@@ -67176,7 +67226,7 @@
   },
   {
     "id": "sei-bridged-wbtc-sei",
-    "symbol": "",
+    "symbol": "wbtc",
     "name": "Sei Bridged WBTC (Sei)"
   },
   {
@@ -68295,11 +68345,6 @@
     "name": "Shoulda Bought More"
   },
   {
-    "id": "show-plus-chain",
-    "symbol": "shc2",
-    "name": "ShowPlus Chain 2.0"
-  },
-  {
     "id": "shping",
     "symbol": "shping",
     "name": "Shping"
@@ -69093,6 +69138,11 @@
     "id": "slop",
     "symbol": "slop",
     "name": "Slop"
+  },
+  {
+    "id": "slopana",
+    "symbol": "slopana",
+    "name": "Slopana"
   },
   {
     "id": "slopfather",
@@ -70488,11 +70538,6 @@
     "id": "solv-protocol-solvbtc-core",
     "symbol": "solvbtc.core",
     "name": "Solv Protocol SolvBTC.CORE"
-  },
-  {
-    "id": "solv-protocol-solvbtc-ena",
-    "symbol": "solvbtc.trading",
-    "name": "SolvBTC Trading Strategies Vault"
   },
   {
     "id": "solv-protocol-solvbtc-jupiter",
@@ -74740,6 +74785,11 @@
     "name": "Taboo"
   },
   {
+    "id": "taboshi",
+    "symbol": "taboshi",
+    "name": "Taboshi"
+  },
+  {
     "id": "tabtrader",
     "symbol": "ttt",
     "name": "TabTrader"
@@ -76325,6 +76375,11 @@
     "name": "THE•ORDZAAR•RUNES (Runes)"
   },
   {
+    "id": "theoriq",
+    "symbol": "thq",
+    "name": "Theoriq"
+  },
+  {
     "id": "theos",
     "symbol": "theos",
     "name": "Theos"
@@ -77720,6 +77775,11 @@
     "name": "TORA NEKO"
   },
   {
+    "id": "torch-of-liberty",
+    "symbol": "liberty",
+    "name": "Torch of Liberty"
+  },
+  {
     "id": "tori-the-cat",
     "symbol": "tori",
     "name": "Tori the Cat"
@@ -78815,11 +78875,6 @@
     "name": "Tubbi"
   },
   {
-    "id": "tucker",
-    "symbol": "tucker",
-    "name": "Tucker"
-  },
-  {
     "id": "tucker-carlson",
     "symbol": "tucker",
     "name": "TUCKER CARLSON"
@@ -79445,6 +79500,11 @@
     "name": "Uni2token"
   },
   {
+    "id": "uniart",
+    "symbol": "uniart",
+    "name": "UNIART"
+  },
+  {
     "id": "unibit",
     "symbol": "uibt",
     "name": "Unibit"
@@ -79508,6 +79568,11 @@
     "id": "unicorn-fart-dust",
     "symbol": "ufd",
     "name": "Unicorn Fart Dust"
+  },
+  {
+    "id": "unicorn-meat",
+    "symbol": "w🍖",
+    "name": "Unicorn Meat"
   },
   {
     "id": "unicorn-metaverse",
@@ -83193,6 +83258,11 @@
     "id": "what-in-tarnation",
     "symbol": "wit",
     "name": "What in Tarnation?"
+  },
+  {
+    "id": "whatrr",
+    "symbol": "whatrr",
+    "name": "WHATRR"
   },
   {
     "id": "what-s-updog",
@@ -88688,6 +88758,11 @@
     "id": "zircuit-bridged-weth-zircuit",
     "symbol": "weth",
     "name": "Zircuit Bridged WETH (Zircuit)"
+  },
+  {
+    "id": "zirodelta",
+    "symbol": "zdlt",
+    "name": "Zirodelta"
   },
   {
     "id": "zivoe-vault",
