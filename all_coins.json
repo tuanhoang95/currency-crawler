@@ -1655,6 +1655,11 @@
     "name": "ADA"
   },
   {
+    "id": "addepar-prestocks",
+    "symbol": "adepar",
+    "name": "Addepar PreStocks"
+  },
+  {
     "id": "add-finance",
     "symbol": "add",
     "name": "Add Finance"
@@ -4255,6 +4260,11 @@
     "name": "Andromeda"
   },
   {
+    "id": "anduril-prestocks",
+    "symbol": "andurl",
+    "name": "Anduril PreStocks"
+  },
+  {
     "id": "anduschain",
     "symbol": "deb",
     "name": "AndUsChain"
@@ -4548,6 +4558,11 @@
     "id": "antfarm-token",
     "symbol": "atf",
     "name": "Antfarm Token"
+  },
+  {
+    "id": "anthropic-prestocks",
+    "symbol": "anthrp",
+    "name": "Anthropic PreStocks"
   },
   {
     "id": "anti-goatse",
@@ -4883,6 +4898,11 @@
     "id": "applovin-xstock",
     "symbol": "appx",
     "name": "AppLovin xStock"
+  },
+  {
+    "id": "apptronik-prestocks",
+    "symbol": "aptrnk",
+    "name": "Apptronik PreStocks"
   },
   {
     "id": "apraemio",
@@ -5323,6 +5343,11 @@
     "id": "ares-protocol",
     "symbol": "ares",
     "name": "Ares Protocol"
+  },
+  {
+    "id": "are-ya-winning-son",
+    "symbol": "son",
+    "name": "ARE YA WINNING, SON?"
   },
   {
     "id": "argentinacoin",
@@ -6283,6 +6308,11 @@
     "id": "attila",
     "symbol": "att",
     "name": "Attila"
+  },
+  {
+    "id": "atto",
+    "symbol": "atto",
+    "name": "Atto"
   },
   {
     "id": "atua-ai",
@@ -10960,6 +10990,11 @@
     "name": "BL00P"
   },
   {
+    "id": "blablacar-prestocks",
+    "symbol": "blabla",
+    "name": "BlaBlaCar PreStocks"
+  },
+  {
     "id": "black-agnus",
     "symbol": "ftw",
     "name": "Black Agnus"
@@ -13990,6 +14025,11 @@
     "name": "BUBU"
   },
   {
+    "id": "bubu-3",
+    "symbol": "bubu",
+    "name": "Bubu"
+  },
+  {
     "id": "bucci",
     "symbol": "brrr",
     "name": "BUCCI"
@@ -14320,6 +14360,11 @@
     "name": "Bumshaft"
   },
   {
+    "id": "bunana",
+    "symbol": "bunana",
+    "name": "Bunana"
+  },
+  {
     "id": "bunbun",
     "symbol": "bunbun",
     "name": "bunbun"
@@ -14545,6 +14590,11 @@
     "name": "Buyai"
   },
   {
+    "id": "buy-and-retire",
+    "symbol": "401k",
+    "name": "buy and retire"
+  },
+  {
     "id": "buy-and-sleep",
     "symbol": "sleepcoin",
     "name": "buy and sleep"
@@ -14558,6 +14608,11 @@
     "id": "buy-the-dip",
     "symbol": "dip",
     "name": "Buy the DIP"
+  },
+  {
+    "id": "buy-the-hat",
+    "symbol": "bth",
+    "name": "BUY THE HAT"
   },
   {
     "id": "buy-the-news",
@@ -16383,6 +16438,11 @@
     "id": "chaos-and-disorder",
     "symbol": "chaos",
     "name": "chaos and disorder"
+  },
+  {
+    "id": "chaos-industries-prestocks",
+    "symbol": "chaos",
+    "name": "CHAOS Industries PreStocks"
   },
   {
     "id": "chappyz",
@@ -21210,6 +21270,11 @@
     "name": "Databricks AI"
   },
   {
+    "id": "databricks-prestocks",
+    "symbol": "databr",
+    "name": "Databricks PreStocks"
+  },
+  {
     "id": "databroker-dao",
     "symbol": "dtx",
     "name": "DaTa eXchange DTX"
@@ -21568,6 +21633,11 @@
     "id": "decentralized-mining-exchange",
     "symbol": "dmc",
     "name": "Decentralized Mining Exchange"
+  },
+  {
+    "id": "decentralized-music-chain",
+    "symbol": "dmcc",
+    "name": "Decentralized Music Chain"
   },
   {
     "id": "decentralized-runes",
@@ -23725,6 +23795,11 @@
     "name": "DISCO Chicken"
   },
   {
+    "id": "discord-prestocks",
+    "symbol": "discrd",
+    "name": "Discord PreStocks"
+  },
+  {
     "id": "diskneeplus",
     "symbol": "disknee",
     "name": "Diskneeplus"
@@ -23803,6 +23878,11 @@
     "id": "diviner-2",
     "symbol": "diviner",
     "name": "DIVINER"
+  },
+  {
+    "id": "diviswap",
+    "symbol": "dswap",
+    "name": "DiviSwap"
   },
   {
     "id": "divo",
@@ -24420,6 +24500,11 @@
     "name": "Doginal Kabosu (DRC-20)"
   },
   {
+    "id": "doginblock",
+    "symbol": "dib",
+    "name": "doginblock"
+  },
+  {
     "id": "doginhood",
     "symbol": "dogin",
     "name": "Department of Government Inefficiency"
@@ -24760,6 +24845,11 @@
     "name": "Dolos The Bully"
   },
   {
+    "id": "dolphin",
+    "symbol": "dolphin",
+    "name": "Dolphin"
+  },
+  {
     "id": "dolphin-agent",
     "symbol": "dola",
     "name": "Dolphin Agent"
@@ -24968,6 +25058,11 @@
     "id": "doogle",
     "symbol": "doogle",
     "name": "Doogle"
+  },
+  {
+    "id": "doogle-on-bonk",
+    "symbol": "doogle",
+    "name": "Doogle on Bonk"
   },
   {
     "id": "dook",
@@ -25593,6 +25688,11 @@
     "id": "dtrinity-s",
     "symbol": "ds",
     "name": "dTRINITY S"
+  },
+  {
+    "id": "dtrinity-staked-dusd",
+    "symbol": "sdusd",
+    "name": "dTrinity Staked dUSD"
   },
   {
     "id": "dtrinity-usd",
@@ -27440,6 +27540,11 @@
     "name": "EPIC FAIL GUY"
   },
   {
+    "id": "epic-games-prestocks",
+    "symbol": "epic",
+    "name": "Epic Games PreStocks"
+  },
+  {
     "id": "epic-league",
     "symbol": "epl",
     "name": "Epic League"
@@ -28196,8 +28301,8 @@
   },
   {
     "id": "ever",
-    "symbol": "$ever",
-    "name": "EVER"
+    "symbol": "evrx",
+    "name": "EVRX"
   },
   {
     "id": "everclear",
@@ -28293,6 +28398,11 @@
     "id": "everyworld",
     "symbol": "every",
     "name": "Everyworld"
+  },
+  {
+    "id": "evil-larry",
+    "symbol": "larry",
+    "name": "Evil Larry"
   },
   {
     "id": "evin-token",
@@ -29385,6 +29495,11 @@
     "name": "FGDSwap"
   },
   {
+    "id": "fiamma-btc",
+    "symbol": "fiabtc",
+    "name": "Fiamma BTC"
+  },
+  {
     "id": "fias",
     "symbol": "fias",
     "name": "FIAS"
@@ -29453,6 +29568,11 @@
     "id": "figure-ai",
     "symbol": "fai",
     "name": "FIGURE AI"
+  },
+  {
+    "id": "figure-ai-prestocks",
+    "symbol": "figure",
+    "name": "Figure AI PreStocks"
   },
   {
     "id": "fiji-exe",
@@ -29541,11 +29661,6 @@
   },
   {
     "id": "fine",
-    "symbol": "fine",
-    "name": "FINE"
-  },
-  {
-    "id": "fine-2",
     "symbol": "fine",
     "name": "FINE"
   },
@@ -33220,6 +33335,11 @@
     "name": "SPDR Gold Shares Defichain"
   },
   {
+    "id": "glean-prestocks",
+    "symbol": "glean",
+    "name": "Glean PreStocks"
+  },
+  {
     "id": "gleec-coin",
     "symbol": "gleec",
     "name": "Gleec Coin"
@@ -34790,6 +34910,11 @@
     "name": "Grok Cat"
   },
   {
+    "id": "grokchain",
+    "symbol": "grokchain",
+    "name": "GROKCHAIN"
+  },
+  {
     "id": "grok-companions",
     "symbol": "jarvis",
     "name": "Grok Companions"
@@ -34853,6 +34978,11 @@
     "id": "groq",
     "symbol": "groq",
     "name": "GROQ"
+  },
+  {
+    "id": "groq-prestocks",
+    "symbol": "groq",
+    "name": "Groq PreStocks"
   },
   {
     "id": "grove",
@@ -34973,6 +35103,11 @@
     "id": "guardian-dog",
     "symbol": "gdog",
     "name": "Guardian Dog"
+  },
+  {
+    "id": "guardian-golden-ball",
+    "symbol": "gbt",
+    "name": "Guardian Golden Ball"
   },
   {
     "id": "guardians-of-the-spark",
@@ -35728,6 +35863,11 @@
     "id": "harvest-finance",
     "symbol": "farm",
     "name": "Harvest Finance"
+  },
+  {
+    "id": "harvey-prestocks",
+    "symbol": "harvey",
+    "name": "Harvey PreStocks"
   },
   {
     "id": "hasbulla-game",
@@ -38483,6 +38623,11 @@
     "id": "impossible-finance",
     "symbol": "if",
     "name": "Impossible Finance"
+  },
+  {
+    "id": "impossible-foods-prestocks",
+    "symbol": "imfood",
+    "name": "Impossible Foods PreStocks"
   },
   {
     "id": "impostors-blood",
@@ -42740,6 +42885,11 @@
     "name": "Kraken"
   },
   {
+    "id": "kraken-prestocks",
+    "symbol": "kraken",
+    "name": "Kraken PreStocks"
+  },
+  {
     "id": "kraken-wrapped-btc",
     "symbol": "kbtc",
     "name": "Kraken Wrapped BTC"
@@ -43498,6 +43648,11 @@
     "id": "larpai",
     "symbol": "larpai",
     "name": "LarpAI"
+  },
+  {
+    "id": "larp-ai",
+    "symbol": "lai",
+    "name": "Larp AI"
   },
   {
     "id": "larp-detective-agency",
@@ -48655,6 +48810,11 @@
     "name": "Memes vs Undead"
   },
   {
+    "id": "memetern",
+    "symbol": "mxt",
+    "name": "Memetern"
+  },
+  {
     "id": "memetoon",
     "symbol": "meme",
     "name": "MEMETOON"
@@ -50355,11 +50515,6 @@
     "name": "MIU"
   },
   {
-    "id": "miw-musk",
-    "symbol": "miw",
-    "name": "Miw Musk"
-  },
-  {
     "id": "mixie",
     "symbol": "mixie",
     "name": "Mixie"
@@ -51975,6 +52130,11 @@
     "name": "Mr. Mint"
   },
   {
+    "id": "mr-puggles",
+    "symbol": "puggles",
+    "name": "Mr Puggles"
+  },
+  {
     "id": "mrs-miggles",
     "symbol": "mrsmiggles",
     "name": "Mrs Miggles"
@@ -53518,6 +53678,11 @@
     "id": "neural-ai",
     "symbol": "neuralai",
     "name": "Neural AI"
+  },
+  {
+    "id": "neuralink-prestocks",
+    "symbol": "neural",
+    "name": "Neuralink PreStocks"
   },
   {
     "id": "neuralis-ai",
@@ -56370,6 +56535,11 @@
     "name": "OPCAT"
   },
   {
+    "id": "openai-prestocks",
+    "symbol": "openai",
+    "name": "OpenAI PreStocks"
+  },
+  {
     "id": "openanx",
     "symbol": "oax",
     "name": "OAX"
@@ -57915,6 +58085,11 @@
     "name": "Parachute"
   },
   {
+    "id": "parad",
+    "symbol": "prd",
+    "name": "PARAD"
+  },
+  {
     "id": "paradox-3",
     "symbol": "paradox",
     "name": "PARADOX"
@@ -59220,6 +59395,11 @@
     "name": "Perpex"
   },
   {
+    "id": "perplexity-prestocks",
+    "symbol": "pplxty",
+    "name": "Perplexity PreStocks"
+  },
+  {
     "id": "per-project",
     "symbol": "per",
     "name": "PER Project"
@@ -59423,6 +59603,11 @@
     "id": "phemex",
     "symbol": "pt",
     "name": "Phemex Token"
+  },
+  {
+    "id": "phi",
+    "symbol": "phi",
+    "name": "Phi"
   },
   {
     "id": "phiat-protocol",
@@ -61228,6 +61413,11 @@
     "id": "popg",
     "symbol": "popg",
     "name": "POPG"
+  },
+  {
+    "id": "popi",
+    "symbol": "popi",
+    "name": "Popi"
   },
   {
     "id": "popi-4i",
@@ -63333,6 +63523,11 @@
     "id": "r34p",
     "symbol": "r34p",
     "name": "R34P"
+  },
+  {
+    "id": "raa-vision",
+    "symbol": "raa",
+    "name": "RAA Vision"
   },
   {
     "id": "rabbi-schlomo-by-virtuals",
@@ -66520,6 +66715,11 @@
     "name": "SafeStake"
   },
   {
+    "id": "safe-superintelligence-prestocks",
+    "symbol": "ssi",
+    "name": "Safe Superintelligence PreStocks"
+  },
+  {
     "id": "safetrees",
     "symbol": "trees",
     "name": "Safetrees"
@@ -66975,6 +67175,11 @@
     "name": "Sardis Network"
   },
   {
+    "id": "saronic-prestocks",
+    "symbol": "saronic",
+    "name": "Saronic PreStocks"
+  },
+  {
     "id": "saros-finance",
     "symbol": "saros",
     "name": "Saros"
@@ -67253,11 +67458,6 @@
     "id": "scales",
     "symbol": "scales",
     "name": "SCALES"
-  },
-  {
-    "id": "scaleswap-token",
-    "symbol": "sca",
-    "name": "Scaleswap"
   },
   {
     "id": "scaleton",
@@ -68093,6 +68293,11 @@
     "id": "sgyd",
     "symbol": "sgyd",
     "name": "sGYD"
+  },
+  {
+    "id": "shack-token",
+    "symbol": "shack",
+    "name": "Shack Token"
   },
   {
     "id": "shade-protocol",
@@ -71130,6 +71335,11 @@
     "name": "Sommelier"
   },
   {
+    "id": "somnia",
+    "symbol": "somi",
+    "name": "Somnia"
+  },
+  {
     "id": "somnium-space-cubes",
     "symbol": "cube",
     "name": "Somnium Space CUBEs"
@@ -71693,6 +71903,11 @@
     "id": "space-token-bsc",
     "symbol": "space",
     "name": "Space Token"
+  },
+  {
+    "id": "spacex-prestocks",
+    "symbol": "spacex",
+    "name": "SpaceX PreStocks"
   },
   {
     "id": "spacey-2025",
@@ -74107,7 +74322,7 @@
   {
     "id": "suicy-the-seal",
     "symbol": "suicy",
-    "name": "SUICY the Seal"
+    "name": "Suicy the Seal"
   },
   {
     "id": "suidefai-by-suiai",
@@ -76330,11 +76545,6 @@
     "name": "Test"
   },
   {
-    "id": "testbug",
-    "symbol": "testbug",
-    "name": "testbug"
-  },
-  {
     "id": "test-token-please-ignore",
     "symbol": "test",
     "name": "test token please ignore"
@@ -78345,6 +78555,11 @@
     "name": "TOPKEK Capital"
   },
   {
+    "id": "topless",
+    "symbol": "topless",
+    "name": "Topless"
+  },
+  {
     "id": "topmanager",
     "symbol": "tmt",
     "name": "TopManager"
@@ -78898,6 +79113,11 @@
     "id": "trencher",
     "symbol": "trencher",
     "name": "Trencher"
+  },
+  {
+    "id": "trencher-broadcasting-company",
+    "symbol": "tbc",
+    "name": "Trencher Broadcasting Company"
   },
   {
     "id": "trendbet",
@@ -85980,6 +86200,11 @@
     "name": "Wrapped Lyx (UniversalSwaps)"
   },
   {
+    "id": "wrapped-m",
+    "symbol": "wm",
+    "name": "Wrapped M"
+  },
+  {
     "id": "wrapped-made-in-brasil-kayen",
     "symbol": "wmibr",
     "name": "Wrapped Made In Brasil (Kayen)"
@@ -86745,6 +86970,11 @@
     "name": "WTF Opossum"
   },
   {
+    "id": "wuff",
+    "symbol": "wuff",
+    "name": "WUFF"
+  },
+  {
     "id": "wuffi",
     "symbol": "wuf",
     "name": "WUFFI"
@@ -86833,6 +87063,11 @@
     "id": "xai-corp",
     "symbol": "xai",
     "name": "XAI Corp"
+  },
+  {
+    "id": "xai-prestocks",
+    "symbol": "xai",
+    "name": "xAI PreStocks"
   },
   {
     "id": "xakt_astrovault",
