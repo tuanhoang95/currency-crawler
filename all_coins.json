@@ -1545,6 +1545,11 @@
     "name": "Acolyt"
   },
   {
+    "id": "acore-ai-token",
+    "symbol": "acore",
+    "name": "ACORE AI Token"
+  },
+  {
     "id": "acquire-fi",
     "symbol": "acq",
     "name": "Acquire.Fi"
@@ -7620,6 +7625,11 @@
     "name": "Baby Troll"
   },
   {
+    "id": "baby-troll-2",
+    "symbol": "babytroll",
+    "name": "Baby Troll"
+  },
+  {
     "id": "babytrump",
     "symbol": "babytrump",
     "name": "BABYTRUMP"
@@ -10528,11 +10538,6 @@
     "id": "bitcoin-bit",
     "symbol": "bcb",
     "name": "Bitcoin Bit"
-  },
-  {
-    "id": "bitcoin-black-credit-card",
-    "symbol": "bbcc",
-    "name": "Bitcoin Black Credit Card"
   },
   {
     "id": "bitcoin-bob",
@@ -15050,6 +15055,11 @@
     "name": "Candy"
   },
   {
+    "id": "cannabis",
+    "symbol": "cana",
+    "name": "CANNABIS"
+  },
+  {
     "id": "cannfinity",
     "symbol": "cft",
     "name": "CANNFINITY"
@@ -15083,6 +15093,11 @@
     "id": "cap-2",
     "symbol": "cap",
     "name": "CAP"
+  },
+  {
+    "id": "capapult",
+    "symbol": "capa",
+    "name": "Solid"
   },
   {
     "id": "capital-dao-starter-token",
@@ -15593,6 +15608,11 @@
     "id": "cat-in-a-dogs-world",
     "symbol": "mew",
     "name": "cat in a dogs world"
+  },
+  {
+    "id": "catinbox",
+    "symbol": "catinbox",
+    "name": "CatInBox"
   },
   {
     "id": "cat-in-hoodie",
@@ -18480,6 +18500,11 @@
     "name": "Comet Token"
   },
   {
+    "id": "comfy-2",
+    "symbol": "dcp",
+    "name": "COMFY"
+  },
+  {
     "id": "commander",
     "symbol": "cmdr",
     "name": "Commander"
@@ -18978,6 +19003,11 @@
     "id": "core",
     "symbol": "cmcx",
     "name": "CORE MultiChain"
+  },
+  {
+    "id": "core-2",
+    "symbol": "core",
+    "name": "Core"
   },
   {
     "id": "coreai",
@@ -21450,11 +21480,6 @@
     "name": "DataPort Navigator by Virtuals"
   },
   {
-    "id": "data-trade-token",
-    "symbol": "dtt",
-    "name": "Data Trade Token"
-  },
-  {
     "id": "data-universe",
     "symbol": "sn13",
     "name": "Data Universe"
@@ -22683,6 +22708,11 @@
     "id": "deployyyyer",
     "symbol": "deploy",
     "name": "Deployyyyer"
+  },
+  {
+    "id": "depot",
+    "symbol": "depot",
+    "name": "Depot"
   },
   {
     "id": "deputy-dawgs",
@@ -28015,11 +28045,6 @@
     "name": "Index Coop - ETH 2x Flexible Leverage Index"
   },
   {
-    "id": "ethane",
-    "symbol": "c2h6",
-    "name": "Ethane"
-  },
-  {
     "id": "ethardio",
     "symbol": "ethardio",
     "name": "ETHARDIO"
@@ -29138,11 +29163,6 @@
     "id": "farmai",
     "symbol": "farmai",
     "name": "FarmAI"
-  },
-  {
-    "id": "farmers-world-wood",
-    "symbol": "fww",
-    "name": "Farmers World Wood"
   },
   {
     "id": "fart-accelerationism",
@@ -31848,6 +31868,11 @@
     "id": "fur-nancial-advisor",
     "symbol": "fur",
     "name": "Fur-nancial advisor"
+  },
+  {
+    "id": "furo",
+    "symbol": "furo",
+    "name": "Furo"
   },
   {
     "id": "furucombo",
@@ -37150,6 +37175,11 @@
     "name": "HodlAssets"
   },
   {
+    "id": "hodl-coin",
+    "symbol": "hodl",
+    "name": "HODL Coin"
+  },
+  {
     "id": "hodl-meme",
     "symbol": "hodl",
     "name": "HODL"
@@ -38155,6 +38185,11 @@
     "name": "Hyperlauncher"
   },
   {
+    "id": "hyperlend-interest-bearing-usdt0-wrapped-hlp",
+    "symbol": "husdt0 (whlp)",
+    "name": "Hyperlend Interest Bearing USDT0 (Wrapped HLP)"
+  },
+  {
     "id": "hyperliquid",
     "symbol": "hype",
     "name": "Hyperliquid"
@@ -38263,6 +38298,11 @@
     "id": "hytopia",
     "symbol": "topia",
     "name": "TOPIA"
+  },
+  {
+    "id": "hyusdt0-hwhlp-11",
+    "symbol": "hyusdt0(hwhlp)-11",
+    "name": "hyUSDT0 (hwHLP) - 11"
   },
   {
     "id": "hyve",
@@ -39160,6 +39200,11 @@
     "name": "Infinite Sui Glitch"
   },
   {
+    "id": "infinite-trading-protocol",
+    "symbol": "itp",
+    "name": "Infinite Trading Protocol"
+  },
+  {
     "id": "infinite-truths",
     "symbol": "truths",
     "name": "Infinite Truths"
@@ -39913,6 +39958,11 @@
     "id": "i-r-i-s",
     "symbol": "iris",
     "name": "I.R.I.S"
+  },
+  {
+    "id": "iris-ai",
+    "symbol": "iris",
+    "name": "IRIS AI"
   },
   {
     "id": "iris-chain",
@@ -42333,11 +42383,6 @@
     "id": "kimbo",
     "symbol": "kimbo",
     "name": "Kimbo"
-  },
-  {
-    "id": "kimchi",
-    "symbol": "kimchi",
-    "name": "Kimchi"
   },
   {
     "id": "kimchi-finance",
@@ -47660,6 +47705,11 @@
     "name": "Manifest"
   },
   {
+    "id": "manifest-3",
+    "symbol": "manifest",
+    "name": "manifest"
+  },
+  {
     "id": "manifest-on-sol",
     "symbol": "manifest",
     "name": "Manifest"
@@ -48660,11 +48710,6 @@
     "name": "MECCA"
   },
   {
-    "id": "mechachain",
-    "symbol": "$mecha",
-    "name": "Mechanium"
-  },
-  {
     "id": "mecha-morphing",
     "symbol": "mape",
     "name": "Mecha Morphing"
@@ -49472,7 +49517,12 @@
   {
     "id": "meta-2",
     "symbol": "meta",
-    "name": "META"
+    "name": "META[Old]"
+  },
+  {
+    "id": "meta-2-2",
+    "symbol": "meta",
+    "name": "MetaDAO"
   },
   {
     "id": "meta-apes-peel",
@@ -49583,6 +49633,11 @@
     "id": "meta-finance-elements-verse",
     "symbol": "mfev",
     "name": "Meta Finance Elements Verse"
+  },
+  {
+    "id": "meta-financial-ai",
+    "symbol": "mefai",
+    "name": "META FINANCIAL AI"
   },
   {
     "id": "metafluence",
@@ -50033,6 +50088,11 @@
     "id": "mev-capital-usdt0",
     "symbol": "mcusdt0",
     "name": "MEV Capital USDT0"
+  },
+  {
+    "id": "mev-capital-usr",
+    "symbol": "mcusr",
+    "name": "MEV Capital USR"
   },
   {
     "id": "mev-capital-usual-boosted-usdc-morpho-vault",
@@ -50555,6 +50615,11 @@
     "name": "Minds"
   },
   {
+    "id": "mindshare",
+    "symbol": "mindshare",
+    "name": "mindshare"
+  },
+  {
     "id": "mindverse",
     "symbol": "mverse",
     "name": "MindVerse"
@@ -50948,6 +51013,11 @@
     "id": "mktcash",
     "symbol": "mch",
     "name": "Mktcash"
+  },
+  {
+    "id": "mlm-x",
+    "symbol": "mlmx",
+    "name": "MLM X"
   },
   {
     "id": "mm72",
@@ -55255,6 +55325,11 @@
     "name": "Blast Royale"
   },
   {
+    "id": "noob-2",
+    "symbol": "noob",
+    "name": "NOOB"
+  },
+  {
     "id": "noodle",
     "symbol": "noodle",
     "name": "Noodle"
@@ -55653,6 +55728,11 @@
     "id": "nucypher",
     "symbol": "nu",
     "name": "NuCypher"
+  },
+  {
+    "id": "nufdog",
+    "symbol": "nuf",
+    "name": "nufdog"
   },
   {
     "id": "nuff-respect",
@@ -60033,6 +60113,11 @@
     "id": "phase-dollar",
     "symbol": "cash",
     "name": "Phase Dollar"
+  },
+  {
+    "id": "phaser-beary",
+    "symbol": "phaser",
+    "name": "Phaser Beary"
   },
   {
     "id": "phauntem",
@@ -67647,7 +67732,7 @@
   {
     "id": "sapein",
     "symbol": "sapien",
-    "name": "SAPIEN"
+    "name": "Sapien"
   },
   {
     "id": "sapiens",
@@ -67798,6 +67883,11 @@
     "id": "satoshisync",
     "symbol": "ssnc",
     "name": "SatoshiSync"
+  },
+  {
+    "id": "satoshitcoin",
+    "symbol": "satoshit",
+    "name": "SatoshitCoin"
   },
   {
     "id": "satoshivm",
@@ -69878,11 +69968,6 @@
     "id": "silo-staked-sei",
     "symbol": "isei",
     "name": "Silo Staked SEI"
-  },
-  {
-    "id": "silva-token",
-    "symbol": "silva",
-    "name": "Silva"
   },
   {
     "id": "silver-2",
@@ -75445,6 +75530,11 @@
     "name": "SURVIVE"
   },
   {
+    "id": "sus",
+    "symbol": "sus",
+    "name": "Sus"
+  },
+  {
     "id": "susda",
     "symbol": "susda",
     "name": "sUSDa"
@@ -77380,6 +77470,11 @@
     "name": "The Brothers DAO"
   },
   {
+    "id": "the-bubbleheads",
+    "symbol": "bubble",
+    "name": "The Bubbleheads"
+  },
+  {
     "id": "thecat",
     "symbol": "thecat",
     "name": "TheCat"
@@ -77388,6 +77483,11 @@
     "id": "the-cat-is-blue",
     "symbol": "blue",
     "name": "The Cat Is Blue"
+  },
+  {
+    "id": "the-coin",
+    "symbol": "the",
+    "name": "the coin"
   },
   {
     "id": "the-coq-father-boss",
@@ -88353,6 +88453,11 @@
     "id": "xociety",
     "symbol": "xo",
     "name": "Xociety"
+  },
+  {
+    "id": "xonxrp",
+    "symbol": "x",
+    "name": "XonXRP"
   },
   {
     "id": "xo-protocol",
