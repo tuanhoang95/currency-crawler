@@ -75,11 +75,6 @@
     "name": "0xMonk by Virtuals"
   },
   {
-    "id": "0xnumber",
-    "symbol": "oxn",
-    "name": "0xNumber"
-  },
-  {
     "id": "0xprivacy",
     "symbol": "0xp",
     "name": "0xPrivacy"
@@ -5445,6 +5440,11 @@
     "name": "Aria"
   },
   {
+    "id": "aria-ai",
+    "symbol": "aria",
+    "name": "Aria.AI"
+  },
+  {
     "id": "ariacoin",
     "symbol": "aria",
     "name": "Ariacoin"
@@ -6393,11 +6393,6 @@
     "id": "audius",
     "symbol": "audio",
     "name": "Audius"
-  },
-  {
-    "id": "audius-wormhole",
-    "symbol": "audio",
-    "name": "Audius (Wormhole)"
   },
   {
     "id": "augur",
@@ -7558,6 +7553,11 @@
     "id": "baby-purple-pepe",
     "symbol": "babypurpe",
     "name": "Baby Purple Pepe"
+  },
+  {
+    "id": "baby-rudi",
+    "symbol": "babyrudi",
+    "name": "Baby Rudi"
   },
   {
     "id": "baby-samo-coin",
@@ -9955,6 +9955,11 @@
     "name": "BigShortBets"
   },
   {
+    "id": "bigstrategy-inc",
+    "symbol": "bstr",
+    "name": "BigStrategy Inc"
+  },
+  {
     "id": "big-time",
     "symbol": "bigtime",
     "name": "Big Time"
@@ -11068,11 +11073,6 @@
     "id": "bittorrent-old",
     "symbol": "bttold",
     "name": "BitTorrent [OLD]"
-  },
-  {
-    "id": "bitxor",
-    "symbol": "bxr",
-    "name": "Bitxor"
   },
   {
     "id": "bityuan",
@@ -12943,6 +12943,11 @@
     "id": "boss-burger",
     "symbol": "bossburger",
     "name": "Boss Burger"
+  },
+  {
+    "id": "bossdog",
+    "symbol": "bossdog",
+    "name": "BOSSDOG"
   },
   {
     "id": "boss-fighters-token",
@@ -15088,6 +15093,11 @@
     "id": "canada-ecoin",
     "symbol": "cdn",
     "name": "Canada eCoin"
+  },
+  {
+    "id": "cana-holdings-california-carbon-credits",
+    "symbol": "cana",
+    "name": "CANA Holdings California Carbon Credits"
   },
   {
     "id": "canary",
@@ -18908,11 +18918,6 @@
     "id": "contract-address-meme",
     "symbol": "ca",
     "name": "contract address (Meme)"
-  },
-  {
-    "id": "contract-dev-ai",
-    "symbol": "0xdev",
-    "name": "DEVAI"
   },
   {
     "id": "convergence",
@@ -26505,6 +26510,11 @@
     "name": "Fortune Token"
   },
   {
+    "id": "eblockstock",
+    "symbol": "ebso",
+    "name": "eBlockStock"
+  },
+  {
     "id": "ebtc",
     "symbol": "ebtc",
     "name": "eBTC"
@@ -28683,11 +28693,6 @@
     "id": "evil-larry",
     "symbol": "larry",
     "name": "Evil Larry"
-  },
-  {
-    "id": "evil-pepe",
-    "symbol": "evilpepe",
-    "name": "Evil Pepe"
   },
   {
     "id": "evin-token",
@@ -32678,6 +32683,11 @@
     "id": "garlicoin",
     "symbol": "grlc",
     "name": "Garlicoin"
+  },
+  {
+    "id": "garudax",
+    "symbol": "grdx",
+    "name": "GarudaX"
   },
   {
     "id": "gary",
@@ -36800,6 +36810,11 @@
     "name": "Hemi Bitcoin"
   },
   {
+    "id": "hemi-bridged-wbtc-hemi",
+    "symbol": "wbtc",
+    "name": "Hemi Bridged WBTC (Hemi)"
+  },
+  {
     "id": "hemi-bridged-weth-hemi",
     "symbol": "weth",
     "name": "Hemi Bridged WETH (Hemi)"
@@ -40500,6 +40515,11 @@
     "name": "Jake Newman Enterprises"
   },
   {
+    "id": "jakpot-games",
+    "symbol": "jakpot",
+    "name": "Jakpot Games"
+  },
+  {
     "id": "jalapeno-finance",
     "symbol": "jala",
     "name": "Jalapeno Finance"
@@ -40638,6 +40658,11 @@
     "id": "jatevo-ai-foundation",
     "symbol": "jtvf",
     "name": "Jatevo AI Foundation"
+  },
+  {
+    "id": "javlis",
+    "symbol": "javlis",
+    "name": "Javlis"
   },
   {
     "id": "javsphere",
@@ -43300,11 +43325,6 @@
     "name": "Koru"
   },
   {
-    "id": "kosher-katz",
-    "symbol": "k",
-    "name": "Kosher Katz"
-  },
-  {
     "id": "kotanosuke",
     "symbol": "豆柴",
     "name": "Kotanosuke (豆柴)"
@@ -43798,11 +43818,6 @@
     "id": "l2-standard-bridged-dai-base",
     "symbol": "dai",
     "name": "L2 Standard Bridged DAI (Base)"
-  },
-  {
-    "id": "l2-standard-bridged-frxusd",
-    "symbol": "frxusd",
-    "name": "L2 Standard Bridged frxUSD"
   },
   {
     "id": "l2-standard-bridged-sfrxeth-fraxtal",
@@ -44368,11 +44383,6 @@
     "id": "layerzero",
     "symbol": "zro",
     "name": "LayerZero"
-  },
-  {
-    "id": "layerzero-bridged-frxusd",
-    "symbol": "frxusd",
-    "name": "LayerZero Bridged frxUSD"
   },
   {
     "id": "layerzero-bridged-rseth-linea",
@@ -49345,6 +49355,11 @@
     "name": "Memes Make It Possible"
   },
   {
+    "id": "memes-protocol",
+    "symbol": "memes",
+    "name": "Memes Protocol"
+  },
+  {
     "id": "meme-ssi",
     "symbol": "meme.ssi",
     "name": "MEME.ssi"
@@ -50453,6 +50468,11 @@
     "id": "midas-btc-yield-token",
     "symbol": "mbtc",
     "name": "Midas mBTC"
+  },
+  {
+    "id": "midas-mapollo",
+    "symbol": "mapollo",
+    "name": "Midas mAPOLLO"
   },
   {
     "id": "midas-medge",
@@ -52298,11 +52318,6 @@
     "id": "moove-protocol",
     "symbol": "moove",
     "name": "Moove Protocol"
-  },
-  {
-    "id": "mooxmoo",
-    "symbol": "moox",
-    "name": "MOOxMOO [OLD]"
   },
   {
     "id": "mop",
@@ -60960,6 +60975,11 @@
     "name": "PlaceWar Governance"
   },
   {
+    "id": "plan-bee",
+    "symbol": "planb",
+    "name": "Plan Bee"
+  },
+  {
     "id": "planet-finance",
     "symbol": "aqua",
     "name": "Planet Finance"
@@ -61333,6 +61353,11 @@
     "id": "plyr-l1",
     "symbol": "plyr",
     "name": "PLYR L1"
+  },
+  {
+    "id": "pmx500",
+    "symbol": "pmx",
+    "name": "PMX500"
   },
   {
     "id": "pnetwork",
@@ -63833,6 +63858,11 @@
     "id": "qstar",
     "symbol": "q*",
     "name": "QSTAR"
+  },
+  {
+    "id": "qstay",
+    "symbol": "qstay",
+    "name": "Qstay"
   },
   {
     "id": "qtoken",
@@ -68550,6 +68580,11 @@
     "name": "Seal"
   },
   {
+    "id": "seal-3",
+    "symbol": "seal",
+    "name": "Seal"
+  },
+  {
     "id": "seal-dog",
     "symbol": "sog",
     "name": "Seal Dog"
@@ -69278,11 +69313,6 @@
     "id": "sheerluck-ai",
     "symbol": "sheerluck",
     "name": "Sheerluck AI"
-  },
-  {
-    "id": "sheesh-3",
-    "symbol": "$sheesh",
-    "name": "Sheesh"
   },
   {
     "id": "sheesha-finance",
@@ -70793,11 +70823,6 @@
     "id": "smart-reckon-intelligence",
     "symbol": "sri",
     "name": "Smart Reckon Intelligence"
-  },
-  {
-    "id": "smartsettoken",
-    "symbol": "sst",
-    "name": "SmartsetToken"
   },
   {
     "id": "smart-wallet-token-2",
@@ -74400,6 +74425,11 @@
     "name": "Steve"
   },
   {
+    "id": "steve-3",
+    "symbol": "$steve",
+    "name": "Steve"
+  },
+  {
     "id": "stfx",
     "symbol": "stfx",
     "name": "STFX"
@@ -77530,6 +77560,11 @@
     "name": "Abyss"
   },
   {
+    "id": "the-amazing-digital-circus",
+    "symbol": "tadc",
+    "name": "The Amazing Digital Circus"
+  },
+  {
     "id": "the-america-party",
     "symbol": "tap",
     "name": "The America Party"
@@ -77638,6 +77673,11 @@
     "id": "the-bubbleheads",
     "symbol": "bubble",
     "name": "The Bubbleheads"
+  },
+  {
+    "id": "the-bull-era",
+    "symbol": "bull",
+    "name": "The Bull Era"
   },
   {
     "id": "thecat",
@@ -77823,6 +77863,11 @@
     "id": "the-innovation-game",
     "symbol": "tig",
     "name": "The Innovation Game"
+  },
+  {
+    "id": "the-internet-s-ai-punching-bag",
+    "symbol": "garry",
+    "name": "The Internet's AI Punching Bag"
   },
   {
     "id": "the-investor",
@@ -82435,6 +82480,11 @@
     "name": "ValleyDAO"
   },
   {
+    "id": "valtoro",
+    "symbol": "valtoro",
+    "name": "VALTORO"
+  },
+  {
     "id": "value-liquidity",
     "symbol": "value",
     "name": "Value DeFi"
@@ -85188,11 +85238,6 @@
     "id": "whyyoutouzhele",
     "symbol": "li",
     "name": "Whyyoutouzhele"
-  },
-  {
-    "id": "wibegram",
-    "symbol": "wibe",
-    "name": "WibeGram"
   },
   {
     "id": "wibwob",
@@ -90218,6 +90263,11 @@
     "id": "zelwin",
     "symbol": "zlw",
     "name": "Zelwin"
+  },
+  {
+    "id": "zenai",
+    "symbol": "zen",
+    "name": "ZenAI"
   },
   {
     "id": "zen-ai",
