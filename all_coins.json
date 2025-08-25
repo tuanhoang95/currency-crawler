@@ -267,6 +267,11 @@
   {
     "id": "2dai-io",
     "symbol": "2dai",
+    "name": "2DAI.io[Old]"
+  },
+  {
+    "id": "2dai-io-2",
+    "symbol": "2dai",
     "name": "2DAI.io"
   },
   {
@@ -1333,6 +1338,11 @@
     "id": "abe",
     "symbol": "abe",
     "name": "ABE"
+  },
+  {
+    "id": "abe-2",
+    "symbol": "abe",
+    "name": "Abe"
   },
   {
     "id": "abe-cto",
@@ -2508,6 +2518,11 @@
     "id": "aigg",
     "symbol": "$aigg",
     "name": "AIGG"
+  },
+  {
+    "id": "ai-god",
+    "symbol": "aig",
+    "name": "AI GOD"
   },
   {
     "id": "aigov",
@@ -3908,6 +3923,11 @@
     "id": "altsignals",
     "symbol": "asi",
     "name": "AltSignals"
+  },
+  {
+    "id": "alt-town",
+    "symbol": "town",
+    "name": "alt.town"
   },
   {
     "id": "altura",
@@ -6410,6 +6430,11 @@
     "name": "AUKI"
   },
   {
+    "id": "auklora",
+    "symbol": "auk",
+    "name": "Auklora"
+  },
+  {
     "id": "aura-2",
     "symbol": "aura",
     "name": "Aura"
@@ -6933,6 +6958,11 @@
     "id": "awkward-monkey",
     "symbol": "awk",
     "name": "Awkward Monkey"
+  },
+  {
+    "id": "awoke-2",
+    "symbol": "awoke",
+    "name": "Awoke"
   },
   {
     "id": "axe",
@@ -7948,6 +7978,11 @@
     "id": "bakso",
     "symbol": "bakso",
     "name": "BAKSO"
+  },
+  {
+    "id": "balajis",
+    "symbol": "balajis",
+    "name": "balajis"
   },
   {
     "id": "balance",
@@ -12808,6 +12843,11 @@
     "id": "boopa",
     "symbol": "boopa",
     "name": "Boopa"
+  },
+  {
+    "id": "boopi",
+    "symbol": "boopi",
+    "name": "BOOPI"
   },
   {
     "id": "boorio-2",
@@ -24305,6 +24345,11 @@
     "name": "DOBI"
   },
   {
+    "id": "docker",
+    "symbol": "dockerzxbt",
+    "name": "Docker"
+  },
+  {
     "id": "docs-insight-tatsu",
     "symbol": "sn84",
     "name": "Docs-Insights (Taτsu)"
@@ -29230,11 +29275,6 @@
     "name": "Fandomdao"
   },
   {
-    "id": "fanfury",
-    "symbol": "fury",
-    "name": "FURY"
-  },
-  {
     "id": "fan-token",
     "symbol": "fan",
     "name": "Film.io"
@@ -29368,6 +29408,11 @@
     "id": "fartcoincro",
     "symbol": "pfft",
     "name": "FartcoinCRO"
+  },
+  {
+    "id": "fartcoin-killer",
+    "symbol": "buttplug",
+    "name": "fartcoin killer"
   },
   {
     "id": "fartcredit",
@@ -32723,6 +32768,11 @@
     "id": "ganggang",
     "symbol": "ganggang",
     "name": "GangGang"
+  },
+  {
+    "id": "gap-tooth-lizard",
+    "symbol": "$gappy",
+    "name": "Gap Tooth Lizard"
   },
   {
     "id": "garbage",
@@ -36550,6 +36600,11 @@
     "name": "Hazel"
   },
   {
+    "id": "hazmat",
+    "symbol": "hzmt",
+    "name": "Hazmat"
+  },
+  {
     "id": "hbarbarian",
     "symbol": "hbarbarian",
     "name": "HBARbarian"
@@ -37458,6 +37513,11 @@
     "id": "hokkaidu-inu",
     "symbol": "hokk",
     "name": "HOKK Finance"
+  },
+  {
+    "id": "hokkaidu-inu-2",
+    "symbol": "hokk",
+    "name": "Hokkaidu Inu"
   },
   {
     "id": "hold-2",
@@ -44340,6 +44400,11 @@
     "name": "LATENT ARENA"
   },
   {
+    "id": "latina-language-model",
+    "symbol": "llm",
+    "name": "Latina Language Model"
+  },
+  {
     "id": "latoken",
     "symbol": "la",
     "name": "LA"
@@ -45478,6 +45543,11 @@
     "id": "linde-xstock",
     "symbol": "linx",
     "name": "Linde xStock"
+  },
+  {
+    "id": "linea",
+    "symbol": "linea",
+    "name": "Linea"
   },
   {
     "id": "linea-bridged-gno-linea",
@@ -47313,6 +47383,11 @@
     "id": "maek-amuraca-graet-agun",
     "symbol": "maga",
     "name": "Maek Amuraca Graet Agun"
+  },
+  {
+    "id": "mafia-ai-by-virtuals",
+    "symbol": "mafia",
+    "name": "MAFIA AI by Virtuals"
   },
   {
     "id": "mag7-ssi",
@@ -53735,11 +53810,6 @@
     "name": "NA Music Royalties SSTL"
   },
   {
-    "id": "nana-coin",
-    "symbol": "nana",
-    "name": "NANA Coin"
-  },
-  {
     "id": "nana-token",
     "symbol": "nana",
     "name": "NANA Token"
@@ -57100,11 +57170,6 @@
     "name": "One"
   },
   {
-    "id": "one-basis-cash",
-    "symbol": "obs",
-    "name": "One Basis Cash"
-  },
-  {
     "id": "one-cash",
     "symbol": "onc",
     "name": "One Cash"
@@ -57503,6 +57568,11 @@
     "id": "openvision",
     "symbol": "vision",
     "name": "OpenVision"
+  },
+  {
+    "id": "openvpp",
+    "symbol": "ovpp",
+    "name": "OpenVPP"
   },
   {
     "id": "openworld-app",
@@ -58767,6 +58837,11 @@
   {
     "id": "pangolin",
     "symbol": "png",
+    "name": "Pangolin"
+  },
+  {
+    "id": "pangolin-2",
+    "symbol": "pang",
     "name": "Pangolin"
   },
   {
@@ -61155,6 +61230,11 @@
     "name": "Planet Finance"
   },
   {
+    "id": "planet-horse-v2",
+    "symbol": "phorse",
+    "name": "Planet Horse V2"
+  },
+  {
     "id": "planet-mojo",
     "symbol": "mojo",
     "name": "Planet Mojo"
@@ -63268,6 +63348,11 @@
     "id": "pube-finance",
     "symbol": "pube",
     "name": "Pube Finance"
+  },
+  {
+    "id": "pubhouse-dominance-index",
+    "symbol": "pub",
+    "name": "Pubhouse Dominance Index"
   },
   {
     "id": "publc",
@@ -72655,6 +72740,16 @@
     "name": "Soulja Coin"
   },
   {
+    "id": "soulonsol",
+    "symbol": "sos",
+    "name": "SOULONSOL"
+  },
+  {
+    "id": "soulpeg-usd",
+    "symbol": "spusd",
+    "name": "SoulPeg USD"
+  },
+  {
     "id": "soul-scanner",
     "symbol": "soul",
     "name": "Soul Scanner"
@@ -79803,11 +79898,6 @@
     "id": "tqqq-xstock",
     "symbol": "tqqqx",
     "name": "TQQQ xStock"
-  },
-  {
-    "id": "tr3zor",
-    "symbol": "tr3",
-    "name": "Tr3zor"
   },
   {
     "id": "trabzonspor-fan-token",
@@ -89245,11 +89335,6 @@
     "name": "XT Stablecoin XTUSD"
   },
   {
-    "id": "xusd",
-    "symbol": "xusd",
-    "name": "xUSD"
-  },
-  {
     "id": "xusd-babelfish",
     "symbol": "xusd",
     "name": "XUSD (BabelFish)"
@@ -91158,6 +91243,11 @@
     "id": "zoa-ai",
     "symbol": "zoa",
     "name": "ZOA AI"
+  },
+  {
+    "id": "zodia",
+    "symbol": "zodia",
+    "name": "ZODIA"
   },
   {
     "id": "zodium",
