@@ -2440,6 +2440,11 @@
     "name": "AICoin"
   },
   {
+    "id": "aicoin-3",
+    "symbol": "aicoin",
+    "name": "AICOIN"
+  },
+  {
     "id": "ai-com",
     "symbol": "ai.com",
     "name": "AI.COM"
@@ -2743,6 +2748,11 @@
     "id": "aircoin-3",
     "symbol": "aircoin",
     "name": "aircoin"
+  },
+  {
+    "id": "aircoin-4",
+    "symbol": "aircoin",
+    "name": "Aircoin"
   },
   {
     "id": "airdao-bridged-usdc-airdao",
@@ -3358,6 +3368,11 @@
     "id": "algo-casino-chips",
     "symbol": "chip",
     "name": "Algo-Casino Chips"
+  },
+  {
+    "id": "algonfx",
+    "symbol": "alg",
+    "name": "AlgonFX"
   },
   {
     "id": "algorand",
@@ -8168,6 +8183,11 @@
     "id": "balls-of-fate",
     "symbol": "bof",
     "name": "Balls of Fate"
+  },
+  {
+    "id": "ballswap",
+    "symbol": "bsp",
+    "name": "BallSwap"
   },
   {
     "id": "ballsy-on-sui",
@@ -17695,11 +17715,6 @@
     "name": "Chronicle"
   },
   {
-    "id": "chronicles-of-warcraft",
-    "symbol": "cow",
-    "name": "Chronicles of Warcraft"
-  },
-  {
     "id": "chronobank",
     "symbol": "time",
     "name": "chrono.tech"
@@ -19103,11 +19118,6 @@
     "id": "conan-meme",
     "symbol": "conan",
     "name": "Conan Meme"
-  },
-  {
-    "id": "concave",
-    "symbol": "cnv",
-    "name": "Concave"
   },
   {
     "id": "conceal",
@@ -23125,6 +23135,11 @@
     "name": "DEPIN"
   },
   {
+    "id": "depin-baby",
+    "symbol": "depin",
+    "name": "DePIN Baby"
+  },
+  {
     "id": "depinet",
     "symbol": "depin",
     "name": "Depinet"
@@ -24655,11 +24670,6 @@
     "name": "DoctorX"
   },
   {
-    "id": "docuchain",
-    "symbol": "dcct",
-    "name": "DocuChain"
-  },
-  {
     "id": "docusol",
     "symbol": "docusol",
     "name": "DocuSol"
@@ -24883,6 +24893,11 @@
     "id": "dogefood",
     "symbol": "dogefood",
     "name": "DogeFood"
+  },
+  {
+    "id": "dogefork",
+    "symbol": "dork",
+    "name": "DogeFork"
   },
   {
     "id": "doge-for-president",
@@ -30135,6 +30150,11 @@
     "name": "Ferret AI"
   },
   {
+    "id": "ferretcoin",
+    "symbol": "fec",
+    "name": "Ferretcoin"
+  },
+  {
     "id": "ferro",
     "symbol": "fer",
     "name": "Ferro"
@@ -31418,6 +31438,11 @@
     "id": "forest-knight",
     "symbol": "knight",
     "name": "Forest Knight"
+  },
+  {
+    "id": "forest-protocol",
+    "symbol": "forest",
+    "name": "Forest Protocol"
   },
   {
     "id": "forever-alone",
@@ -42550,6 +42575,11 @@
     "name": "Karen Hates You"
   },
   {
+    "id": "karen-onchain",
+    "symbol": "karen",
+    "name": "KAREN ONCHAIN"
+  },
+  {
     "id": "karlsen",
     "symbol": "kls",
     "name": "Karlsen"
@@ -51865,6 +51895,11 @@
     "name": "MISHA"
   },
   {
+    "id": "miss-ai",
+    "symbol": "msai",
+    "name": "Miss AI"
+  },
+  {
     "id": "miss-china",
     "symbol": "mschina",
     "name": "Miss China"
@@ -58105,11 +58140,6 @@
     "name": "Open Meta City"
   },
   {
-    "id": "openmoney-usd",
-    "symbol": "omusd",
-    "name": "OpenMoney USD"
-  },
-  {
     "id": "openocean",
     "symbol": "ooe",
     "name": "OpenOcean"
@@ -61385,6 +61415,11 @@
     "name": "Pico"
   },
   {
+    "id": "pieverse",
+    "symbol": "pieverse",
+    "name": "Pieverse"
+  },
+  {
     "id": "pigcatsol",
     "symbol": "pc",
     "name": "PigCat"
@@ -63128,6 +63163,11 @@
     "id": "portal-network-token",
     "symbol": "poe",
     "name": "Portal Network Token"
+  },
+  {
+    "id": "portal-to-bitcoin",
+    "symbol": "ptb",
+    "name": "Portal to Bitcoin"
   },
   {
     "id": "port-finance",
@@ -65488,6 +65528,11 @@
     "id": "raiseme",
     "symbol": "raiseme",
     "name": "raiseme"
+  },
+  {
+    "id": "raise-the-colours",
+    "symbol": "rtc",
+    "name": "Raise The Colours"
   },
   {
     "id": "rai-yvault",
@@ -74020,6 +74065,11 @@
     "name": "SpiralDAO Coil"
   },
   {
+    "id": "spiritcoin",
+    "symbol": "spiritcoin",
+    "name": "spiritcoin"
+  },
+  {
     "id": "splash-2",
     "symbol": "splash",
     "name": "SPLASH"
@@ -78800,6 +78850,11 @@
     "name": "The DUB Token"
   },
   {
+    "id": "the-eagle",
+    "symbol": "eagle",
+    "name": "The Eagle"
+  },
+  {
     "id": "the-ear-stays-on",
     "symbol": "ear",
     "name": "THE EAR STAYS ON"
@@ -79958,11 +80013,6 @@
     "id": "tobi",
     "symbol": "tobi",
     "name": "tobi"
-  },
-  {
-    "id": "toby",
-    "symbol": "toby",
-    "name": "toby"
   },
   {
     "id": "toby-toadgod",
@@ -82835,6 +82885,11 @@
     "name": "Unstable Coin"
   },
   {
+    "id": "unstable-states-dollar",
+    "symbol": "usd",
+    "name": "Unstable States Dollar"
+  },
+  {
     "id": "unstable-tether",
     "symbol": "usdut",
     "name": "Unstable Tether"
@@ -84470,6 +84525,11 @@
     "name": "Viction Bridged USDT"
   },
   {
+    "id": "victor",
+    "symbol": "victor",
+    "name": "Victor"
+  },
+  {
     "id": "victorai-by-virtuals",
     "symbol": "vctrai",
     "name": "Victorai by Virtuals"
@@ -84633,6 +84693,11 @@
     "id": "virtualdaos",
     "symbol": "daox",
     "name": "VirtualDaos"
+  },
+  {
+    "id": "virtual-money",
+    "symbol": "vm",
+    "name": "Virtual Money"
   },
   {
     "id": "virtual-protocol",
@@ -86523,6 +86588,11 @@
     "id": "win-2",
     "symbol": "win",
     "name": "WIN"
+  },
+  {
+    "id": "win-3",
+    "symbol": "win",
+    "name": "Win"
   },
   {
     "id": "windoge98",
@@ -90050,6 +90120,11 @@
     "name": "XRP20"
   },
   {
+    "id": "xrpatriot",
+    "symbol": "xrpatriot",
+    "name": "Xrpatriot"
+  },
+  {
     "id": "xrpaynet",
     "symbol": "xrpaynet",
     "name": "XRPayNet"
@@ -90428,11 +90503,6 @@
     "id": "yara-ai",
     "symbol": "yara",
     "name": "Yara AI"
-  },
-  {
-    "id": "yawn",
-    "symbol": "yawn",
-    "name": "YAWN"
   },
   {
     "id": "yawn-s-world",
@@ -91478,6 +91548,11 @@
     "id": "zenc-coin",
     "symbol": "zenc",
     "name": "Zenc Coin"
+  },
+  {
+    "id": "zencore-ai",
+    "symbol": "zcore",
+    "name": "Zencore AI"
   },
   {
     "id": "zenex",
