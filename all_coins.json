@@ -115,6 +115,11 @@
     "name": "1000CHEMS"
   },
   {
+    "id": "1000mog",
+    "symbol": "1000mog",
+    "name": "1000MOG"
+  },
+  {
     "id": "1000rats",
     "symbol": "1000rats",
     "name": "1000RATS"
@@ -2050,6 +2055,11 @@
     "name": "AgentFun.AI"
   },
   {
+    "id": "agent-gecko-tv",
+    "symbol": "gecko",
+    "name": "Agent Gecko TV"
+  },
+  {
     "id": "agenthub",
     "symbol": "$dira",
     "name": "AgentHub"
@@ -2163,6 +2173,11 @@
     "id": "agentverse",
     "symbol": "agv",
     "name": "AgentVerse"
+  },
+  {
+    "id": "agent-vilady-tv",
+    "symbol": "vilady",
+    "name": "Agent Vilady TV"
   },
   {
     "id": "agent-virtual-machine",
@@ -5065,6 +5080,11 @@
     "name": "Aptos Bridged WBTC (Aptos)"
   },
   {
+    "id": "aptos-futures",
+    "symbol": "apf",
+    "name": "Aptos Futures"
+  },
+  {
     "id": "aptos-launch-token",
     "symbol": "alt",
     "name": "AptosLaunch Token"
@@ -5611,6 +5631,11 @@
   },
   {
     "id": "ark-2",
+    "symbol": "ark",
+    "name": "ARK"
+  },
+  {
+    "id": "ark-3",
     "symbol": "ark",
     "name": "ARK"
   },
@@ -12785,6 +12810,11 @@
     "name": "BONKHOUSE"
   },
   {
+    "id": "bonk-index",
+    "symbol": "bnkk",
+    "name": "Bonk Index"
+  },
+  {
     "id": "bonk-inu",
     "symbol": "bonki",
     "name": "BONK Inu"
@@ -17845,11 +17875,6 @@
     "name": "CIFDAQ"
   },
   {
-    "id": "cifi",
-    "symbol": "cifi",
-    "name": "CIFI"
-  },
-  {
     "id": "cig",
     "symbol": "cig",
     "name": "cig"
@@ -21775,6 +21800,11 @@
     "name": "Dark Matter"
   },
   {
+    "id": "dark-money",
+    "symbol": "dusd",
+    "name": "dark money"
+  },
+  {
     "id": "darkpino",
     "symbol": "dpino",
     "name": "DarkPino"
@@ -24310,11 +24340,6 @@
     "name": "Dinero"
   },
   {
-    "id": "dinero-apxeth",
-    "symbol": "apxeth",
-    "name": "Dinero apxETH"
-  },
-  {
     "id": "dinero-staked-eth",
     "symbol": "pxeth",
     "name": "Dinero Staked ETH"
@@ -25258,6 +25283,11 @@
     "id": "dogshit",
     "symbol": "dogshit",
     "name": "dogshit"
+  },
+  {
+    "id": "dogshit-2",
+    "symbol": "dogshit",
+    "name": "DOGSHIT"
   },
   {
     "id": "dog-shit-going-nowhere",
@@ -27928,6 +27958,11 @@
     "id": "empyreal",
     "symbol": "emp",
     "name": "Empyreal"
+  },
+  {
+    "id": "emulites",
+    "symbol": "emulites",
+    "name": "Emulites"
   },
   {
     "id": "encoins",
@@ -32550,11 +32585,6 @@
     "name": "Fuxi Dragon"
   },
   {
-    "id": "fuzion",
-    "symbol": "fuzn",
-    "name": "Fuzion"
-  },
-  {
     "id": "fuzzybear",
     "symbol": "fuzzy",
     "name": "Fuzzybear"
@@ -35855,11 +35885,6 @@
     "name": "Grokster"
   },
   {
-    "id": "grom",
-    "symbol": "gr",
-    "name": "GROM"
-  },
-  {
     "id": "gronke",
     "symbol": "gronke",
     "name": "GRONKE"
@@ -36708,6 +36733,11 @@
     "id": "hare-token",
     "symbol": "hare",
     "name": "Hare [OLD]"
+  },
+  {
+    "id": "harlod",
+    "symbol": "harlod",
+    "name": "HARLOD"
   },
   {
     "id": "harmony",
@@ -39895,6 +39925,11 @@
     "name": "Infinite Money Glitch"
   },
   {
+    "id": "infinite-money-glitch-2",
+    "symbol": "img",
+    "name": "Infinite Money Glitch"
+  },
+  {
     "id": "infinite-money-glitch-x2",
     "symbol": "imgx2",
     "name": "Infinite Money Glitch X2"
@@ -42710,6 +42745,11 @@
     "name": "Kawz"
   },
   {
+    "id": "kazonomics",
+    "symbol": "kazonomics",
+    "name": "kazonomics"
+  },
+  {
     "id": "kcal",
     "symbol": "kcal",
     "name": "KCAL"
@@ -43778,6 +43818,11 @@
     "id": "kogin-by-virtuals",
     "symbol": "kogin",
     "name": "Kogin by Virtuals"
+  },
+  {
+    "id": "kohaku",
+    "symbol": "kohaku",
+    "name": "KOHAKU"
   },
   {
     "id": "kohenoor",
@@ -45710,11 +45755,6 @@
     "name": "Levva Protocol"
   },
   {
-    "id": "lexiai",
-    "symbol": "lexi",
-    "name": "LexiAI"
-  },
-  {
     "id": "lexicon",
     "symbol": "lexicon",
     "name": "Lexicon"
@@ -46380,6 +46420,11 @@
     "name": "Liquid Mercury"
   },
   {
+    "id": "liquidops",
+    "symbol": "lqd",
+    "name": "LiquidOps"
+  },
+  {
     "id": "liquidpump",
     "symbol": "lp",
     "name": "Liquidpump"
@@ -46443,6 +46488,11 @@
     "id": "liquidus-2",
     "symbol": "liq",
     "name": "Liquidus"
+  },
+  {
+    "id": "liquidy",
+    "symbol": "lqdy",
+    "name": "Liquidy"
   },
   {
     "id": "liquify-network",
@@ -47490,6 +47540,11 @@
     "name": "LULU"
   },
   {
+    "id": "lulu-the-ostrich",
+    "symbol": "lulu",
+    "name": "Lulu the Ostrich"
+  },
+  {
     "id": "lumenswap",
     "symbol": "lsp",
     "name": "Lumenswap"
@@ -48370,11 +48425,6 @@
     "name": "Mainframe"
   },
   {
-    "id": "mainnetz",
-    "symbol": "netz",
-    "name": "MainnetZ"
-  },
-  {
     "id": "main-street-usd",
     "symbol": "msusd",
     "name": "Main Street USD"
@@ -48418,6 +48468,11 @@
     "id": "make-america-healthy-again",
     "symbol": "maha",
     "name": "Make America Healthy Again"
+  },
+  {
+    "id": "make-cro-great-again",
+    "symbol": "mcga",
+    "name": "Make CRO Great Again"
   },
   {
     "id": "make-ethereum-great-again",
@@ -48628,11 +48683,6 @@
     "id": "mansory-token",
     "symbol": "mnsry",
     "name": "Mansory Token"
-  },
-  {
-    "id": "mantadao",
-    "symbol": "mnta",
-    "name": "MantaDAO"
   },
   {
     "id": "manta-mbtc",
@@ -52750,6 +52800,11 @@
     "name": "Mononoke Inu"
   },
   {
+    "id": "mononoke-inu-2",
+    "symbol": "mononoke",
+    "name": "Mononoke Inu"
+  },
+  {
     "id": "mon-protocol",
     "symbol": "mon",
     "name": "MON"
@@ -52866,6 +52921,11 @@
   },
   {
     "id": "moon-3",
+    "symbol": "moon",
+    "name": "Moon"
+  },
+  {
+    "id": "moon-4",
     "symbol": "moon",
     "name": "Moon"
   },
@@ -59115,6 +59175,11 @@
     "name": "Ozak AI"
   },
   {
+    "id": "ozarus",
+    "symbol": "ozarus",
+    "name": "Ozarus"
+  },
+  {
     "id": "ozone-chain",
     "symbol": "ozo",
     "name": "Ozone Chain"
@@ -62350,6 +62415,11 @@
     "name": "Pochita on Ethereum"
   },
   {
+    "id": "pockemy",
+    "symbol": "pkm",
+    "name": "Pockemy"
+  },
+  {
     "id": "pocketcoin",
     "symbol": "pkoin",
     "name": "Pocketcoin"
@@ -64835,6 +64905,11 @@
     "name": "QU3ai"
   },
   {
+    "id": "quack-ai",
+    "symbol": "q",
+    "name": "Quack AI"
+  },
+  {
     "id": "quack-capital",
     "symbol": "quack",
     "name": "Quack Capital"
@@ -65023,11 +65098,6 @@
     "id": "quark-chain",
     "symbol": "qkc",
     "name": "QuarkChain"
-  },
-  {
-    "id": "quark-protocol-staked-kuji",
-    "symbol": "qckuji",
-    "name": "Quark Protocol Staked KUJI"
   },
   {
     "id": "quartz",
@@ -66568,6 +66638,11 @@
     "id": "reploy",
     "symbol": "rai",
     "name": "Reploy"
+  },
+  {
+    "id": "reply",
+    "symbol": "reply",
+    "name": "Reply"
   },
   {
     "id": "replyguys",
@@ -78375,6 +78450,11 @@
     "name": "Term Structure"
   },
   {
+    "id": "terner",
+    "symbol": "terner",
+    "name": "Terner"
+  },
+  {
     "id": "ternio",
     "symbol": "tern",
     "name": "Ternio"
@@ -80975,6 +81055,11 @@
     "name": "TrancheVest"
   },
   {
+    "id": "transfidelity",
+    "symbol": "fidel",
+    "name": "Transfidelity"
+  },
+  {
     "id": "transhuman-coin",
     "symbol": "thc",
     "name": "Transhuman Coin"
@@ -82895,11 +82980,6 @@
     "name": "Unstable Tether"
   },
   {
-    "id": "unstake-fi",
-    "symbol": "nstk",
-    "name": "Unstake"
-  },
-  {
     "id": "uns-token",
     "symbol": "uns",
     "name": "UNS Token"
@@ -83118,6 +83198,11 @@
     "id": "usacoin",
     "symbol": "usacoin",
     "name": "USAcoin"
+  },
+  {
+    "id": "usai",
+    "symbol": "usai",
+    "name": "USAi"
   },
   {
     "id": "usaid",
@@ -86255,6 +86340,11 @@
     "name": "Web3 Whales"
   },
   {
+    "id": "whatever",
+    "symbol": "whatever",
+    "name": "whatever"
+  },
+  {
     "id": "whatever-ape",
     "symbol": "wape",
     "name": "Whatever Ape"
@@ -86628,11 +86718,6 @@
     "id": "wink-3",
     "symbol": "wink",
     "name": "Wink"
-  },
-  {
-    "id": "winkhub",
-    "symbol": "wink",
-    "name": "WinkHub"
   },
   {
     "id": "winklink-bsc",
@@ -89283,6 +89368,11 @@
     "id": "wtf-opossum",
     "symbol": "wtfo",
     "name": "WTF Opossum"
+  },
+  {
+    "id": "wuai",
+    "symbol": "wuai",
+    "name": "WuAI"
   },
   {
     "id": "wuff",
