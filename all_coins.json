@@ -330,6 +330,11 @@
     "name": "3A"
   },
   {
+    "id": "3bubu",
+    "symbol": "3bubu",
+    "name": "3BuBu"
+  },
+  {
     "id": "3dpass",
     "symbol": "p3d",
     "name": "3DPass"
@@ -10018,11 +10023,6 @@
     "id": "bettensor",
     "symbol": "sn30",
     "name": "Bettensor"
-  },
-  {
-    "id": "betterbelong",
-    "symbol": "long",
-    "name": "LONG"
   },
   {
     "id": "betterfan",
@@ -19855,6 +19855,11 @@
     "name": "coreDAO"
   },
   {
+    "id": "coredao-bridged-weth-core",
+    "symbol": "weth",
+    "name": "CoreDAO Bridged WETH (Core)"
+  },
+  {
     "id": "coredaoorg",
     "symbol": "core",
     "name": "Core"
@@ -21750,6 +21755,11 @@
     "name": "Cypherspace"
   },
   {
+    "id": "cypher-tempre",
+    "symbol": "cphy",
+    "name": "Cypher Tempre"
+  },
+  {
     "id": "cyphomancer",
     "symbol": "42",
     "name": "Cyphomancer"
@@ -23240,6 +23250,11 @@
     "name": "Degen ETH Staked ETH"
   },
   {
+    "id": "degen-express",
+    "symbol": "degex",
+    "name": "Degen Express"
+  },
+  {
     "id": "degen-hours",
     "symbol": "sleep",
     "name": "Degen Hours"
@@ -23918,11 +23933,6 @@
     "id": "dexquark",
     "symbol": "qrk",
     "name": "DexQuark"
-  },
-  {
-    "id": "dex-raiden",
-    "symbol": "dxr",
-    "name": "Dex Raiden"
   },
   {
     "id": "dexrp",
@@ -31980,6 +31990,11 @@
     "name": "Fooday"
   },
   {
+    "id": "food-for-gaza",
+    "symbol": "ffg",
+    "name": "FOOD FOR GAZA"
+  },
+  {
     "id": "food-token-2",
     "symbol": "food",
     "name": "Food Token"
@@ -33093,6 +33108,11 @@
     "id": "fuse-network-token",
     "symbol": "fuse",
     "name": "Fuse"
+  },
+  {
+    "id": "fuseon",
+    "symbol": "fus",
+    "name": "Fuseon"
   },
   {
     "id": "fusio",
@@ -34358,6 +34378,11 @@
     "id": "get-out-frog",
     "symbol": "gof",
     "name": "Get Out Frog"
+  },
+  {
+    "id": "get-rich-or-die-trying",
+    "symbol": "grodt",
+    "name": "Get Rich or Die Trying"
   },
   {
     "id": "get-rich-quick",
@@ -39470,6 +39495,11 @@
     "name": "Hydranet"
   },
   {
+    "id": "hydrated-dollar",
+    "symbol": "hollar",
+    "name": "Hydrated Dollar"
+  },
+  {
     "id": "hydraverse",
     "symbol": "hdv",
     "name": "Hydraverse"
@@ -41510,11 +41540,6 @@
     "name": "Iron Bank EUR"
   },
   {
-    "id": "ironclad-usd",
-    "symbol": "iusd",
-    "name": "Ironclad USD"
-  },
-  {
     "id": "iron-finance",
     "symbol": "ice",
     "name": "Iron Finance"
@@ -41798,6 +41823,11 @@
     "id": "i-wish-i-held",
     "symbol": "regret",
     "name": "I wish I held"
+  },
+  {
+    "id": "ixfi",
+    "symbol": "ixfi",
+    "name": "IXFI"
   },
   {
     "id": "ixicash",
@@ -43915,11 +43945,6 @@
     "name": "KEVIN"
   },
   {
-    "id": "kewl-exchange",
-    "symbol": "kwl",
-    "name": "KEWL EXCHANGE"
-  },
-  {
     "id": "key-2",
     "symbol": "key",
     "name": "KEY"
@@ -44380,6 +44405,11 @@
     "name": "Kitsune"
   },
   {
+    "id": "kittee-2",
+    "symbol": "kte",
+    "name": "KITTEE"
+  },
+  {
     "id": "kittehcoin-2",
     "symbol": "meow",
     "name": "KittehCoin"
@@ -44610,9 +44640,9 @@
     "name": "KOBAN"
   },
   {
-    "id": "kobe-2",
+    "id": "kobe-the-shiba-inu",
     "symbol": "kobe",
-    "name": "Kobe"
+    "name": "Kobe the Shiba Inu"
   },
   {
     "id": "kobradag",
@@ -46005,11 +46035,6 @@
     "name": "KelpDAO Bridged rsETH (Linea)"
   },
   {
-    "id": "layerzero-bridged-rsweth-swellchain",
-    "symbol": "rsweth",
-    "name": "Layerzero Bridged rswETH (Swellchain)"
-  },
-  {
     "id": "layerzero-bridged-sei",
     "symbol": "sei",
     "name": "LayerZero Bridged Sei"
@@ -46033,6 +46058,11 @@
     "id": "layerzero-bridged-usdc-etherlink",
     "symbol": "usdc",
     "name": "Bridged USDC (Etherlink)"
+  },
+  {
+    "id": "layerzero-bridged-usdt0-plasma",
+    "symbol": "usdt0",
+    "name": "LayerZero Bridged USDT0 (Plasma)"
   },
   {
     "id": "layerzero-bridged-usdt-aptos",
@@ -46915,6 +46945,11 @@
     "name": "Lily"
   },
   {
+    "id": "lily-2",
+    "symbol": "lily",
+    "name": "LILY"
+  },
+  {
     "id": "lily-s-coin",
     "symbol": "lily",
     "name": "Lily's Coin"
@@ -46947,6 +46982,11 @@
   {
     "id": "limitless-2",
     "symbol": "nzt48",
+    "name": "Limitless"
+  },
+  {
+    "id": "limitless-3",
+    "symbol": "lmts",
     "name": "Limitless"
   },
   {
@@ -52841,8 +52881,8 @@
   },
   {
     "id": "mira-3",
-    "symbol": "$mira",
-    "name": "MIRA"
+    "symbol": "mira",
+    "name": "Mira"
   },
   {
     "id": "miracle-play",
@@ -55360,6 +55400,11 @@
     "name": "Mystify"
   },
   {
+    "id": "mythical-gem",
+    "symbol": "gem",
+    "name": "Mythical Gem"
+  },
+  {
     "id": "mythos",
     "symbol": "myth",
     "name": "Mythos"
@@ -56123,6 +56168,11 @@
     "id": "netcoin-2",
     "symbol": "net",
     "name": "Netcoin"
+  },
+  {
+    "id": "net-dollar",
+    "symbol": "net",
+    "name": "NET Dollar"
   },
   {
     "id": "netflix-ondo-tokenized-stock",
@@ -57707,7 +57757,7 @@
   {
     "id": "novatti-australian-digital-dollar",
     "symbol": "audd",
-    "name": "Novatti Australian Digital Dollar"
+    "name": "Australian Digital Dollar"
   },
   {
     "id": "nova-usdc",
@@ -58103,6 +58153,11 @@
     "id": "nyx-cipher",
     "symbol": "nxcp",
     "name": "Nyx Cipher"
+  },
+  {
+    "id": "nyx-eternal",
+    "symbol": "nyx",
+    "name": "Nyx Eternal"
   },
   {
     "id": "nyxia-ai",
@@ -65415,6 +65470,11 @@
     "name": "Pulsara"
   },
   {
+    "id": "pulse-2",
+    "symbol": "xpl",
+    "name": "Pulse"
+  },
+  {
     "id": "pulsebitcoin",
     "symbol": "plsb",
     "name": "PulseBitcoin"
@@ -68035,6 +68095,11 @@
     "name": "Resistance Girl"
   },
   {
+    "id": "resister",
+    "symbol": "rstr",
+    "name": "Resister"
+  },
+  {
     "id": "resolv",
     "symbol": "resolv",
     "name": "Resolv"
@@ -68995,6 +69060,11 @@
     "name": "Rocky"
   },
   {
+    "id": "rockycat",
+    "symbol": "rkc",
+    "name": "RockyCat"
+  },
+  {
     "id": "rocky-on-base",
     "symbol": "$rocky",
     "name": "ROCKY"
@@ -69358,11 +69428,6 @@
     "id": "rss3-bridged-usdc-rss3",
     "symbol": "usdc",
     "name": "RSS3 Bridged USDC (RSS3)"
-  },
-  {
-    "id": "rubber-ducky-2",
-    "symbol": "rubber",
-    "name": "Rubber Ducky"
   },
   {
     "id": "rubber-ducky-cult",
@@ -73515,11 +73580,6 @@
     "name": "Snardler Wormfriend"
   },
   {
-    "id": "snark-launch",
-    "symbol": "$snrk",
-    "name": "Snark Launch"
-  },
-  {
     "id": "snek",
     "symbol": "snek",
     "name": "Snek"
@@ -76665,6 +76725,11 @@
     "name": "STAU"
   },
   {
+    "id": "stax-token",
+    "symbol": "$stax",
+    "name": "STAX Token"
+  },
+  {
     "id": "staynex",
     "symbol": "stay",
     "name": "STAYNEX"
@@ -78870,6 +78935,11 @@
     "name": "syrupUSDC"
   },
   {
+    "id": "syrupusdt",
+    "symbol": "syrupusdt",
+    "name": "syrupUSDT"
+  },
+  {
     "id": "syscoin",
     "symbol": "sys",
     "name": "Syscoin"
@@ -78953,11 +79023,6 @@
     "id": "ta-da",
     "symbol": "tada",
     "name": "Ta-da"
-  },
-  {
-    "id": "tadpole",
-    "symbol": "tad",
-    "name": "Tadpole"
   },
   {
     "id": "tagger",
@@ -81637,7 +81702,7 @@
   {
     "id": "tokemak",
     "symbol": "toke",
-    "name": "Tokemak"
+    "name": "Auto Finance"
   },
   {
     "id": "token",
@@ -85565,6 +85630,11 @@
     "name": "VCHAT Token"
   },
   {
+    "id": "vcred",
+    "symbol": "vcred",
+    "name": "VCRED"
+  },
+  {
     "id": "vcw",
     "symbol": "vcw",
     "name": "VCW"
@@ -88360,6 +88430,11 @@
     "name": "WILDWEST"
   },
   {
+    "id": "will",
+    "symbol": "will",
+    "name": "Will"
+  },
+  {
     "id": "will-be-rich",
     "symbol": "wbr",
     "name": "Will Be Rich"
@@ -89922,7 +89997,7 @@
   {
     "id": "wrapped-ether-mantle-bridge",
     "symbol": "weth",
-    "name": "Wrapped Ether (Mantle Bridge)"
+    "name": "Mantle Bridged WETH (Mantle)"
   },
   {
     "id": "wrapped-ether-massa",
@@ -91048,6 +91123,11 @@
     "id": "wrapped-xoc",
     "symbol": "wxoc",
     "name": "Wrapped XOC"
+  },
+  {
+    "id": "wrapped-xpl",
+    "symbol": "wxpl",
+    "name": "Wrapped XPL"
   },
   {
     "id": "wrapped-xrp",
@@ -93943,11 +94023,6 @@
     "id": "zik-coin",
     "symbol": "zik",
     "name": "ZIK coin"
-  },
-  {
-    "id": "zik-token",
-    "symbol": "zik",
-    "name": "Ziktalk"
   },
   {
     "id": "zillion-aakar-xo",
