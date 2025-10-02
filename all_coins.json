@@ -3855,6 +3855,11 @@
     "name": "AlphaDOGE"
   },
   {
+    "id": "alphaexchangeai",
+    "symbol": "aea",
+    "name": "AlphaExchangeAI"
+  },
+  {
     "id": "alpha-fi",
     "symbol": "alpha",
     "name": "Alpha Fi"
@@ -6780,11 +6785,6 @@
     "name": "Aurigami"
   },
   {
-    "id": "aurivis",
-    "symbol": "auri",
-    "name": "Aurivis"
-  },
-  {
     "id": "aurix",
     "symbol": "aur",
     "name": "Aurix"
@@ -8615,6 +8615,11 @@
     "name": "Bankroll Vault"
   },
   {
+    "id": "bankrstrategy",
+    "symbol": "bnkstr",
+    "name": "BankrStrategy"
+  },
+  {
     "id": "bankrx",
     "symbol": "bnxr",
     "name": "BankrX"
@@ -8638,11 +8643,6 @@
     "id": "banned",
     "symbol": "banned",
     "name": "BANNED"
-  },
-  {
-    "id": "banque-universal",
-    "symbol": "cbu",
-    "name": "Banque Universal"
   },
   {
     "id": "bansky",
@@ -12580,6 +12580,11 @@
     "name": "BNB LION"
   },
   {
+    "id": "bnb-meme-szn",
+    "symbol": "szn",
+    "name": "BNB MEME SZN"
+  },
+  {
     "id": "bnb-pets",
     "symbol": "pets",
     "name": "BNB Pets"
@@ -12742,7 +12747,7 @@
   {
     "id": "bob-network-bridged-usdce-bob-network",
     "symbol": "usdc.e",
-    "name": "BOB Network Bridged USDC.E (BOB Network)"
+    "name": "BOB Gateway Bridged USDC (BOB Network)"
   },
   {
     "id": "bob-network-bridged-usdt-bob-network",
@@ -14092,7 +14097,7 @@
   {
     "id": "bridged-axelar-wrapped-usd-coin-immutable-zkevm",
     "symbol": "axlusdc",
-    "name": "Bridged Axelar Wrapped USD Coin (Immutable zkEVM)"
+    "name": "Axelar Bridged USDC (Immutable zkEVM)"
   },
   {
     "id": "bridged-axelar-wrapped-usd-coin-scroll",
@@ -14318,11 +14323,6 @@
     "id": "bridged-usdc-xdc-bridge",
     "symbol": "usdc.e",
     "name": "XDC Bridged USDC (XDC)"
-  },
-  {
-    "id": "bridged-usdc-x-layer",
-    "symbol": "usdc.e",
-    "name": "X Layer Bridged USDC (X Layer)"
   },
   {
     "id": "bridged-usdt",
@@ -15615,6 +15615,11 @@
     "name": "bZx Protocol"
   },
   {
+    "id": "c1usd",
+    "symbol": "c1usd",
+    "name": "Currency One USD"
+  },
+  {
     "id": "c8ntinuum",
     "symbol": "ctm",
     "name": "c8ntinuum"
@@ -16211,6 +16216,11 @@
   },
   {
     "id": "cash-3",
+    "symbol": "cash",
+    "name": "CASH"
+  },
+  {
+    "id": "cash-4",
     "symbol": "cash",
     "name": "CASH"
   },
@@ -18618,6 +18628,11 @@
     "id": "clip-coin",
     "symbol": "clip",
     "name": "Clip Coin"
+  },
+  {
+    "id": "clipped",
+    "symbol": "clipped",
+    "name": "CLIPPED"
   },
   {
     "id": "clippy",
@@ -24165,6 +24180,21 @@
     "name": "DIA"
   },
   {
+    "id": "dialectic-btc-vault",
+    "symbol": "dbit",
+    "name": "Dialectic BTC Vault"
+  },
+  {
+    "id": "dialectic-eth-vault",
+    "symbol": "deth",
+    "name": "Dialectic ETH Vault"
+  },
+  {
+    "id": "dialectic-usd-vault",
+    "symbol": "dusd",
+    "name": "Dialectic USD Vault"
+  },
+  {
     "id": "diam",
     "symbol": "diam",
     "name": "DIAM"
@@ -24313,11 +24343,6 @@
     "id": "digihealth-2",
     "symbol": "dgh",
     "name": "DigiHealth"
-  },
-  {
-    "id": "digika",
-    "symbol": "dgk",
-    "name": "DIGIKA"
   },
   {
     "id": "digimetaverse",
@@ -25808,6 +25833,11 @@
     "id": "doginhood",
     "symbol": "dogin",
     "name": "Department of Government Inefficiency"
+  },
+  {
+    "id": "doginhood-2",
+    "symbol": "dih",
+    "name": "doginhood"
   },
   {
     "id": "doginme",
@@ -27822,7 +27852,7 @@
   {
     "id": "edu-chain-bridged-usdc-edu-chain",
     "symbol": "usdc",
-    "name": "EDU Chain Bridged USDC (EDU Chain)"
+    "name": "Arbitrum Bridged USDC (EDU Chain)"
   },
   {
     "id": "edu-chain-bridged-usdt-edu-chain",
@@ -31480,11 +31510,6 @@
     "name": "Flare Staked Ether"
   },
   {
-    "id": "flare-system",
-    "symbol": "fls",
-    "name": "Flare system"
-  },
-  {
     "id": "flare-token",
     "symbol": "1flr",
     "name": "Flare Token"
@@ -31498,6 +31523,11 @@
     "id": "flash-liquidity-token",
     "symbol": "flp.1",
     "name": "Flash Liquidity Token"
+  },
+  {
+    "id": "flashscreener",
+    "symbol": "flash",
+    "name": "FlashScreener"
   },
   {
     "id": "flash-trade",
@@ -39975,6 +40005,11 @@
     "name": "Hypurr Fun"
   },
   {
+    "id": "hypurrstrategy",
+    "symbol": "hypstr",
+    "name": "HypurrStrategy"
+  },
+  {
     "id": "hyruleswap",
     "symbol": "rupee",
     "name": "HyruleSwap"
@@ -41723,6 +41758,11 @@
     "id": "iris-token-2",
     "symbol": "iris",
     "name": "Iris"
+  },
+  {
+    "id": "irl-ani",
+    "symbol": "uri",
+    "name": "IRL ANI"
   },
   {
     "id": "iro-chan",
@@ -46277,7 +46317,7 @@
   {
     "id": "layerzero-bridged-usdc-etherlink",
     "symbol": "usdc",
-    "name": "Bridged USDC (Etherlink)"
+    "name": "Etherlink Bridged USDC (Etherlink)"
   },
   {
     "id": "layerzero-bridged-usdt-aptos",
@@ -47781,6 +47821,11 @@
   },
   {
     "id": "little-pepe-2",
+    "symbol": "lilpepe",
+    "name": "Little Pepe"
+  },
+  {
+    "id": "little-pepe-3",
     "symbol": "lilpepe",
     "name": "Little Pepe"
   },
@@ -50336,7 +50381,7 @@
   },
   {
     "id": "massa-bridged-usdc-massa",
-    "symbol": "usdc",
+    "symbol": "usdc.e",
     "name": "Massa Bridged USDC (Massa)"
   },
   {
@@ -54345,11 +54390,6 @@
     "name": "MoonLana"
   },
   {
-    "id": "moonland-metaverse-token",
-    "symbol": "mtk",
-    "name": "Moonland Metaverse Token"
-  },
-  {
     "id": "moon-maker-protocol",
     "symbol": "mmp",
     "name": "Moon Maker Protocol"
@@ -54707,7 +54747,7 @@
   {
     "id": "most-bridged-usdc-aleph-zero",
     "symbol": "usdc",
-    "name": "Most Bridged USDC (Aleph Zero)"
+    "name": "MOST Bridged USDC (Aleph Zero)"
   },
   {
     "id": "most-bridged-weth-aleph-zero",
@@ -57635,6 +57675,11 @@
     "name": "NOME"
   },
   {
+    "id": "nomina",
+    "symbol": "nom",
+    "name": "Nomina"
+  },
+  {
     "id": "nominex",
     "symbol": "nmx",
     "name": "Nominex"
@@ -57798,6 +57843,11 @@
     "id": "nosana",
     "symbol": "nos",
     "name": "Nosana"
+  },
+  {
+    "id": "nose",
+    "symbol": "nose",
+    "name": "nose"
   },
   {
     "id": "nose-bud",
@@ -59097,7 +59147,7 @@
   {
     "id": "omni-network",
     "symbol": "omni",
-    "name": "Omni Network"
+    "name": "Omni Network [Old]"
   },
   {
     "id": "omnipair",
@@ -61620,6 +61670,11 @@
     "name": "Peachfolio"
   },
   {
+    "id": "peak-internet-male-performance",
+    "symbol": "pimp",
+    "name": "Peak Internet Male Performance"
+  },
+  {
     "id": "peanie",
     "symbol": "peanie",
     "name": "peanie"
@@ -62835,6 +62890,11 @@
     "name": "Phonon DAO"
   },
   {
+    "id": "photon-2",
+    "symbol": "photon",
+    "name": "Photon"
+  },
+  {
     "id": "photon-milky-way",
     "symbol": "pmw",
     "name": "Photon Milky Way"
@@ -63518,6 +63578,11 @@
     "id": "plant",
     "symbol": "plant",
     "name": "Plant"
+  },
+  {
+    "id": "plantfun",
+    "symbol": "plantfun",
+    "name": "Plantfun"
   },
   {
     "id": "plants-vs-ronke",
@@ -64245,6 +64310,11 @@
     "name": "Polygon Hermez Bridged USDC (Polygon zkEVM)"
   },
   {
+    "id": "polygon-hermez-bridged-usdc-x-layer",
+    "symbol": "usdc",
+    "name": "Polygon Hermez Bridged USDC (X Layer)"
+  },
+  {
     "id": "polygon-hermez-bridged-usdt-polygon-zkevm",
     "symbol": "usdt",
     "name": "Polygon Hermez Bridged USDT (Polygon zkEVM)"
@@ -64673,6 +64743,11 @@
     "id": "popo-the-frog",
     "symbol": "frop",
     "name": "Popo The Frog"
+  },
+  {
+    "id": "pop-planet",
+    "symbol": "p",
+    "name": "Pop Planet"
   },
   {
     "id": "poppy",
@@ -70312,7 +70387,7 @@
   {
     "id": "saga-bridged-usdc-saga",
     "symbol": "usdc",
-    "name": "Saga Bridged USDC (Saga)"
+    "name": "Squid Bridged USDC (Saga)"
   },
   {
     "id": "saga-bridged-usdt-saga",
@@ -72495,6 +72570,11 @@
     "name": "Shine Chain"
   },
   {
+    "id": "shinedao",
+    "symbol": "shn",
+    "name": "ShineDAO"
+  },
+  {
     "id": "shinji",
     "symbol": "shnj",
     "name": "Shinji"
@@ -74265,6 +74345,11 @@
     "name": "Solana Spaces"
   },
   {
+    "id": "solana-s-stablecoin",
+    "symbol": "usx",
+    "name": "Solana's Stablecoin"
+  },
+  {
     "id": "solana-stock-index",
     "symbol": "ssx",
     "name": "Solana Stock Index"
@@ -75390,11 +75475,6 @@
     "name": "SōzōAI"
   },
   {
-    "id": "sp500-token",
-    "symbol": "sp500",
-    "name": "SP500 Token"
-  },
-  {
     "id": "sp500-xstock",
     "symbol": "spyx",
     "name": "SP500 xStock"
@@ -76413,11 +76493,6 @@
     "id": "staika",
     "symbol": "stik",
     "name": "Staika"
-  },
-  {
-    "id": "stakeborg-dao",
-    "symbol": "standard",
-    "name": "Construct"
   },
   {
     "id": "stakecube",
@@ -83505,6 +83580,11 @@
     "name": "TRUF.Network"
   },
   {
+    "id": "trulink",
+    "symbol": "tru",
+    "name": "Trulink"
+  },
+  {
     "id": "trump-47",
     "symbol": "47",
     "name": "TRUMP 47"
@@ -84068,6 +84148,11 @@
     "id": "tyche-protocol",
     "symbol": "tyche",
     "name": "Tyche Protocol"
+  },
+  {
+    "id": "tycoon-by-shareland",
+    "symbol": "$tycoon",
+    "name": "Tycoon by Shareland"
   },
   {
     "id": "tyke-the-elephant",
@@ -85115,6 +85200,11 @@
     "name": "UPTOBER"
   },
   {
+    "id": "uptober-2",
+    "symbol": "uptober",
+    "name": "Uptober"
+  },
+  {
     "id": "up-token-2",
     "symbol": "up",
     "name": "uP Token"
@@ -85252,7 +85342,7 @@
   {
     "id": "usd1",
     "symbol": "usd1",
-    "name": "USD1"
+    "name": "USD1 [Old]"
   },
   {
     "id": "usd1doge",
@@ -85312,7 +85402,7 @@
   {
     "id": "usd-coin-bridged-zed20",
     "symbol": "usdc.z",
-    "name": "Zedxion Bridged USDC (Zedxion)"
+    "name": "ZEDX Bridged USDC (Zedxion)"
   },
   {
     "id": "usd-coin-celer",
@@ -88210,6 +88300,11 @@
     "name": "WeeDE"
   },
   {
+    "id": "weed-token",
+    "symbol": "weed",
+    "name": "WEED Token"
+  },
+  {
     "id": "weepi",
     "symbol": "weepi",
     "name": "Weepi"
@@ -89370,6 +89465,11 @@
     "name": "World3"
   },
   {
+    "id": "world-assets",
+    "symbol": "inc",
+    "name": "WorldAssets"
+  },
+  {
     "id": "worldbrain-coin",
     "symbol": "wbc",
     "name": "WorldBrain Coin"
@@ -89560,6 +89660,11 @@
     "name": "Wpphmrmbdtrsj2p0eb69i"
   },
   {
+    "id": "wrapped-0g",
+    "symbol": "w0g",
+    "name": "Wrapped 0G"
+  },
+  {
     "id": "wrapped-1inch-universal",
     "symbol": "u1inch",
     "name": "Wrapped 1inch (Universal)"
@@ -89718,6 +89823,11 @@
     "id": "wrapped-aave-plasma-usdt0",
     "symbol": "waplausdt0",
     "name": "Wrapped Aave Plasma USDT0"
+  },
+  {
+    "id": "wrapped-aave-sonic-usdc",
+    "symbol": "wasonusdc",
+    "name": "Wrapped Aave Sonic USDC"
   },
   {
     "id": "wrapped-aave-universal",
@@ -92580,6 +92690,11 @@
     "name": "XSwap"
   },
   {
+    "id": "xswap-bridged-usdc-0g",
+    "symbol": "usdc.e",
+    "name": "XSwap Bridged USDC (0G)"
+  },
+  {
     "id": "xswap-protocol",
     "symbol": "xsp",
     "name": "XSwap Protocol"
@@ -94452,7 +94567,7 @@
   {
     "id": "zilliqa-evm-bridged-usdc-zilliqa-evm",
     "symbol": "usdc",
-    "name": "Zilliqa EVM Bridged USDC (Zilliqa EVM)"
+    "name": "deBridge Bridged USDC (Zilliqa EVM)"
   },
   {
     "id": "zilpepe",
