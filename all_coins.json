@@ -455,6 +455,11 @@
     "name": "$500M piece of paper"
   },
   {
+    "id": "501-token",
+    "symbol": "501",
+    "name": "501"
+  },
+  {
     "id": "589-token",
     "symbol": "589",
     "name": "589"
@@ -1978,6 +1983,11 @@
     "id": "afen-blockchain",
     "symbol": "afen",
     "name": "AFEN Blockchain"
+  },
+  {
+    "id": "affine",
+    "symbol": "sn120",
+    "name": "affine"
   },
   {
     "id": "affi-network",
@@ -7265,9 +7275,14 @@
     "name": "Axelar Bridged Frax Ether"
   },
   {
+    "id": "axelar-bridged-usdc-blast",
+    "symbol": "axlusdc",
+    "name": "Axelar Bridged USDC (Blast)"
+  },
+  {
     "id": "axelar-bridged-usdc-cosmos",
-    "symbol": "usdc.axl",
-    "name": "Axelar Bridged USDC (Cosmos)"
+    "symbol": "usdc.eth.axl",
+    "name": "Axelar Bridged USDC (Osmosis)"
   },
   {
     "id": "axelar-bridged-wbnb-axelar",
@@ -7493,6 +7508,11 @@
     "id": "baby-2",
     "symbol": "baby",
     "name": "BABY"
+  },
+  {
+    "id": "baby-4",
+    "symbol": "baby4",
+    "name": "Baby 4"
   },
   {
     "id": "baby-arbitrum",
@@ -7748,6 +7768,11 @@
     "id": "baby-maga",
     "symbol": "babymaga",
     "name": "Baby Maga"
+  },
+  {
+    "id": "babymanyu",
+    "symbol": "babymanyu",
+    "name": "BabyManyu"
   },
   {
     "id": "baby-manyu",
@@ -9063,6 +9088,11 @@
     "id": "based-wojak",
     "symbol": "wojak",
     "name": "Based Wojak"
+  },
+  {
+    "id": "based-zlurpee",
+    "symbol": "zlurpee",
+    "name": "Based Zlurpee"
   },
   {
     "id": "basefrog",
@@ -11480,6 +11510,11 @@
     "name": "BitPRO"
   },
   {
+    "id": "bitquant",
+    "symbol": "sn15",
+    "name": "BitQuant"
+  },
+  {
     "id": "bitra",
     "symbol": "btr",
     "name": "Bitra"
@@ -11618,11 +11653,6 @@
     "id": "bkokfi",
     "symbol": "bkok",
     "name": "BKOKFi"
-  },
-  {
-    "id": "bl00p",
-    "symbol": "bl00p",
-    "name": "BL00P"
   },
   {
     "id": "bl0ck",
@@ -14257,7 +14287,7 @@
   {
     "id": "bridged-usdc-chainport",
     "symbol": "usdc",
-    "name": "Bridged USDC (Chainport)"
+    "name": "Chainport Bridged USDC (Humanode)"
   },
   {
     "id": "bridged-usdc-core",
@@ -14317,7 +14347,7 @@
   {
     "id": "bridged-usdc-polygon-pos-bridge",
     "symbol": "usdc.e",
-    "name": "Bridged USDC (Polygon PoS Bridge)"
+    "name": "Polygon Bridged USDC (Polygon PoS)"
   },
   {
     "id": "bridged-usdc-xdc-bridge",
@@ -14805,6 +14835,11 @@
     "name": "BTC Standard Hashrate Token"
   },
   {
+    "id": "bts-chain",
+    "symbol": "btsc",
+    "name": "BTS Chain"
+  },
+  {
     "id": "btse-token",
     "symbol": "btse",
     "name": "BTSE Token"
@@ -15140,6 +15175,11 @@
     "name": "bullish"
   },
   {
+    "id": "bullish-degen",
+    "symbol": "bullish",
+    "name": "Bullish Degen"
+  },
+  {
     "id": "bullishmarketcap",
     "symbol": "$bmc",
     "name": "BullishMarketCap"
@@ -15278,11 +15318,6 @@
     "id": "bunni",
     "symbol": "bunni",
     "name": "Bunni"
-  },
-  {
-    "id": "bunnie",
-    "symbol": "$bun",
-    "name": "Bunnie"
   },
   {
     "id": "bunny-mev-bot",
@@ -16750,6 +16785,11 @@
     "name": "Celo Swiss Franc"
   },
   {
+    "id": "ccip-bridged-usdc-ronin",
+    "symbol": "usdc",
+    "name": "CCIP Bridged USDC (Ronin)"
+  },
+  {
     "id": "ccomp",
     "symbol": "ccomp",
     "name": "cCOMP"
@@ -17322,7 +17362,7 @@
   {
     "id": "chain-key-usdc",
     "symbol": "ckusdc",
-    "name": "Chain-key USDC"
+    "name": "Chain-key Bridged USDC (ICP)"
   },
   {
     "id": "chain-key-usdt",
@@ -18935,6 +18975,11 @@
     "name": "Cocoro"
   },
   {
+    "id": "cocoro-2",
+    "symbol": "cocoro",
+    "name": "Cocoro"
+  },
+  {
     "id": "cocos-bcx",
     "symbol": "combo",
     "name": "COMBO"
@@ -19500,6 +19545,11 @@
     "name": "Community Coin"
   },
   {
+    "id": "community-coin-4",
+    "symbol": "community",
+    "name": "Community Coin"
+  },
+  {
     "id": "community-inu",
     "symbol": "cti",
     "name": "Community Inu"
@@ -19577,7 +19627,7 @@
   {
     "id": "compound-usd-coin",
     "symbol": "cusdc",
-    "name": "cUSDC"
+    "name": "Compound USDC"
   },
   {
     "id": "compound-wrapped-btc",
@@ -19658,6 +19708,11 @@
     "id": "concierge-io",
     "symbol": "ava",
     "name": "AVA (Travala)"
+  },
+  {
+    "id": "concilium",
+    "symbol": "concilium",
+    "name": "Concilium"
   },
   {
     "id": "concordium",
@@ -20433,6 +20488,11 @@
     "id": "crazy-bunny-equity-token",
     "symbol": "cbunny",
     "name": "Crazy Bunny Equity"
+  },
+  {
+    "id": "crazyfootball-token",
+    "symbol": "football",
+    "name": "CrazyFootball token"
   },
   {
     "id": "crazy-frog",
@@ -21878,6 +21938,11 @@
     "id": "cypepe",
     "symbol": "cypepe",
     "name": "CyPepe"
+  },
+  {
+    "id": "cypher-2",
+    "symbol": "cypr",
+    "name": "Cypher"
   },
   {
     "id": "cypher-ai-2",
@@ -26250,11 +26315,6 @@
     "name": "Dominium"
   },
   {
-    "id": "domin-network",
-    "symbol": "domin",
-    "name": "Domin Network"
-  },
-  {
     "id": "donaldcat",
     "symbol": "dc",
     "name": "DONALDCAT"
@@ -28428,11 +28488,6 @@
     "id": "elon-trump-fart",
     "symbol": "etf500",
     "name": "Elon Trump Fart"
-  },
-  {
-    "id": "elonxcat",
-    "symbol": "exc",
-    "name": "ElonXCat"
   },
   {
     "id": "elosys",
@@ -32190,6 +32245,11 @@
     "name": "Football Coin"
   },
   {
+    "id": "football-coin-2",
+    "symbol": "football",
+    "name": "Football Coin"
+  },
+  {
     "id": "football-world-community",
     "symbol": "fwc",
     "name": "Football World Community"
@@ -33048,6 +33108,11 @@
     "id": "fry",
     "symbol": "fry",
     "name": "Fry"
+  },
+  {
+    "id": "fsjal",
+    "symbol": "fsjal",
+    "name": "fsjal"
   },
   {
     "id": "fsn",
@@ -35685,6 +35750,11 @@
     "name": "GOLD8"
   },
   {
+    "id": "gold-8",
+    "symbol": "xau",
+    "name": "Gold"
+  },
+  {
     "id": "goldbrick",
     "symbol": "gbck",
     "name": "GoldBrick"
@@ -37661,8 +37731,8 @@
   },
   {
     "id": "harmony-horizen-bridged-usdc-harmony",
-    "symbol": "usdc",
-    "name": "Harmony Horizen Bridged USDC (Harmony)"
+    "symbol": "1usdc",
+    "name": "Harmony Horizon Bridged USDC (Harmony)"
   },
   {
     "id": "harmony-horizon-bridged-ceth-harmony-shard-0",
@@ -38222,7 +38292,7 @@
   {
     "id": "heliswap-bridged-usdc-hts",
     "symbol": "usdc[hts]",
-    "name": "Bridged USDC (Hashport)"
+    "name": "Hashport Bridged USDC (Hedera)"
   },
   {
     "id": "helium",
@@ -40998,6 +41068,11 @@
     "id": "infinity-2",
     "symbol": "8",
     "name": "Infinity"
+  },
+  {
+    "id": "infinity-3",
+    "symbol": "infinity",
+    "name": "INFINITY"
   },
   {
     "id": "infinity-ai",
@@ -45210,6 +45285,11 @@
     "name": "KOOKY"
   },
   {
+    "id": "kora",
+    "symbol": "sn71",
+    "name": "Kora"
+  },
+  {
     "id": "kori",
     "symbol": "kori",
     "name": "Kori"
@@ -45457,7 +45537,7 @@
   {
     "id": "kucoin-bridged-usdc-kucoin-community-chain",
     "symbol": "usdc",
-    "name": "Kucoin Bridged USDC (KuCoin Community Chain)"
+    "name": "KCC Bridged USDC (KuCoin Community Chain)"
   },
   {
     "id": "kucoin-bridged-usdt-kucoin-community-chain",
@@ -46341,7 +46421,7 @@
   },
   {
     "id": "layerzero-bridged-usdc-aptos",
-    "symbol": "zusdc",
+    "symbol": "usdc",
     "name": "LayerZero Bridged USDC (Aptos)"
   },
   {
@@ -51702,7 +51782,7 @@
   {
     "id": "merlins-seal-usdc",
     "symbol": "m-usdc",
-    "name": "Merlin's Seal USDC"
+    "name": "Merlin Bridged USDC (Merlin)"
   },
   {
     "id": "merlins-seal-usdt",
@@ -52261,7 +52341,7 @@
   },
   {
     "id": "meter-passport-bridged-usdc-meter",
-    "symbol": "usdc",
+    "symbol": "usdc.eth",
     "name": "Meter Passport Bridged USDC (Meter)"
   },
   {
@@ -52288,6 +52368,11 @@
     "id": "meth-protocol",
     "symbol": "cook",
     "name": "mETH Protocol"
+  },
+  {
+    "id": "metis-bridged-usdc-metis",
+    "symbol": "m.usdc",
+    "name": "Metis Bridged USDC (Metis Andromeda)"
   },
   {
     "id": "metis-bridged-wbtc-metis-andromeda",
@@ -53637,7 +53722,12 @@
   {
     "id": "modern-stoic",
     "symbol": "stoic",
-    "name": "Modern Stoic"
+    "name": "Modern Stoic [OLD]"
+  },
+  {
+    "id": "modern-stoic-2",
+    "symbol": "trade",
+    "name": "HyperTrade"
   },
   {
     "id": "modex",
@@ -53883,11 +53973,6 @@
     "id": "mondo",
     "symbol": "mondo",
     "name": "mondo"
-  },
-  {
-    "id": "mondo-community-coin",
-    "symbol": "mndcc",
-    "name": "Mondo Community Coin"
   },
   {
     "id": "monerium-eur-money",
@@ -58102,7 +58187,7 @@
   {
     "id": "nova-usdc",
     "symbol": "usdc",
-    "name": "Nova Merged USDC (zkLink)"
+    "name": "zkLink Nova Merged Bridged USDC (zkLink Nova)"
   },
   {
     "id": "novawchi",
@@ -58673,11 +58758,6 @@
     "id": "octanepay",
     "symbol": "oct",
     "name": "OctanePay"
-  },
-  {
-    "id": "octaplex-network",
-    "symbol": "plx",
-    "name": "Octaplex Network"
   },
   {
     "id": "octaspace",
@@ -59538,6 +59618,11 @@
     "id": "opaium",
     "symbol": "opaium",
     "name": "Opaium"
+  },
+  {
+    "id": "opal-3",
+    "symbol": "opal",
+    "name": "Opal"
   },
   {
     "id": "opanarchy",
@@ -63350,6 +63435,11 @@
     "name": "PipeIQ"
   },
   {
+    "id": "pipe-network",
+    "symbol": "pipe",
+    "name": "Pipe Network"
+  },
+  {
     "id": "pipi",
     "symbol": "pipi",
     "name": "PIPI"
@@ -63453,11 +63543,6 @@
     "id": "piteas",
     "symbol": "pts",
     "name": "Piteas"
-  },
-  {
-    "id": "pitty-the-pitbull",
-    "symbol": "pitty",
-    "name": "Pitty the Pitbull"
   },
   {
     "id": "pivx",
@@ -64435,6 +64520,11 @@
     "name": "Poly-Peg Mdex"
   },
   {
+    "id": "polypump",
+    "symbol": "polypump",
+    "name": "Polypump"
+  },
+  {
     "id": "polypup",
     "symbol": "pup",
     "name": "PolyPup"
@@ -64797,7 +64887,7 @@
   {
     "id": "pop-planet",
     "symbol": "p",
-    "name": "Pop Planet"
+    "name": "PoP Planet"
   },
   {
     "id": "poppy",
@@ -66726,7 +66816,7 @@
   },
   {
     "id": "quantum-2",
-    "symbol": "q",
+    "symbol": "quantum",
     "name": "Quantum"
   },
   {
@@ -69600,6 +69690,11 @@
     "name": "MarbleVerse"
   },
   {
+    "id": "rollux-bridged-usdc-rollux",
+    "symbol": "usdc",
+    "name": "Rollux Bridged USDC (Rollux)"
+  },
+  {
     "id": "rome",
     "symbol": "rome",
     "name": "Rome"
@@ -72047,7 +72142,7 @@
   {
     "id": "shadowtokens-bridged-usdc-elastos",
     "symbol": "ethusdc",
-    "name": "ShadowTokens Bridged USDC (Elastos)"
+    "name": "Shadow Token Bridged USDC (Elastos)"
   },
   {
     "id": "shadowtokens-bridged-wbnb-elastos-smart-chain",
@@ -75035,6 +75130,11 @@
     "name": "Solv Protocol Staked BTC"
   },
   {
+    "id": "solv-protocol-solvbtc-bera",
+    "symbol": "solvbtc.bera",
+    "name": "Solv Protocol SolvBTC.BERA"
+  },
+  {
     "id": "solv-protocol-solvbtc-bnb",
     "symbol": "solvbtc.bnb",
     "name": "Solv Protocol SolvBTC.BNB"
@@ -76795,6 +76895,11 @@
     "name": "Staked Yearn Ether"
   },
   {
+    "id": "staked-yusd",
+    "symbol": "syusd",
+    "name": "Staked YUSD"
+  },
+  {
     "id": "stakehouse-keth",
     "symbol": "keth",
     "name": "Stakehouse kETH"
@@ -77158,6 +77263,11 @@
     "id": "static-hyperlend-hyperevm-whype-v2",
     "symbol": "stathhyperevmwhypev2",
     "name": "Static HyperLend HyperEVM WHYPE v2"
+  },
+  {
+    "id": "staticky",
+    "symbol": "$staticky",
+    "name": "StatiCKy"
   },
   {
     "id": "station-this",
@@ -79402,7 +79512,7 @@
   {
     "id": "syrupusdc",
     "symbol": "syrupusdc",
-    "name": "syrupUSDC"
+    "name": "Syrup USDC"
   },
   {
     "id": "syrupusdt",
@@ -90195,11 +90305,6 @@
     "name": "Wrapped Bitcoin"
   },
   {
-    "id": "wrapped-bitcoin-celer",
-    "symbol": "cewbtc",
-    "name": "Wrapped Bitcoin - Celer"
-  },
-  {
     "id": "wrapped-bitcoin-fuse",
     "symbol": "wbtcv2",
     "name": "Wrapped BTC (Fuse)"
@@ -90253,11 +90358,6 @@
     "id": "wrapped-bnb-21-co",
     "symbol": "21bnb",
     "name": "21.co Wrapped BNB"
-  },
-  {
-    "id": "wrapped-bnb-celer",
-    "symbol": "cewbnb",
-    "name": "Wrapped BNB - Celer"
   },
   {
     "id": "wrapped-bnvda",
@@ -90593,11 +90693,6 @@
     "id": "wrapped-ether",
     "symbol": "wetc",
     "name": "Wrapped ETC"
-  },
-  {
-    "id": "wrapped-ether-celer",
-    "symbol": "ceweth",
-    "name": "Wrapped Ether - Celer"
   },
   {
     "id": "wrapped-ethereum-classic-universal",
@@ -91647,7 +91742,7 @@
   {
     "id": "wrapped-usdc-caviarnine",
     "symbol": "xusdc",
-    "name": "Instabridge Wrapped USDC (Radix)"
+    "name": "Instabridge Bridged USDC (Radix)"
   },
   {
     "id": "wrapped-usdm",
@@ -94347,7 +94442,7 @@
   {
     "id": "zerobase",
     "symbol": "zbt",
-    "name": "Zerobase"
+    "name": "ZEROBASE"
   },
   {
     "id": "zerobyte",
