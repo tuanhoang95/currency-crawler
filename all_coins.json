@@ -165,6 +165,11 @@
     "name": "OneArt"
   },
   {
+    "id": "1-coin-can-change-your-life",
+    "symbol": "1-coin-can-change-your-life",
+    "name": "1 Coin Can Change Your Life"
+  },
+  {
     "id": "1dev",
     "symbol": "1dev",
     "name": "1DEV"
@@ -4313,6 +4318,11 @@
     "id": "america-s-official-launchpad",
     "symbol": "aol",
     "name": "America's Official Launchpad"
+  },
+  {
+    "id": "ameri-coin",
+    "symbol": "amc",
+    "name": "Ameri Coin"
   },
   {
     "id": "ami",
@@ -10205,6 +10215,11 @@
     "name": "BHO Network"
   },
   {
+    "id": "bianrensheng",
+    "symbol": "币安人生",
+    "name": "币安人生"
+  },
+  {
     "id": "biaocoin",
     "symbol": "biao",
     "name": "Biaocoin"
@@ -10515,6 +10530,11 @@
     "name": "BiLira"
   },
   {
+    "id": "billboard",
+    "symbol": "billboard",
+    "name": "BILLBOARD"
+  },
+  {
     "id": "billi",
     "symbol": "billi",
     "name": "Billi"
@@ -10733,6 +10753,11 @@
     "id": "binance-wrapped-btc",
     "symbol": "bbtc",
     "name": "Binance Wrapped BTC"
+  },
+  {
+    "id": "binance-yellow-robot",
+    "symbol": "bina",
+    "name": "Binance Yellow Robot"
   },
   {
     "id": "binants",
@@ -11193,6 +11218,11 @@
     "id": "bitcoin-gold",
     "symbol": "btg",
     "name": "Bitcoin Gold"
+  },
+  {
+    "id": "bitcoinii",
+    "symbol": "bc2",
+    "name": "BitcoinII"
   },
   {
     "id": "bitcoin-inu",
@@ -12693,6 +12723,11 @@
     "id": "bns-token",
     "symbol": "bns",
     "name": "BNS"
+  },
+  {
+    "id": "bntober",
+    "symbol": "bntober",
+    "name": "BNTOBER"
   },
   {
     "id": "bnv",
@@ -14387,7 +14422,7 @@
   {
     "id": "bridged-usdt-core",
     "symbol": "usdt",
-    "name": "Bridged USDT (Core)"
+    "name": "CoreDAO Bridged USDT (Core)"
   },
   {
     "id": "bridged-usdt-immutable-zkevm",
@@ -15988,6 +16023,11 @@
     "id": "cap-2",
     "symbol": "cap",
     "name": "CAP"
+  },
+  {
+    "id": "cap-3",
+    "symbol": "cap",
+    "name": "Cap"
   },
   {
     "id": "capapult",
@@ -22071,7 +22111,7 @@
   },
   {
     "id": "dachu-the-chef",
-    "symbol": "$dachu",
+    "symbol": "dachu",
     "name": "DACHU THE CHEF"
   },
   {
@@ -22826,8 +22866,8 @@
   },
   {
     "id": "debtcoin-2",
-    "symbol": "$dbt",
-    "name": "$Debtcoin"
+    "symbol": "dbt",
+    "name": "Debtcoin"
   },
   {
     "id": "debtreliefbot",
@@ -23990,6 +24030,11 @@
     "name": "Dessistant by Virtuals"
   },
   {
+    "id": "destable-coin",
+    "symbol": "destable",
+    "name": "destable coin"
+  },
+  {
     "id": "destiny-world",
     "symbol": "deco",
     "name": "Destiny World"
@@ -24013,6 +24058,11 @@
     "id": "detensor",
     "symbol": "detensor",
     "name": "DeTensor"
+  },
+  {
+    "id": "deus-2",
+    "symbol": "deus",
+    "name": "DEUS"
   },
   {
     "id": "deus-finance-2",
@@ -24195,11 +24245,6 @@
     "name": "DexQuark"
   },
   {
-    "id": "dex-raiden",
-    "symbol": "dxr",
-    "name": "Dex Raiden"
-  },
-  {
     "id": "dexrp",
     "symbol": "dxp",
     "name": "DeXRP"
@@ -24376,7 +24421,7 @@
   },
   {
     "id": "diamond-token-2",
-    "symbol": "$dit",
+    "symbol": "dit",
     "name": "DIAMOND TOKEN 💎"
   },
   {
@@ -30962,7 +31007,7 @@
   {
     "id": "feline-fury",
     "symbol": "fury",
-    "name": "Feline Fury"
+    "name": "Fury Felines"
   },
   {
     "id": "felis",
@@ -31153,6 +31198,11 @@
     "id": "fight",
     "symbol": "fight",
     "name": "FIGHT"
+  },
+  {
+    "id": "fight-for-justice",
+    "symbol": "ffj",
+    "name": "Fight For Justice"
   },
   {
     "id": "fightly-ai",
@@ -33486,7 +33536,7 @@
   },
   {
     "id": "fuuuuuuuuuuuuuu",
-    "symbol": "$fuuu",
+    "symbol": "fuuu",
     "name": "FUUUUUUUUUUUUUU"
   },
   {
@@ -34658,11 +34708,6 @@
     "id": "geojam",
     "symbol": "jam",
     "name": "Geojam"
-  },
-  {
-    "id": "geometric-energy-corporation",
-    "symbol": "gec",
-    "name": "Geometric Energy Corporation"
   },
   {
     "id": "georgeplaysclashroyale",
@@ -39860,6 +39905,11 @@
     "name": "HyBridge"
   },
   {
+    "id": "hybridge-bridged-link-hyperevm",
+    "symbol": "link0",
+    "name": "Hybridge Bridged LINK (HyperEVM)"
+  },
+  {
     "id": "hydra",
     "symbol": "hydra",
     "name": "Hydra"
@@ -40436,7 +40486,7 @@
   },
   {
     "id": "icy-2",
-    "symbol": "$icy",
+    "symbol": "icy",
     "name": "Icy"
   },
   {
@@ -45575,6 +45625,11 @@
     "name": "KRWO"
   },
   {
+    "id": "krwt",
+    "symbol": "krwt",
+    "name": "KRWT"
+  },
+  {
     "id": "kryll",
     "symbol": "krl",
     "name": "KRYLL"
@@ -49498,6 +49553,11 @@
     "id": "magawincat",
     "symbol": "mawc",
     "name": "Magawincat"
+  },
+  {
+    "id": "magenta",
+    "symbol": "$mgnt",
+    "name": "MAGENTA"
   },
   {
     "id": "magic",
@@ -56055,6 +56115,11 @@
     "name": "Nami Frame Futures"
   },
   {
+    "id": "namimoto-token",
+    "symbol": "namt",
+    "name": "Namimoto Token"
+  },
+  {
     "id": "nami-protocol",
     "symbol": "nami",
     "name": "NAMI Protocol"
@@ -60985,6 +61050,11 @@
     "name": "Pain"
   },
   {
+    "id": "painstrategy",
+    "symbol": "painstr",
+    "name": "PainStrategy"
+  },
+  {
     "id": "paint",
     "symbol": "paint",
     "name": "MurAll"
@@ -61103,6 +61173,11 @@
     "id": "palo-alto-networks-xstock",
     "symbol": "panwx",
     "name": "Palo Alto Networks xStock"
+  },
+  {
+    "id": "palu",
+    "symbol": "palu",
+    "name": "Palu"
   },
   {
     "id": "palu-the-8th-builder",
@@ -63267,7 +63342,12 @@
   {
     "id": "pigeon-tech",
     "symbol": "govai",
-    "name": "Pigeon Tech"
+    "name": "Pigeon Tech [OLD]"
+  },
+  {
+    "id": "pigeon-tech-2",
+    "symbol": "mock",
+    "name": "Agent Mock"
   },
   {
     "id": "pigeontoken",
@@ -63511,7 +63591,7 @@
   },
   {
     "id": "pinto-coin",
-    "symbol": "$pinto",
+    "symbol": "pinto",
     "name": "Pinto Coin"
   },
   {
@@ -64663,6 +64743,11 @@
     "id": "polyswarm",
     "symbol": "nct",
     "name": "PolySwarm"
+  },
+  {
+    "id": "polyswipe",
+    "symbol": "swipe",
+    "name": "Polyswipe"
   },
   {
     "id": "polytech",
@@ -72050,6 +72135,11 @@
     "name": "Sendit"
   },
   {
+    "id": "send-it",
+    "symbol": "sendit",
+    "name": "Send It"
+  },
+  {
     "id": "sendor",
     "symbol": "sendor",
     "name": "Sendor"
@@ -73875,6 +73965,11 @@
     "name": "SLIME"
   },
   {
+    "id": "slimex",
+    "symbol": "slx",
+    "name": "Slimex"
+  },
+  {
     "id": "slingshot-2",
     "symbol": "sling",
     "name": "Slingshot"
@@ -73998,6 +74093,11 @@
     "id": "smart-energy-pay",
     "symbol": "sep",
     "name": "Smart Energy Pay"
+  },
+  {
+    "id": "smartgolftoken-sgi",
+    "symbol": "sgi",
+    "name": "SmartGolf Token"
   },
   {
     "id": "smartlands",
@@ -76610,6 +76710,11 @@
     "name": "Superpower Squad"
   },
   {
+    "id": "squad-strategy",
+    "symbol": "squadstr",
+    "name": "SQUAD Strategy"
+  },
+  {
     "id": "squadswap",
     "symbol": "squad",
     "name": "SquadSwap"
@@ -77486,7 +77591,7 @@
   },
   {
     "id": "stax-token",
-    "symbol": "$stax",
+    "symbol": "stax",
     "name": "STAX Token"
   },
   {
@@ -84526,7 +84631,7 @@
   },
   {
     "id": "tycoon-by-shareland",
-    "symbol": "$tycoon",
+    "symbol": "tycoon",
     "name": "Tycoon by Shareland"
   },
   {
@@ -88120,11 +88225,6 @@
     "name": "Wall Street Games [OLD]"
   },
   {
-    "id": "wall-street-games-2",
-    "symbol": "wsg",
-    "name": "Wall Street Games"
-  },
-  {
     "id": "wall-street-memes",
     "symbol": "wsm",
     "name": "Wall Street Memes"
@@ -90125,6 +90225,11 @@
     "name": "Wrapped Aave Arbitrum wstETH"
   },
   {
+    "id": "wrapped-aave-avalanche-ausd",
+    "symbol": "waavaausd",
+    "name": "Wrapped Aave Avalanche AUSD"
+  },
+  {
     "id": "wrapped-aave-avalanche-btcb",
     "symbol": "waavabtc.b",
     "name": "Wrapped Aave Avalanche BTC.b"
@@ -90803,11 +90908,6 @@
     "id": "wrapped-degen",
     "symbol": "wdegen",
     "name": "Wrapped DEGEN"
-  },
-  {
-    "id": "wrapped-dfi",
-    "symbol": "dfi",
-    "name": "Wrapped DFI"
   },
   {
     "id": "wrapped-dinamo-zagreb-kayen",
@@ -95066,7 +95166,7 @@
   },
   {
     "id": "zkcandy",
-    "symbol": "$candy",
+    "symbol": "candy",
     "name": "ZKcandy"
   },
   {
