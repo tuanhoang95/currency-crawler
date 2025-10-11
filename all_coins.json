@@ -585,6 +585,11 @@
     "name": "8Pay"
   },
   {
+    "id": "8-token",
+    "symbol": "8",
+    "name": "8"
+  },
+  {
     "id": "-9",
     "symbol": "∑",
     "name": "∑"
@@ -2180,6 +2185,11 @@
     "name": "Agentic Studio"
   },
   {
+    "id": "agentify-ai",
+    "symbol": "agf",
+    "name": "Agentify AI"
+  },
+  {
     "id": "agentik-dex",
     "symbol": "agentik",
     "name": "Agentik DEX"
@@ -3675,6 +3685,11 @@
     "name": "AllDomains"
   },
   {
+    "id": "alldomains-name-service",
+    "symbol": "adns",
+    "name": "AllDomains Name Service"
+  },
+  {
     "id": "allianceblock-nexera",
     "symbol": "nxra",
     "name": "Nexera"
@@ -4808,11 +4823,6 @@
     "id": "ansem-s-minutes",
     "symbol": "ansem",
     "name": "Ansem's minutes"
-  },
-  {
-    "id": "ansem-wif-photographer",
-    "symbol": "awp",
-    "name": "Ansem Wif Photographer"
   },
   {
     "id": "ansom",
@@ -15345,6 +15355,11 @@
     "name": "Bull Run Solana"
   },
   {
+    "id": "bulls-3",
+    "symbol": "bulls",
+    "name": "Bulls"
+  },
+  {
     "id": "bullshark",
     "symbol": "bshark",
     "name": "BULLSHARK"
@@ -16425,6 +16440,11 @@
     "name": "CasperPad"
   },
   {
+    "id": "caspur-zoomies",
+    "symbol": "caspur",
+    "name": "Caspur Zoomies"
+  },
+  {
     "id": "castdex",
     "symbol": "castdex",
     "name": "CastDex"
@@ -17268,11 +17288,6 @@
     "id": "cetes",
     "symbol": "cetes",
     "name": "Etherfuse CETES"
-  },
-  {
-    "id": "ceto-swap-burned-ceto",
-    "symbol": "bceto",
-    "name": "Ceto Swap Burned CETO"
   },
   {
     "id": "cetus-protocol",
@@ -18333,6 +18348,11 @@
     "id": "chow-chow",
     "symbol": "chow",
     "name": "CHOW CHOW"
+  },
+  {
+    "id": "chow-chow-2",
+    "symbol": "chow-chow",
+    "name": "松狮犬 (Chow-chow)"
   },
   {
     "id": "chrema-coin",
@@ -20165,6 +20185,11 @@
     "name": "Cora"
   },
   {
+    "id": "coral-finance",
+    "symbol": "corl",
+    "name": "Coral Finance"
+  },
+  {
     "id": "coral-protocol",
     "symbol": "coral",
     "name": "Coral Protocol"
@@ -21183,6 +21208,11 @@
     "id": "cryowar-token",
     "symbol": "cwar",
     "name": "Cryowar"
+  },
+  {
+    "id": "crypgpt",
+    "symbol": "cgpt",
+    "name": "CrypGPT"
   },
   {
     "id": "crypsi-coin",
@@ -24613,6 +24643,11 @@
     "id": "digimetaverse",
     "symbol": "dgmv",
     "name": "DigiMetaverse"
+  },
+  {
+    "id": "digital-asset-treasury",
+    "symbol": "dat",
+    "name": "Digital ASSet Treasury"
   },
   {
     "id": "digital-bank-of-africa",
@@ -28875,6 +28910,11 @@
     "name": "Emotional Support Dog"
   },
   {
+    "id": "emperor-coin",
+    "symbol": "$imperium",
+    "name": "Emperor Coin"
+  },
+  {
     "id": "empire-token",
     "symbol": "empire",
     "name": "Empire"
@@ -29158,11 +29198,6 @@
     "id": "eos",
     "symbol": "eos",
     "name": "EOS"
-  },
-  {
-    "id": "eosdac",
-    "symbol": "eosdac",
-    "name": "eosDAC"
   },
   {
     "id": "eos-wrapped-ram",
@@ -44660,11 +44695,6 @@
     "name": "Kibble"
   },
   {
-    "id": "kibble-2",
-    "symbol": "kib",
-    "name": "Kibble"
-  },
-  {
     "id": "kibho-coin",
     "symbol": "kbc",
     "name": "Kibho Coin"
@@ -49655,11 +49685,6 @@
     "name": "MAGA DOGE"
   },
   {
-    "id": "maga-fight-for-trump",
-    "symbol": "trumpcoin",
-    "name": "MAGA: Fight for Trump"
-  },
-  {
     "id": "maga-hat",
     "symbol": "maga",
     "name": "MAGA Hat"
@@ -53418,11 +53443,6 @@
     "id": "mineral-vault-fund-i",
     "symbol": "mnrl",
     "name": "Mineral Vault I Security Token"
-  },
-  {
-    "id": "miner-arena",
-    "symbol": "minar",
-    "name": "Miner Arena"
   },
   {
     "id": "minerva-wallet",
@@ -59465,6 +59485,11 @@
     "name": "OliXRP"
   },
   {
+    "id": "oly",
+    "symbol": "oly",
+    "name": "OLY"
+  },
+  {
     "id": "olympus",
     "symbol": "ohm",
     "name": "Olympus"
@@ -60778,6 +60803,11 @@
     "id": "oro",
     "symbol": "oro",
     "name": "ORO"
+  },
+  {
+    "id": "orobit",
+    "symbol": "xrb",
+    "name": "OroBit"
   },
   {
     "id": "orym",
@@ -62728,11 +62758,6 @@
     "id": "pepek-philippe",
     "symbol": "pepek",
     "name": "Pepek Philippe"
-  },
-  {
-    "id": "pepe-krc20",
-    "symbol": "$pepe",
-    "name": "Pepe KRC20"
   },
   {
     "id": "pepelon-token",
@@ -74105,11 +74130,6 @@
     "name": "Skyops"
   },
   {
-    "id": "skyplay",
-    "symbol": "skp",
-    "name": "SKYPlay"
-  },
-  {
     "id": "slam-token",
     "symbol": "slam",
     "name": "Slam"
@@ -75028,6 +75048,11 @@
     "id": "solana-wars",
     "symbol": "solwars",
     "name": "Solana Wars"
+  },
+  {
+    "id": "solanians",
+    "symbol": "solanians",
+    "name": "SOLANIANS"
   },
   {
     "id": "solanium",
@@ -76152,7 +76177,7 @@
   {
     "id": "sozoai",
     "symbol": "soai",
-    "name": "SōzōAI"
+    "name": "S��zōAI"
   },
   {
     "id": "sp500-xstock",
@@ -78358,6 +78383,11 @@
     "id": "strategic-solana-reserve",
     "symbol": "ssr",
     "name": "Strategic Solana Reserve"
+  },
+  {
+    "id": "strategy-punks",
+    "symbol": "$strpnk",
+    "name": "Strategy Punks"
   },
   {
     "id": "stratis",
