@@ -140,6 +140,11 @@
     "name": "1000x by Virtuals"
   },
   {
+    "id": "100-token",
+    "symbol": "100¥",
+    "name": "100¥"
+  },
+  {
     "id": "100xdarren",
     "symbol": "100x",
     "name": "100xDarren"
@@ -4780,6 +4785,11 @@
     "name": "Anoma"
   },
   {
+    "id": "anome",
+    "symbol": "anome",
+    "name": "Anome"
+  },
+  {
     "id": "anon-inu",
     "symbol": "ainu",
     "name": "Anon Inu"
@@ -4808,6 +4818,11 @@
     "id": "anonymous-coin-2",
     "symbol": "anon",
     "name": "Anonymous Coin"
+  },
+  {
+    "id": "anova-world-token",
+    "symbol": "anw",
+    "name": "Anova World Token"
   },
   {
     "id": "anryton",
@@ -7228,6 +7243,11 @@
     "id": "aviator",
     "symbol": "avi",
     "name": "Aviator"
+  },
+  {
+    "id": "avici",
+    "symbol": "avici",
+    "name": "Avici"
   },
   {
     "id": "avil",
@@ -9750,6 +9770,11 @@
     "name": "Beldex"
   },
   {
+    "id": "beleaf",
+    "symbol": "leaf",
+    "name": "BELEAF"
+  },
+  {
     "id": "belgian-malinois",
     "symbol": "belg",
     "name": "Belgian Malinois"
@@ -10120,6 +10145,11 @@
     "name": "Bet Big Casino"
   },
   {
+    "id": "betbruh-bet",
+    "symbol": "bruh",
+    "name": "BetBruh.bet"
+  },
+  {
     "id": "betbuinu",
     "symbol": "crypto",
     "name": "BetbuInu"
@@ -10258,6 +10288,11 @@
     "id": "bho-network",
     "symbol": "bho",
     "name": "BHO Network"
+  },
+  {
+    "id": "bian-holder",
+    "symbol": "bnbholder",
+    "name": "币安Holder"
   },
   {
     "id": "bianqiche",
@@ -10695,6 +10730,11 @@
     "name": "Binance ETH staking"
   },
   {
+    "id": "binance-goat",
+    "symbol": "币安山羊",
+    "name": "Binance Goat"
+  },
+  {
     "id": "binance-peg-avalanche",
     "symbol": "avax",
     "name": "Binance-Peg Avalanche"
@@ -10788,6 +10828,11 @@
     "id": "binance-peg-xrp",
     "symbol": "xrp",
     "name": "Binance-Peg XRP"
+  },
+  {
+    "id": "binance-peg-zcash-token",
+    "symbol": "zec",
+    "name": "Binance-Peg ZEC"
   },
   {
     "id": "binance-staked-sol",
@@ -12405,6 +12450,11 @@
     "name": "Bloop Furpal"
   },
   {
+    "id": "blop",
+    "symbol": "blop",
+    "name": "BLOP"
+  },
+  {
     "id": "blormmy",
     "symbol": "blormmy",
     "name": "blormmy"
@@ -12543,6 +12593,11 @@
     "id": "blue-on-base",
     "symbol": "$blue",
     "name": "blue on base"
+  },
+  {
+    "id": "blue-pepe",
+    "symbol": "blupepe",
+    "name": "Blue Pepe"
   },
   {
     "id": "blueprint-2",
@@ -16205,6 +16260,11 @@
     "name": "Caprisun Monkey"
   },
   {
+    "id": "capronius-the-myth-the-goat",
+    "symbol": "capra",
+    "name": "Capronius, the myth, the GOAT!"
+  },
+  {
     "id": "captainbnb",
     "symbol": "captainbnb",
     "name": "CaptainBNB"
@@ -18328,6 +18388,11 @@
     "id": "chompcoin",
     "symbol": "chomp",
     "name": "ChompCoin"
+  },
+  {
+    "id": "chongsheng",
+    "symbol": "重生",
+    "name": "重生"
   },
   {
     "id": "chonk-2",
@@ -21505,6 +21570,11 @@
     "name": "Crypton Ai"
   },
   {
+    "id": "crypto-one",
+    "symbol": "one",
+    "name": "Crypto One"
+  },
+  {
     "id": "cryptoperformance-coin",
     "symbol": "cpc",
     "name": "CryptoPerformance Coin"
@@ -22208,6 +22278,11 @@
     "id": "cypress",
     "symbol": "cp",
     "name": "Cypress"
+  },
+  {
+    "id": "cyreneai",
+    "symbol": "cyai",
+    "name": "CyreneAI"
   },
   {
     "id": "cyrus",
@@ -22993,6 +23068,11 @@
     "id": "deapcoin",
     "symbol": "dep",
     "name": "DEAPCOIN"
+  },
+  {
+    "id": "dear-algorithm",
+    "symbol": "algo",
+    "name": "Dear Algorithm"
   },
   {
     "id": "dearbook",
@@ -25333,11 +25413,6 @@
     "id": "dinosaur-inu",
     "symbol": "dino",
     "name": "Dinosaur Inu"
-  },
-  {
-    "id": "dinoshi",
-    "symbol": "dinoshi",
-    "name": "DINOSHI"
   },
   {
     "id": "dinoswap",
@@ -28850,11 +28925,6 @@
     "name": "ElysiumG"
   },
   {
-    "id": "elys-network",
-    "symbol": "elys",
-    "name": "Elys"
-  },
-  {
     "id": "elysyn-ai",
     "symbol": "elysyn",
     "name": "Elysyn Ai"
@@ -30633,6 +30703,11 @@
     "id": "falconsinu",
     "symbol": "falcon",
     "name": "FalconsInu"
+  },
+  {
+    "id": "fallenchungus-pinheads",
+    "symbol": "pinheads",
+    "name": "Fallenchungus pinheads"
   },
   {
     "id": "fallen-knight",
@@ -36935,6 +37010,11 @@
     "name": "Green Bitcoin"
   },
   {
+    "id": "green-cult-of-investors",
+    "symbol": "gci",
+    "name": "Green Cult of Investors"
+  },
+  {
     "id": "greendex",
     "symbol": "ged",
     "name": "GreenDex"
@@ -40255,6 +40335,11 @@
     "name": "HYGT"
   },
   {
+    "id": "hylo-leveraged-sol",
+    "symbol": "xsol",
+    "name": "Hylo Leveraged SOL"
+  },
+  {
     "id": "hylo-usd",
     "symbol": "hyusd",
     "name": "Hylo USD"
@@ -40738,11 +40823,6 @@
     "id": "icpanda-dao",
     "symbol": "panda",
     "name": "ICPanda DAO"
-  },
-  {
-    "id": "icpi",
-    "symbol": "icpi",
-    "name": "ICPI"
   },
   {
     "id": "icpswap-token",
@@ -42108,6 +42188,11 @@
     "id": "iona-by-virtuals",
     "symbol": "iona",
     "name": "Iona by Virtuals"
+  },
+  {
+    "id": "ionex-token",
+    "symbol": "inx",
+    "name": "Ionex Token"
   },
   {
     "id": "ionic-protocol",
@@ -46380,16 +46465,6 @@
     "name": "Laika AI"
   },
   {
-    "id": "laika-bridged-eth-laika",
-    "symbol": "eth",
-    "name": "Laika Bridged ETH (Laika)"
-  },
-  {
-    "id": "laika-bridged-usdc-laika",
-    "symbol": "usdc",
-    "name": "Laika Bridged USDC (Laika)"
-  },
-  {
     "id": "laika-bridged-wdoge-laika",
     "symbol": "wdoge",
     "name": "Laika Bridged WDOGE (Laika)"
@@ -48348,6 +48423,11 @@
     "id": "lithium-finance",
     "symbol": "lith",
     "name": "Lithium Finance"
+  },
+  {
+    "id": "lithos",
+    "symbol": "lith",
+    "name": "Lithos"
   },
   {
     "id": "litlab-games",
@@ -50560,6 +50640,11 @@
     "name": "Manyu"
   },
   {
+    "id": "manyufest",
+    "symbol": "mfest",
+    "name": "Manyufest"
+  },
+  {
     "id": "manyu-the-shiba-inu",
     "symbol": "manyu",
     "name": "Manyu the Shiba Inu"
@@ -51211,6 +51296,11 @@
   },
   {
     "id": "maxi-doge",
+    "symbol": "maxi",
+    "name": "Maxi Doge"
+  },
+  {
+    "id": "maxi-doge-3",
     "symbol": "maxi",
     "name": "Maxi Doge"
   },
@@ -53448,11 +53538,6 @@
     "id": "milli-coin",
     "symbol": "milli",
     "name": "MILLI"
-  },
-  {
-    "id": "millimeter",
-    "symbol": "mm",
-    "name": "Millimeter"
   },
   {
     "id": "million",
@@ -57173,6 +57258,11 @@
     "id": "networkcities",
     "symbol": "cities",
     "name": "NETWORKCITIES"
+  },
+  {
+    "id": "network-net-worth",
+    "symbol": "network",
+    "name": "Network = Net Worth"
   },
   {
     "id": "netx",
@@ -63472,6 +63562,11 @@
   {
     "id": "pharaoh",
     "symbol": "phar",
+    "name": "Pharaoh [OLD]"
+  },
+  {
+    "id": "pharaoh-2",
+    "symbol": "phar",
     "name": "Pharaoh"
   },
   {
@@ -64708,6 +64803,11 @@
     "id": "pochita-2",
     "symbol": "pochita",
     "name": "Pochita"
+  },
+  {
+    "id": "pochita-3",
+    "symbol": "pochita",
+    "name": "pochita"
   },
   {
     "id": "pochita-on-ethereum",
@@ -66373,11 +66473,6 @@
     "id": "proton-loan",
     "symbol": "loan",
     "name": "Loan Protocol"
-  },
-  {
-    "id": "prove-mom-wrong",
-    "symbol": "$pmw",
-    "name": "Prove Mom Wrong"
   },
   {
     "id": "proximax",
@@ -68305,6 +68400,11 @@
     "name": "Raydium"
   },
   {
+    "id": "rayls",
+    "symbol": "rls",
+    "name": "Rayls"
+  },
+  {
     "id": "rayn",
     "symbol": "aktio",
     "name": "RAYN"
@@ -69292,7 +69392,7 @@
   {
     "id": "resolv-rlp",
     "symbol": "rlp",
-    "name": "Resolv RLP"
+    "name": "Resolv Liquidity Provider Token"
   },
   {
     "id": "resolv-usr",
@@ -72982,7 +73082,7 @@
   {
     "id": "sharering",
     "symbol": "shr",
-    "name": "Share"
+    "name": "ShareToken"
   },
   {
     "id": "shares-finance",
@@ -75438,11 +75538,6 @@
     "id": "solbox",
     "symbol": "solbox",
     "name": "SolBox"
-  },
-  {
-    "id": "solbull",
-    "symbol": "solbull",
-    "name": "Solbull"
   },
   {
     "id": "solcard",
@@ -79410,6 +79505,11 @@
     "name": "sun wukong"
   },
   {
+    "id": "suona",
+    "symbol": "唢呐",
+    "name": "唢呐"
+  },
+  {
     "id": "supah",
     "symbol": "suph",
     "name": "SUPAH"
@@ -80523,6 +80623,11 @@
     "id": "tako",
     "symbol": "tako",
     "name": "Tako"
+  },
+  {
+    "id": "tako-2",
+    "symbol": "tako",
+    "name": "TAKO"
   },
   {
     "id": "tala",
@@ -88335,6 +88440,11 @@
     "name": "Voice Street"
   },
   {
+    "id": "voidai-bridged-wtao-solana",
+    "symbol": "wtao",
+    "name": "VoidAI Bridged wTAO (Solana)"
+  },
+  {
     "id": "voidz",
     "symbol": "vdz",
     "name": "Voidz"
@@ -89913,6 +90023,11 @@
     "id": "wienerai",
     "symbol": "wai",
     "name": "WienerAI"
+  },
+  {
+    "id": "wiener-doge-on-solana",
+    "symbol": "wiener",
+    "name": "Wiener Doge on Solana"
   },
   {
     "id": "wife-changing-money",
@@ -93938,6 +94053,11 @@
     "id": "y8u",
     "symbol": "y8u",
     "name": "Y8U"
+  },
+  {
+    "id": "y8u-ai",
+    "symbol": "y8u",
+    "name": "Y8U AI"
   },
   {
     "id": "yachtcoin",
