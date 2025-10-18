@@ -4150,11 +4150,6 @@
     "name": "alXAI"
   },
   {
-    "id": "amalas",
-    "symbol": "amal",
-    "name": "AMALAS"
-  },
-  {
     "id": "amateras",
     "symbol": "amt",
     "name": "Amateras"
@@ -14830,6 +14825,11 @@
     "name": "Bro"
   },
   {
+    "id": "bro-2",
+    "symbol": "bro",
+    "name": "Bro"
+  },
+  {
     "id": "broadcom-ondo-tokenized-stock",
     "symbol": "avgoon",
     "name": "Broadcom (Ondo Tokenized Stock)"
@@ -15103,11 +15103,6 @@
     "id": "bubbles-2",
     "symbol": "bubbles",
     "name": "BUBBLES"
-  },
-  {
-    "id": "bubblu",
-    "symbol": "bubblu",
-    "name": "Bubblu"
   },
   {
     "id": "bubbo",
@@ -18383,6 +18378,11 @@
     "id": "chirp-token",
     "symbol": "chirp",
     "name": "Chirp Token"
+  },
+  {
+    "id": "chis-ai",
+    "symbol": "chisai",
+    "name": "Chis AI"
   },
   {
     "id": "chitan",
@@ -22848,6 +22848,11 @@
     "id": "dastra-network",
     "symbol": "dan",
     "name": "Dastra Network"
+  },
+  {
+    "id": "data-ai",
+    "symbol": "data",
+    "name": "Data Ai"
   },
   {
     "id": "data-bot",
@@ -28335,11 +28340,6 @@
     "name": "Edwin"
   },
   {
-    "id": "eefs",
-    "symbol": "eefs",
-    "name": "Eefs"
-  },
-  {
     "id": "eesee",
     "symbol": "ese",
     "name": "Eesee"
@@ -31638,6 +31638,11 @@
     "id": "finetuning",
     "symbol": "sn37",
     "name": "Finetuning"
+  },
+  {
+    "id": "fingerheart",
+    "symbol": "🫰",
+    "name": "🫰 (FingerHeart)"
   },
   {
     "id": "finger-monkey",
@@ -41560,11 +41565,6 @@
     "name": "Infinite Money Glitch X2"
   },
   {
-    "id": "infinite-price-liquidity-rocket",
-    "symbol": "iplr",
-    "name": "Infinite Price Liquidity Rocket"
-  },
-  {
     "id": "infinite-sui-glitch",
     "symbol": "isg",
     "name": "Infinite Sui Glitch"
@@ -42318,11 +42318,6 @@
     "id": "iowbtc",
     "symbol": "iowbtc",
     "name": "ioWBTC"
-  },
-  {
-    "id": "ip-exchange",
-    "symbol": "ipx",
-    "name": "IP Exchange"
   },
   {
     "id": "ipmb",
@@ -45490,6 +45485,11 @@
     "name": "Klink Finance"
   },
   {
+    "id": "klip-ai",
+    "symbol": "klip",
+    "name": "KLIP AI"
+  },
+  {
     "id": "knight",
     "symbol": "knight",
     "name": "Darkness"
@@ -47065,6 +47065,11 @@
     "name": "Lead Ai"
   },
   {
+    "id": "lead-wrapped-bitcoin",
+    "symbol": "leadbtc",
+    "name": "Lead Wrapped Bitcoin"
+  },
+  {
     "id": "league-of-ancients",
     "symbol": "loa",
     "name": "League of Ancients"
@@ -48342,7 +48347,7 @@
   {
     "id": "liquity-bold-2",
     "symbol": "bold",
-    "name": "Liquity BOLD"
+    "name": "BOLD"
   },
   {
     "id": "liquity-usd",
@@ -52860,11 +52865,6 @@
     "name": "Metaverse Face"
   },
   {
-    "id": "metaverse-filipino-worker",
-    "symbol": "mfw",
-    "name": "Metaverse Filipino Worker"
-  },
-  {
     "id": "metaverse-hub",
     "symbol": "mhub",
     "name": "Metaverse Hub"
@@ -56288,11 +56288,6 @@
     "id": "mxy6900",
     "symbol": "mxy",
     "name": "MXY6900"
-  },
-  {
-    "id": "myancat-coin",
-    "symbol": "myan",
-    "name": "MyanCat Coin"
   },
   {
     "id": "mybit-token",
@@ -60150,11 +60145,6 @@
     "name": "One World Chain"
   },
   {
-    "id": "onez",
-    "symbol": "onez",
-    "name": "ONEZ"
-  },
-  {
     "id": "one-zeros",
     "symbol": "onezeros",
     "name": "One & Zeros"
@@ -63615,6 +63605,11 @@
     "name": "Pharaoh"
   },
   {
+    "id": "pharaoh-liquid-staking-token",
+    "symbol": "p33",
+    "name": "Pharaoh Liquid Staking Token"
+  },
+  {
     "id": "pharaohs",
     "symbol": "phrz",
     "name": "Pharaohs"
@@ -65005,6 +65000,11 @@
     "name": "Polemos"
   },
   {
+    "id": "police",
+    "symbol": "police",
+    "name": "POLICE"
+  },
+  {
     "id": "polinate",
     "symbol": "poli",
     "name": "Polinate"
@@ -66267,10 +66267,15 @@
   {
     "id": "project89",
     "symbol": "project89",
-    "name": "Project89"
+    "name": "Project89 [OLD]"
   },
   {
     "id": "project-89",
+    "symbol": "project89",
+    "name": "Project 89"
+  },
+  {
+    "id": "project89-2",
     "symbol": "project89",
     "name": "Project 89"
   },
@@ -68333,6 +68338,11 @@
     "id": "raptor-finance-2",
     "symbol": "rptr",
     "name": "Raptor Finance"
+  },
+  {
+    "id": "rarecoin",
+    "symbol": "rarecoin",
+    "name": "rarecoin"
   },
   {
     "id": "rarecube-tv",
@@ -72645,11 +72655,6 @@
     "name": "Seek Tiger"
   },
   {
-    "id": "segment",
-    "symbol": "sef",
-    "name": "Segment Finance"
-  },
-  {
     "id": "sei-fastusd",
     "symbol": "fastusd",
     "name": "Sei fastUSD"
@@ -75043,11 +75048,6 @@
     "id": "snek",
     "symbol": "snek",
     "name": "Snek"
-  },
-  {
-    "id": "snfts-seedify-nft-space",
-    "symbol": "snfts",
-    "name": "Seedify NFT Space"
   },
   {
     "id": "sng-token",
@@ -77853,6 +77853,11 @@
     "id": "staked-yusd",
     "symbol": "syusd",
     "name": "Staked YUSD"
+  },
+  {
+    "id": "staked-yuzu-usd",
+    "symbol": "syzusd",
+    "name": "Staked Yuzu USD"
   },
   {
     "id": "stakehouse-keth",
@@ -82353,6 +82358,11 @@
     "id": "the-pea-guy-by-virtuals",
     "symbol": "peaguy",
     "name": "The Pea Guy by Virtuals"
+  },
+  {
+    "id": "the-penny-has-been-retired",
+    "symbol": "penny",
+    "name": "the penny has been retired"
   },
   {
     "id": "the-phoenix",
@@ -87500,6 +87510,11 @@
     "name": "VELTA Token"
   },
   {
+    "id": "veltrixa",
+    "symbol": "velt",
+    "name": "Veltrixa"
+  },
+  {
     "id": "velvet",
     "symbol": "velvet",
     "name": "Velvet"
@@ -88296,6 +88311,11 @@
   },
   {
     "id": "vision-3",
+    "symbol": "vsn",
+    "name": "Vision"
+  },
+  {
+    "id": "vision-4",
     "symbol": "vsn",
     "name": "Vision"
   },
@@ -93453,6 +93473,11 @@
     "id": "xfund",
     "symbol": "xfund",
     "name": "xFUND"
+  },
+  {
+    "id": "xgame",
+    "symbol": "xgame",
+    "name": "XGame"
   },
   {
     "id": "x-game",
