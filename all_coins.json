@@ -18285,6 +18285,11 @@
     "name": "XAYA"
   },
   {
+    "id": "chimpstrategy",
+    "symbol": "chmpstr",
+    "name": "ChimpStrategy"
+  },
+  {
     "id": "chimpzee-chmpz",
     "symbol": "chmpz",
     "name": "Chimpzee (CHMPZ）"
@@ -22690,6 +22695,11 @@
     "name": "dark aura"
   },
   {
+    "id": "darkbet",
+    "symbol": "darkbet",
+    "name": "Darkbet"
+  },
+  {
     "id": "dark-cheems",
     "symbol": "totakeke",
     "name": "Dark Cheems"
@@ -25483,11 +25493,6 @@
     "id": "disco-by-matt-furie",
     "symbol": "disco",
     "name": "Disco By Matt Furie"
-  },
-  {
-    "id": "disco-chicken",
-    "symbol": "disco",
-    "name": "DISCO Chicken"
   },
   {
     "id": "diskneeplus",
@@ -36245,6 +36250,11 @@
     "name": "Goldcoin"
   },
   {
+    "id": "goldcoin-2",
+    "symbol": "goldcoin",
+    "name": "goldcoin"
+  },
+  {
     "id": "gold-dao",
     "symbol": "goldao",
     "name": "Gold DAO"
@@ -37198,6 +37208,11 @@
     "id": "griffin-ai-2",
     "symbol": "gain",
     "name": "Griffin AI"
+  },
+  {
+    "id": "grif_gg",
+    "symbol": "grif_gg",
+    "name": "grif_gg"
   },
   {
     "id": "grimoire-finance-token",
@@ -39263,11 +39278,6 @@
     "id": "hitbtc-token",
     "symbol": "hit",
     "name": "HitBTC"
-  },
-  {
-    "id": "hitchain",
-    "symbol": "hit",
-    "name": "HitChain"
   },
   {
     "id": "hitdex",
@@ -48175,6 +48185,11 @@
     "name": "Liquid Finance"
   },
   {
+    "id": "liquid-gold",
+    "symbol": "piss",
+    "name": "liquid gold"
+  },
+  {
     "id": "liquid-hydra",
     "symbol": "lydra",
     "name": "Liquid Hydra"
@@ -48791,6 +48806,11 @@
   },
   {
     "id": "lol-3",
+    "symbol": "lol",
+    "name": "LOL"
+  },
+  {
+    "id": "lol-4",
     "symbol": "lol",
     "name": "LOL"
   },
@@ -49413,6 +49433,11 @@
     "id": "luffy-inu",
     "symbol": "luffy",
     "name": "Luffy"
+  },
+  {
+    "id": "luka-modric",
+    "symbol": "modric",
+    "name": "Luka Modric"
   },
   {
     "id": "lukso-token",
@@ -52690,6 +52715,11 @@
     "name": "Metal"
   },
   {
+    "id": "metal-3",
+    "symbol": "metal",
+    "name": "METAL"
+  },
+  {
     "id": "meta-launcher",
     "symbol": "mtla",
     "name": "Meta Launcher"
@@ -54300,11 +54330,6 @@
     "name": "Mocossi Planet"
   },
   {
-    "id": "modalai",
-    "symbol": "modalai",
-    "name": "MODALAI"
-  },
-  {
     "id": "modclub",
     "symbol": "dcd",
     "name": "DecideAI"
@@ -54663,6 +54688,11 @@
     "id": "money-printer",
     "symbol": "money",
     "name": "Money Printer"
+  },
+  {
+    "id": "money-sign",
+    "symbol": "🤌",
+    "name": "🤌 (Money Sign)"
   },
   {
     "id": "moneyswap",
@@ -64920,11 +64950,6 @@
     "name": "POGAI (SOL)"
   },
   {
-    "id": "pog-digital",
-    "symbol": "pogs",
-    "name": "Pog Coin"
-  },
-  {
     "id": "poggers",
     "symbol": "$poggers",
     "name": "Poggers"
@@ -65130,6 +65155,11 @@
     "name": "Polter"
   },
   {
+    "id": "poly",
+    "symbol": "poly",
+    "name": "Poly"
+  },
+  {
     "id": "polyagent",
     "symbol": "polyagent",
     "name": "Polyagent"
@@ -65288,6 +65318,11 @@
     "id": "poly-peg-mdex",
     "symbol": "hmdx",
     "name": "Poly-Peg Mdex"
+  },
+  {
+    "id": "polyprophet",
+    "symbol": "pp",
+    "name": "Polyprophet"
   },
   {
     "id": "polypump",
@@ -66083,6 +66118,11 @@
     "id": "primefi",
     "symbol": "prfi",
     "name": "Prime Numbers Labs"
+  },
+  {
+    "id": "primelayer",
+    "symbol": "prml",
+    "name": "PrimeLayer"
   },
   {
     "id": "prime-staked-xdc",
@@ -67128,11 +67168,6 @@
     "id": "puppers",
     "symbol": "puppers",
     "name": "PUPPERS"
-  },
-  {
-    "id": "puppet-on-sol",
-    "symbol": "puppet",
-    "name": "Puppet on Sol"
   },
   {
     "id": "puppets-arts-2",
@@ -69338,6 +69373,11 @@
     "id": "repo-analyzer-ai",
     "symbol": "repoalyze",
     "name": "REPO ANALYZER AI"
+  },
+  {
+    "id": "repolite",
+    "symbol": "repolite",
+    "name": "Repolite"
   },
   {
     "id": "repost-dog",
@@ -72080,6 +72120,11 @@
     "name": "Savanna"
   },
   {
+    "id": "savanna-survival",
+    "symbol": "svsa",
+    "name": "Savanna Survival"
+  },
+  {
     "id": "save",
     "symbol": "save",
     "name": "Save"
@@ -72443,6 +72488,11 @@
     "id": "script-network-spay",
     "symbol": "spay",
     "name": "Script Network SPAY"
+  },
+  {
+    "id": "scriptonia",
+    "symbol": "script",
+    "name": "Scriptonia"
   },
   {
     "id": "scriv",
@@ -74130,6 +74180,11 @@
     "name": "$SILVER"
   },
   {
+    "id": "silver-4",
+    "symbol": "silver",
+    "name": "SILVER"
+  },
+  {
     "id": "silver-standard",
     "symbol": "bars",
     "name": "Silver Standard"
@@ -75405,6 +75460,11 @@
     "name": "Solana Money Glitch"
   },
   {
+    "id": "solanamoneyloop",
+    "symbol": "loop",
+    "name": "SolanaMoneyLoop"
+  },
+  {
     "id": "solana-name-service",
     "symbol": "sns",
     "name": "Solana Name Service"
@@ -76608,11 +76668,6 @@
     "id": "space-and-time",
     "symbol": "sxt",
     "name": "Space and Time"
-  },
-  {
-    "id": "spaceape",
-    "symbol": "spaceape",
-    "name": "SpaceApe"
   },
   {
     "id": "spacebar",
@@ -81265,6 +81320,11 @@
     "name": "teleBTC"
   },
   {
+    "id": "telepath8",
+    "symbol": "p8bci",
+    "name": "Telepath8"
+  },
+  {
     "id": "teleport-system-token",
     "symbol": "tst",
     "name": "Teleport System Token"
@@ -84458,6 +84518,11 @@
     "id": "trepe",
     "symbol": "$trepe",
     "name": "Trepe"
+  },
+  {
+    "id": "trevee",
+    "symbol": "trevee",
+    "name": "Trevee"
   },
   {
     "id": "trex20",
@@ -89333,6 +89398,11 @@
     "id": "waves-exchange",
     "symbol": "wx",
     "name": "WX Network Token"
+  },
+  {
+    "id": "wave-swap",
+    "symbol": "wave",
+    "name": "Wave Swap"
   },
   {
     "id": "wawacat",
@@ -95345,6 +95415,11 @@
     "name": "Zegent AI"
   },
   {
+    "id": "zekta",
+    "symbol": "zekta",
+    "name": "ZEKTA"
+  },
+  {
     "id": "zelcash",
     "symbol": "flux",
     "name": "Flux"
@@ -95393,6 +95468,11 @@
     "id": "zenc-coin",
     "symbol": "zenc",
     "name": "Zenc Coin"
+  },
+  {
+    "id": "zenchain-2",
+    "symbol": "ztc",
+    "name": "ZenChain"
   },
   {
     "id": "zencore-ai",
