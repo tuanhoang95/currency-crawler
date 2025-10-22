@@ -3676,8 +3676,8 @@
   },
   {
     "id": "alldomains",
-    "symbol": "all",
-    "name": "AllDomains"
+    "symbol": "adns",
+    "name": "AllDomains Name Service"
   },
   {
     "id": "alldomains-name-service",
@@ -11335,6 +11335,11 @@
     "name": "Bitcoin Hyper"
   },
   {
+    "id": "bitcoin-hyper-3",
+    "symbol": "hyper",
+    "name": "Bitcoin Hyper"
+  },
+  {
     "id": "bitcoinii",
     "symbol": "bc2",
     "name": "BitcoinII"
@@ -12287,7 +12292,7 @@
   {
     "id": "blockgames",
     "symbol": "block",
-    "name": "BlockGames"
+    "name": "BlockProtocol"
   },
   {
     "id": "blockinsightai",
@@ -12678,6 +12683,11 @@
     "id": "blurt",
     "symbol": "blurt",
     "name": "Blurt"
+  },
+  {
+    "id": "bluwhale",
+    "symbol": "bluai",
+    "name": "Bluwhale"
   },
   {
     "id": "bluwhale-points-token",
@@ -14183,11 +14193,6 @@
     "id": "breadheads",
     "symbol": "crumbs",
     "name": "BreadHeads"
-  },
-  {
-    "id": "breakbot",
-    "symbol": "break",
-    "name": "BreakBot"
   },
   {
     "id": "breaking-bread",
@@ -17640,6 +17645,11 @@
     "name": "ChainLabel"
   },
   {
+    "id": "chainleak",
+    "symbol": "chainleak",
+    "name": "ChainLeak"
+  },
+  {
     "id": "chainlink",
     "symbol": "link",
     "name": "Chainlink"
@@ -19608,11 +19618,6 @@
     "id": "cointel",
     "symbol": "cols",
     "name": "Cointel"
-  },
-  {
-    "id": "cointpoit",
-    "symbol": "cp",
-    "name": "Cointpoit"
   },
   {
     "id": "coinw",
@@ -24420,6 +24425,11 @@
     "name": "DEW"
   },
   {
+    "id": "dewa-go",
+    "symbol": "dewa",
+    "name": "DEWA GO"
+  },
+  {
     "id": "dewn",
     "symbol": "dewn",
     "name": "Dewn"
@@ -26870,11 +26880,6 @@
     "name": "DOOMER"
   },
   {
-    "id": "doont-buy",
-    "symbol": "dbuy",
-    "name": "Doont Buy"
-  },
-  {
     "id": "doordash-ondo-tokenized-stock",
     "symbol": "dashon",
     "name": "DoorDash (Ondo Tokenized Stock)"
@@ -27323,6 +27328,11 @@
     "id": "dreamverse",
     "symbol": "dv",
     "name": "Dreamverse"
+  },
+  {
+    "id": "dregen",
+    "symbol": "dregen",
+    "name": "Dregen"
   },
   {
     "id": "dr-emma-sage",
@@ -28210,11 +28220,6 @@
     "name": "Ecotrader"
   },
   {
-    "id": "ecovita",
-    "symbol": "ecovita",
-    "name": "ECOVITA"
-  },
-  {
     "id": "e-d-a-s-token",
     "symbol": "edas",
     "name": "E.D.A.S Token"
@@ -28408,11 +28413,6 @@
     "id": "eggle-energy",
     "symbol": "eng",
     "name": "Eggle Energy"
-  },
-  {
-    "id": "egg-n-partners",
-    "symbol": "eggt",
-    "name": "Egg N Partners"
   },
   {
     "id": "eggnuke",
@@ -29288,6 +29288,11 @@
     "id": "enterisecoin",
     "symbol": "ent",
     "name": "EnteriseCoin"
+  },
+  {
+    "id": "entro-finance",
+    "symbol": "entro",
+    "name": "Entro Finance"
   },
   {
     "id": "entropy-2",
@@ -32365,6 +32370,11 @@
     "name": "花花 (flower flower)"
   },
   {
+    "id": "flowfi",
+    "symbol": "flow",
+    "name": "FlowFi"
+  },
+  {
     "id": "flow-lending",
     "symbol": "flow",
     "name": "Flow Lending"
@@ -33380,6 +33390,11 @@
     "name": "Frog"
   },
   {
+    "id": "frog-5",
+    "symbol": "frog",
+    "name": "FROG"
+  },
+  {
     "id": "frog-ceo",
     "symbol": "frog ceo",
     "name": "FROG CEO"
@@ -33988,6 +34003,11 @@
     "id": "g8day",
     "symbol": "g8d",
     "name": "G8DAY"
+  },
+  {
+    "id": "g920",
+    "symbol": "g920",
+    "name": "G920"
   },
   {
     "id": "gabin-noosum",
@@ -40580,6 +40600,11 @@
     "name": "HyperStrategy"
   },
   {
+    "id": "hyperswap",
+    "symbol": "swap",
+    "name": "HyperSwap"
+  },
+  {
     "id": "hyperswap-ai",
     "symbol": "hylx",
     "name": "HyperSwap AI"
@@ -40598,6 +40623,11 @@
     "id": "hyper-utility",
     "symbol": "hypu",
     "name": "Hyper Utility"
+  },
+  {
+    "id": "hyperwave",
+    "symbol": "hwave",
+    "name": "Hyperwave"
   },
   {
     "id": "hyperwave-hlp",
@@ -46490,6 +46520,11 @@
     "name": "LAID"
   },
   {
+    "id": "laifu-2",
+    "symbol": "来福",
+    "name": "来福"
+  },
+  {
     "id": "laika",
     "symbol": "laika",
     "name": "Laika"
@@ -47945,11 +47980,6 @@
     "name": "Limocoin Swap"
   },
   {
-    "id": "limoncelloai",
-    "symbol": "limon",
-    "name": "LimoncelloAI"
-  },
-  {
     "id": "limoverse",
     "symbol": "limo",
     "name": "Limoverse"
@@ -48635,11 +48665,6 @@
     "name": "Loaded Lions"
   },
   {
-    "id": "loading",
-    "symbol": "loading",
-    "name": "loading"
-  },
-  {
     "id": "loaf",
     "symbol": "loaf",
     "name": "LOAF"
@@ -48788,11 +48813,6 @@
     "id": "lok",
     "symbol": "lok",
     "name": "LOK"
-  },
-  {
-    "id": "loki-network",
-    "symbol": "oxen",
-    "name": "Oxen"
   },
   {
     "id": "lokr",
@@ -59115,11 +59135,6 @@
     "name": "Nuritopia"
   },
   {
-    "id": "nurox",
-    "symbol": "nurox",
-    "name": "NuroX"
-  },
-  {
     "id": "nusa-finance",
     "symbol": "nusa",
     "name": "NUSA"
@@ -63433,6 +63448,11 @@
     "id": "perpetual-delta-neutral-yield-optimism",
     "symbol": "usdpy",
     "name": "Perpetual Delta Neutral Yield (Optimism)"
+  },
+  {
+    "id": "perpetual-exchange-protocol",
+    "symbol": "perc",
+    "name": "Perpetual Exchange Protocol"
   },
   {
     "id": "perpetual-protocol",
@@ -72155,11 +72175,6 @@
     "name": "Meat"
   },
   {
-    "id": "savage",
-    "symbol": "savg",
-    "name": "SAVAGE"
-  },
-  {
     "id": "savanna",
     "symbol": "svn",
     "name": "Savanna"
@@ -73895,6 +73910,11 @@
     "name": "ShopNext Loyalty Token"
   },
   {
+    "id": "shopping-io-2",
+    "symbol": "spi",
+    "name": "Shopping.io"
+  },
+  {
     "id": "shopping-io-token",
     "symbol": "shop",
     "name": "Shopping.io"
@@ -74128,6 +74148,11 @@
     "id": "signata",
     "symbol": "sata",
     "name": "Signata"
+  },
+  {
+    "id": "signet-2",
+    "symbol": "signet",
+    "name": "Signet"
   },
   {
     "id": "sign-global",
@@ -80805,6 +80830,11 @@
     "name": "TAKO"
   },
   {
+    "id": "takongrensheng",
+    "symbol": "踏空人生",
+    "name": "踏空人生"
+  },
+  {
     "id": "tala",
     "symbol": "1ozt",
     "name": "TALA"
@@ -81767,7 +81797,7 @@
   {
     "id": "tether-pulsechain",
     "symbol": "usdt",
-    "name": "Bridged Tether (PulseChain)"
+    "name": "Bridged USDT (PulseChain)"
   },
   {
     "id": "tether-rainbow-bridge",
@@ -87733,6 +87763,11 @@
     "id": "vention",
     "symbol": "vention",
     "name": "Vention"
+  },
+  {
+    "id": "ventuals-vhype",
+    "symbol": "vhype",
+    "name": "Ventuals vHYPE"
   },
   {
     "id": "venture-mind-ai",
@@ -96153,6 +96188,11 @@
     "id": "zklink",
     "symbol": "zkl",
     "name": "zkLink"
+  },
+  {
+    "id": "zklsol",
+    "symbol": "zkfg",
+    "name": "ZKLSOL"
   },
   {
     "id": "zkml",
