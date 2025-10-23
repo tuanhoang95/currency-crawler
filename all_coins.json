@@ -4615,6 +4615,11 @@
     "name": "ANDY ETH"
   },
   {
+    "id": "aneri",
+    "symbol": "aneri",
+    "name": "aneri"
+  },
+  {
     "id": "a-new-internet-money-era",
     "symbol": "anime",
     "name": "A New Internet Money Era"
@@ -4997,7 +5002,7 @@
   {
     "id": "apenft",
     "symbol": "nft",
-    "name": "APENFT"
+    "name": "AINFT"
   },
   {
     "id": "ape-on-apechain",
@@ -5220,6 +5225,16 @@
     "name": "April"
   },
   {
+    "id": "apriori",
+    "symbol": "apr",
+    "name": "aPriori"
+  },
+  {
+    "id": "apro",
+    "symbol": "at",
+    "name": "Apro"
+  },
+  {
     "id": "a-pro",
     "symbol": "高手",
     "name": "高手 (A Pro)"
@@ -5238,11 +5253,6 @@
     "id": "aptos-futures",
     "symbol": "apf",
     "name": "Aptos Futures"
-  },
-  {
-    "id": "aptos-launch-token",
-    "symbol": "alt",
-    "name": "AptosLaunch Token"
   },
   {
     "id": "apu-apustaja",
@@ -8515,6 +8525,11 @@
     "name": "B All In"
   },
   {
+    "id": "ballsackcoin",
+    "symbol": "ballsack",
+    "name": "Ballsackcoin"
+  },
+  {
     "id": "balls-of-fate",
     "symbol": "bof",
     "name": "Balls of Fate"
@@ -11373,6 +11388,11 @@
     "id": "bitcoin-on-katana",
     "symbol": "btck",
     "name": "Bitcoin on Katana"
+  },
+  {
+    "id": "bitcoinos",
+    "symbol": "bos",
+    "name": "BitcoinOS"
   },
   {
     "id": "bitcoin-pay",
@@ -18985,11 +19005,6 @@
     "name": "Clippy PFP Cult"
   },
   {
-    "id": "clips",
-    "symbol": "clips",
-    "name": "Clips"
-  },
-  {
     "id": "cliza",
     "symbol": "cliza",
     "name": "cliza"
@@ -21341,7 +21356,7 @@
   },
   {
     "id": "crypgpt",
-    "symbol": "cgpt",
+    "symbol": "crypgpt",
     "name": "CrypGPT"
   },
   {
@@ -22160,6 +22175,11 @@
     "name": "CyberHarbor"
   },
   {
+    "id": "cyberlife",
+    "symbol": "life",
+    "name": "Cyberlife"
+  },
+  {
     "id": "cyberperp",
     "symbol": "cyb",
     "name": "Cyberperp"
@@ -22243,6 +22263,11 @@
     "id": "cyclone-protocol",
     "symbol": "cyc",
     "name": "Cyclone Protocol"
+  },
+  {
+    "id": "cygnus-2",
+    "symbol": "cgn",
+    "name": "Cygnus"
   },
   {
     "id": "cygnusdao",
@@ -26160,6 +26185,11 @@
     "name": "DogeSquatch"
   },
   {
+    "id": "doge-strategy",
+    "symbol": "dogestr",
+    "name": "Doge Strategy"
+  },
+  {
     "id": "dogether",
     "symbol": "dogether",
     "name": "Dogether"
@@ -28905,11 +28935,6 @@
     "name": "ELUCKS"
   },
   {
-    "id": "elumia",
-    "symbol": "elu",
-    "name": "Elumia"
-  },
-  {
     "id": "elur-coin",
     "symbol": "elurc",
     "name": "eLur-coin"
@@ -29888,6 +29913,11 @@
     "id": "ether-fi",
     "symbol": "ethfi",
     "name": "Ether.fi"
+  },
+  {
+    "id": "ether-fi-liquid-eth",
+    "symbol": "liquideth",
+    "name": "Ether.Fi Liquid ETH"
   },
   {
     "id": "ether-fi-staked-btc",
@@ -38395,6 +38425,11 @@
     "name": "Hashgard"
   },
   {
+    "id": "hash-hunter",
+    "symbol": "hntr",
+    "name": "Hash Hunter"
+  },
+  {
     "id": "hashkey-bridged-usdt-hashkey",
     "symbol": "usdt",
     "name": "HashKey Bridged USDT (HashKey)"
@@ -40448,6 +40483,11 @@
     "id": "hyperbc",
     "symbol": "hbt",
     "name": "HyperBC"
+  },
+  {
+    "id": "hyperbeat-lst-vault",
+    "symbol": "lsthype",
+    "name": "Hyperbeat LST Vault"
   },
   {
     "id": "hyperbeat-ultra-hype",
@@ -42780,6 +42820,11 @@
     "name": "IYO-CHAN"
   },
   {
+    "id": "izky",
+    "symbol": "izky",
+    "name": "IZKY"
+  },
+  {
     "id": "izumi-bond-usd",
     "symbol": "iusd",
     "name": "iZUMi Bond USD"
@@ -44463,6 +44508,11 @@
     "id": "katana-inu",
     "symbol": "kata",
     "name": "Katana Inu"
+  },
+  {
+    "id": "katana-network-token",
+    "symbol": "kat",
+    "name": "Katana Network Token"
   },
   {
     "id": "katchusol",
@@ -46513,6 +46563,11 @@
     "id": "lagrange",
     "symbol": "la",
     "name": "Lagrange"
+  },
+  {
+    "id": "lahara",
+    "symbol": "laa",
+    "name": "LAHARA"
   },
   {
     "id": "laid",
@@ -49346,8 +49401,8 @@
   },
   {
     "id": "lto-network",
-    "symbol": "lto",
-    "name": "LTO Network"
+    "symbol": "eqty",
+    "name": "EQTY"
   },
   {
     "id": "lube",
@@ -52778,11 +52833,6 @@
     "id": "metamafia",
     "symbol": "maf",
     "name": "MetaMAFIA"
-  },
-  {
-    "id": "metamall",
-    "symbol": "mall",
-    "name": "MetaMall"
   },
   {
     "id": "metamars-2",
@@ -57685,11 +57735,6 @@
     "name": "Nexa"
   },
   {
-    "id": "nexade",
-    "symbol": "nexd",
-    "name": "Nexade"
-  },
-  {
     "id": "nexai",
     "symbol": "nex",
     "name": "NexAI"
@@ -59945,11 +59990,6 @@
     "name": "Omnia Protocol"
   },
   {
-    "id": "omniagent",
-    "symbol": "omagent",
-    "name": "OmniAgent"
-  },
-  {
     "id": "omnibridge-bridged-dai-gnosis-chain",
     "symbol": "dai",
     "name": "OmniBridge Bridged DAI (Gnosis Chain)"
@@ -60353,6 +60393,11 @@
     "id": "opanarchy",
     "symbol": "opan",
     "name": "OPANARCHY"
+  },
+  {
+    "id": "opanarchy-2",
+    "symbol": "opan",
+    "name": "Opanarchy"
   },
   {
     "id": "opbnb-bridged-wbnb-opbnb",
@@ -61178,6 +61223,11 @@
     "id": "orobit",
     "symbol": "xrb",
     "name": "OroBit"
+  },
+  {
+    "id": "orochi-network",
+    "symbol": "on",
+    "name": "Orochi Network"
   },
   {
     "id": "orym",
@@ -62268,6 +62318,11 @@
     "id": "patchy",
     "symbol": "patchy",
     "name": "Patchy"
+  },
+  {
+    "id": "paternal-older-cousin",
+    "symbol": "堂哥",
+    "name": "堂哥 (Paternal Older Cousin)"
   },
   {
     "id": "patex",
@@ -64880,11 +64935,6 @@
     "name": "pNetwork"
   },
   {
-    "id": "pnl-games",
-    "symbol": "pnl",
-    "name": "PNL Games"
-  },
-  {
     "id": "pnp-exchange",
     "symbol": "pnp",
     "name": "PNP Exchange"
@@ -66318,6 +66368,11 @@
     "id": "probit-exchange",
     "symbol": "prob",
     "name": "Probit"
+  },
+  {
+    "id": "probity",
+    "symbol": "probity",
+    "name": "Probity"
   },
   {
     "id": "procter-gamble-ondo-tokenized-stock",
@@ -73187,7 +73242,7 @@
   {
     "id": "shanghai-composite-index-6900",
     "symbol": "sci6900",
-    "name": "上证综合指数6900 (Shanghai Composite Index 6900)"
+    "name": "上证综合指数6900"
   },
   {
     "id": "shanghai-inu",
@@ -74741,6 +74796,11 @@
   },
   {
     "id": "slerf",
+    "symbol": "slerf",
+    "name": "Slerf [OLD]"
+  },
+  {
+    "id": "slerf-2",
     "symbol": "slerf",
     "name": "Slerf"
   },
@@ -80680,6 +80740,11 @@
     "name": "t3rn"
   },
   {
+    "id": "t420",
+    "symbol": "t420",
+    "name": "T420"
+  },
+  {
     "id": "tabbypos",
     "symbol": "tabby",
     "name": "TabbyPOS"
@@ -81063,6 +81128,11 @@
     "id": "tapswaptoken",
     "symbol": "taps",
     "name": "TapSwapToken"
+  },
+  {
+    "id": "tapzi",
+    "symbol": "tapzi",
+    "name": "Tapzi"
   },
   {
     "id": "taraswap",
@@ -91640,11 +91710,6 @@
     "name": "Instabridge Wrapped BTC (Radix)"
   },
   {
-    "id": "wrapped-btc-defiverse",
-    "symbol": "wbtc",
-    "name": "Wrapped BTC (DeFiVerse)"
-  },
-  {
     "id": "wrapped-btc-wormhole",
     "symbol": "wbtc",
     "name": "Wrapped BTC (Wormhole)"
@@ -93573,6 +93638,11 @@
     "id": "xetra-ai",
     "symbol": "xetra",
     "name": "Xetra AI"
+  },
+  {
+    "id": "xexamai",
+    "symbol": "xexai",
+    "name": "XEXAMAI"
   },
   {
     "id": "xfai",
@@ -96198,6 +96268,11 @@
     "id": "zkml",
     "symbol": "zkml",
     "name": "zKML"
+  },
+  {
+    "id": "zksl",
+    "symbol": "zksl",
+    "name": "zkSealevel"
   },
   {
     "id": "zkspace",
