@@ -1885,11 +1885,6 @@
     "name": "Aegents"
   },
   {
-    "id": "aegis",
-    "symbol": "ags",
-    "name": "Aegis"
-  },
-  {
     "id": "aegis-ai",
     "symbol": "aegis",
     "name": "Aegis Ai"
@@ -3676,8 +3671,8 @@
   },
   {
     "id": "alldomains",
-    "symbol": "adns",
-    "name": "AllDomains Name Service"
+    "symbol": "all-old",
+    "name": "Legacy Community Token"
   },
   {
     "id": "alldomains-name-service",
@@ -6655,6 +6650,11 @@
     "name": "Atletico Madrid Fan Token"
   },
   {
+    "id": "a-t-m-by-basevol",
+    "symbol": "atm",
+    "name": "A.T.M. by BaseVol"
+  },
+  {
     "id": "atna",
     "symbol": "atna",
     "name": "atna"
@@ -7468,6 +7468,11 @@
     "id": "azuki",
     "symbol": "azuki",
     "name": "Azuki"
+  },
+  {
+    "id": "azuma-coin",
+    "symbol": "azum",
+    "name": "Azuma Coin"
   },
   {
     "id": "azuro-protocol",
@@ -9113,11 +9118,6 @@
     "id": "base-dog",
     "symbol": "dog",
     "name": "Base DOG"
-  },
-  {
-    "id": "based-peaches",
-    "symbol": "peach",
-    "name": "Based Peaches"
   },
   {
     "id": "based-peng",
@@ -19577,7 +19577,7 @@
   {
     "id": "coinlocally",
     "symbol": "clyc",
-    "name": "Coinlocally"
+    "name": "Coinlocally Coin"
   },
   {
     "id": "coinmetro",
@@ -23738,11 +23738,6 @@
     "id": "defive",
     "symbol": "five",
     "name": "DeFive"
-  },
-  {
-    "id": "defiverse-bridged-usd-coin-oasys",
-    "symbol": "usdc.e",
-    "name": "DeFiVerse Bridged USD Coin (Oasys)"
   },
   {
     "id": "defi-warrior",
@@ -28485,11 +28480,6 @@
     "name": "Ego Ego"
   },
   {
-    "id": "egoncoin",
-    "symbol": "egon",
-    "name": "EgonCoin"
-  },
-  {
     "id": "eg-token",
     "symbol": "eg",
     "name": "EG Token"
@@ -29258,6 +29248,11 @@
     "id": "enki-protocol",
     "symbol": "enki",
     "name": "ENKI Protocol"
+  },
+  {
+    "id": "enkrion",
+    "symbol": "enkrion",
+    "name": "Enkrion"
   },
   {
     "id": "enkryptedai",
@@ -34990,6 +34985,11 @@
     "name": "Genesis"
   },
   {
+    "id": "genesis-arena",
+    "symbol": "genesis",
+    "name": "Genesis Arena"
+  },
+  {
     "id": "genesislrt-restaked-eth",
     "symbol": "ineth",
     "name": "Inception Restaked ETH"
@@ -36578,6 +36578,11 @@
     "id": "good-morning-3",
     "symbol": "gm",
     "name": "Good Morning!"
+  },
+  {
+    "id": "good-morning-4",
+    "symbol": "早上好",
+    "name": "早上好 (Good Morning)"
   },
   {
     "id": "good-person-coin",
@@ -40148,11 +40153,6 @@
     "id": "hug",
     "symbol": "hug",
     "name": "HUG"
-  },
-  {
-    "id": "hugewin",
-    "symbol": "huge",
-    "name": "HugeWin"
   },
   {
     "id": "hughug-coin",
@@ -51465,6 +51465,11 @@
     "name": "Maxi Doge"
   },
   {
+    "id": "maxi-doge-4",
+    "symbol": "maxi",
+    "name": "Maxi Doge"
+  },
+  {
     "id": "maximize-ai",
     "symbol": "maxi",
     "name": "Maximize AI"
@@ -52401,11 +52406,6 @@
   },
   {
     "id": "meowcat-2",
-    "symbol": "meow",
-    "name": "MeowCat"
-  },
-  {
-    "id": "meowcat-3",
     "symbol": "meow",
     "name": "MeowCat"
   },
@@ -61215,11 +61215,6 @@
     "name": "Ormeus Ecosystem"
   },
   {
-    "id": "oro",
-    "symbol": "oro",
-    "name": "ORO"
-  },
-  {
     "id": "orobit",
     "symbol": "xrb",
     "name": "OroBit"
@@ -61468,11 +61463,6 @@
     "id": "ovr",
     "symbol": "ovr",
     "name": "Ovr"
-  },
-  {
-    "id": "owners-casino-online",
-    "symbol": "oco",
-    "name": "Owners Casino Online"
   },
   {
     "id": "ownershipcoin",
@@ -63583,11 +63573,6 @@
     "id": "perspective-ai-by-virtuals",
     "symbol": "pai",
     "name": "Perspective AI by VIRTUALS"
-  },
-  {
-    "id": "peruvian-national-football-team-fan-token",
-    "symbol": "fpft",
-    "name": "Peruvian National Football Team Fan Token"
   },
   {
     "id": "peshi",
@@ -74140,6 +74125,11 @@
     "name": "Sienna"
   },
   {
+    "id": "sierra-2",
+    "symbol": "sierra",
+    "name": "Sierra"
+  },
+  {
     "id": "sifchain",
     "symbol": "erowan",
     "name": "Sifchain"
@@ -75233,6 +75223,11 @@
     "id": "snaps",
     "symbol": "snps",
     "name": "Snaps"
+  },
+  {
+    "id": "snapx",
+    "symbol": "xanp",
+    "name": "SnapX"
   },
   {
     "id": "snardler-wormfriend",
@@ -76583,6 +76578,11 @@
     "id": "sora-labs",
     "symbol": "sora",
     "name": "Sora Labs"
+  },
+  {
+    "id": "sora-oracle",
+    "symbol": "sora",
+    "name": "Sora Oracle"
   },
   {
     "id": "sora-solana",
@@ -84010,6 +84010,11 @@
     "name": "Tootcoin"
   },
   {
+    "id": "topblast",
+    "symbol": "bl4st",
+    "name": "TOPBLAST"
+  },
+  {
     "id": "topcat-2",
     "symbol": "topcat",
     "name": "Topcat"
@@ -87345,6 +87350,11 @@
     "name": "ValleyDAO"
   },
   {
+    "id": "valor-2",
+    "symbol": "valor",
+    "name": "VALOR"
+  },
+  {
     "id": "valtoro",
     "symbol": "valtoro",
     "name": "VALTORO"
@@ -87513,11 +87523,6 @@
     "id": "vaultka",
     "symbol": "vka",
     "name": "Vaultka"
-  },
-  {
-    "id": "vault-overflow",
-    "symbol": "vault",
-    "name": "Vault Overflow"
   },
   {
     "id": "vaultram",
@@ -88668,6 +88673,11 @@
     "id": "vmpx-erc20",
     "symbol": "vmpx",
     "name": "VMPX"
+  },
+  {
+    "id": "vms-classic-2",
+    "symbol": "vmc",
+    "name": "VMS Classic"
   },
   {
     "id": "vndc",
@@ -91778,11 +91788,6 @@
     "id": "wrapped-club-atletico-independiente-kayen",
     "symbol": "wcai",
     "name": "Wrapped Club Atlético Independiente (Kayen)"
-  },
-  {
-    "id": "wrapped-club-deportivo-guadalajara-kayen",
-    "symbol": "wchvs",
-    "name": "Wrapped Club Deportivo Guadalajara (Kayen)"
   },
   {
     "id": "wrapped-club-santos-laguna-kayen",
