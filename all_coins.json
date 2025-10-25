@@ -4675,6 +4675,11 @@
     "name": "Animal Concerts"
   },
   {
+    "id": "animals-wif-guns",
+    "symbol": "guns",
+    "name": "Animals Wif Guns"
+  },
+  {
     "id": "animated",
     "symbol": "am",
     "name": "Animated"
@@ -7070,11 +7075,6 @@
     "name": "Autumn"
   },
   {
-    "id": "aux-coin",
-    "symbol": "aux",
-    "name": "AUX Coin"
-  },
-  {
     "id": "ava-ai",
     "symbol": "ava",
     "name": "Ava AI"
@@ -7778,6 +7778,11 @@
     "id": "baby-fwog",
     "symbol": "babyfwog",
     "name": "Baby Fwog"
+  },
+  {
+    "id": "babygirl",
+    "symbol": "babygirl",
+    "name": "Babygirl"
   },
   {
     "id": "baby-goat",
@@ -11180,6 +11185,11 @@
     "name": "Bitcast"
   },
   {
+    "id": "bitcastle-token",
+    "symbol": "bce",
+    "name": "bitcastle Token"
+  },
+  {
     "id": "bitcat",
     "symbol": "bitcat",
     "name": "Bitcat"
@@ -11208,11 +11218,6 @@
     "id": "bitcicoin",
     "symbol": "bitci",
     "name": "Bitcicoin"
-  },
-  {
-    "id": "bitcix",
-    "symbol": "btx",
-    "name": "BitciX"
   },
   {
     "id": "bitcoin",
@@ -16840,6 +16845,11 @@
     "name": "Catjak"
   },
   {
+    "id": "catke",
+    "symbol": "catke",
+    "name": "Catke"
+  },
+  {
     "id": "cat-lady",
     "symbol": "ktty",
     "name": "CAT LADY"
@@ -19866,6 +19876,11 @@
   },
   {
     "id": "company",
+    "symbol": "company",
+    "name": "Company"
+  },
+  {
+    "id": "company-2",
     "symbol": "company",
     "name": "Company"
   },
@@ -25500,11 +25515,6 @@
     "name": "Dippy Speech"
   },
   {
-    "id": "dirty-street-cats",
-    "symbol": "dirty",
-    "name": "Dirty Street Cats"
-  },
-  {
     "id": "discipline",
     "symbol": "discipline",
     "name": "DISCIPLINE"
@@ -27363,11 +27373,6 @@
     "id": "dr-emma-sage",
     "symbol": "emma",
     "name": "Dr Emma Sage"
-  },
-  {
-    "id": "drep-new",
-    "symbol": "drep",
-    "name": "Drep"
   },
   {
     "id": "dressdio",
@@ -30025,11 +30030,6 @@
     "name": "VGX Token"
   },
   {
-    "id": "ethos-2",
-    "symbol": "3th",
-    "name": "Ethos"
-  },
-  {
     "id": "ethos-3",
     "symbol": "ethos",
     "name": "Ethos"
@@ -32628,6 +32628,11 @@
     "id": "fold",
     "symbol": "fld",
     "name": "Fold"
+  },
+  {
+    "id": "folks",
+    "symbol": "folks",
+    "name": "FOLKS"
   },
   {
     "id": "follow-token",
@@ -35315,6 +35320,11 @@
     "name": "GhostKids"
   },
   {
+    "id": "ghostwareos",
+    "symbol": "ghost",
+    "name": "GhostwareOS"
+  },
+  {
     "id": "ghostwifhat",
     "symbol": "gif",
     "name": "Ghostwifhat"
@@ -37433,6 +37443,11 @@
     "id": "groq",
     "symbol": "groq",
     "name": "GROQ"
+  },
+  {
+    "id": "group7",
+    "symbol": "group7",
+    "name": "Group7"
   },
   {
     "id": "grove",
@@ -43830,11 +43845,6 @@
     "name": "Jupiter Staked SOL"
   },
   {
-    "id": "jupu",
-    "symbol": "jupu",
-    "name": "Jupu"
-  },
-  {
     "id": "juris-protocol",
     "symbol": "juris",
     "name": "Juris Protocol"
@@ -45145,6 +45155,11 @@
     "name": "Kinetiq Staked HYPE"
   },
   {
+    "id": "kinetiq",
+    "symbol": "kntq",
+    "name": "Kinetiq"
+  },
+  {
     "id": "kinetiq-earn-vault",
     "symbol": "vkhype",
     "name": "Kinetiq Earn Vault"
@@ -46131,8 +46146,8 @@
   },
   {
     "id": "krwt",
-    "symbol": "krwt",
-    "name": "KRWT"
+    "symbol": "krwq",
+    "name": "KRWQ"
   },
   {
     "id": "kryll",
@@ -49658,11 +49673,6 @@
     "id": "lumpy",
     "symbol": "lumpy",
     "name": "Lumpy"
-  },
-  {
-    "id": "luna28",
-    "symbol": "$luna",
-    "name": "Luna28"
   },
   {
     "id": "luna-by-virtuals",
@@ -55365,6 +55375,11 @@
     "name": "MOONVEMBER"
   },
   {
+    "id": "moonvember-2",
+    "symbol": "$mvb",
+    "name": "Moonvember"
+  },
+  {
     "id": "moonwalk-fitness",
     "symbol": "mf",
     "name": "Moonwalk Fitness"
@@ -58785,6 +58800,11 @@
     "name": "Not a Security"
   },
   {
+    "id": "notastrategy",
+    "symbol": "nasty",
+    "name": "NotaStrategy"
+  },
+  {
     "id": "not-bitcoin",
     "symbol": "notbtc",
     "name": "not bitcoin"
@@ -59698,6 +59718,11 @@
     "id": "official-wild-n-out",
     "symbol": "wildnout",
     "name": "Official Wild 'N Out"
+  },
+  {
+    "id": "official-zuno",
+    "symbol": "zuno",
+    "name": "OFFICIAL ZUNO"
   },
   {
     "id": "offshift",
@@ -61350,6 +61375,11 @@
     "name": "Otto"
   },
   {
+    "id": "otto-ai",
+    "symbol": "otto",
+    "name": "Otto AI"
+  },
+  {
     "id": "otty-the-otter",
     "symbol": "$otty",
     "name": "Otty the Otter"
@@ -62108,11 +62138,6 @@
     "id": "paragon-tweaks",
     "symbol": "prgn",
     "name": "Paragon Tweaks"
-  },
-  {
-    "id": "paralink-network",
-    "symbol": "para",
-    "name": "Paralink Network"
   },
   {
     "id": "parallelai",
@@ -63615,6 +63640,11 @@
     "name": "Petroleum OIL"
   },
   {
+    "id": "petro-penguins",
+    "symbol": "pengo",
+    "name": "PETRO PENGUINS"
+  },
+  {
     "id": "petsna",
     "symbol": "$petsna",
     "name": "PetsNa"
@@ -64168,6 +64198,11 @@
     "id": "pineye",
     "symbol": "pineye",
     "name": "PinEye"
+  },
+  {
+    "id": "ping",
+    "symbol": "ping",
+    "name": "Ping"
   },
   {
     "id": "ping-dog",
@@ -70925,11 +70960,6 @@
     "name": "Royal Finance Coin"
   },
   {
-    "id": "royalty",
-    "symbol": "roy",
-    "name": "Royalty"
-  },
-  {
     "id": "rpg-maker-ai",
     "symbol": "rpgmai",
     "name": "RPG Maker Ai"
@@ -77305,6 +77335,11 @@
     "name": "Splash"
   },
   {
+    "id": "splendor",
+    "symbol": "spld",
+    "name": "Splendor"
+  },
+  {
     "id": "splinterlands",
     "symbol": "sps",
     "name": "Splintershards"
@@ -79012,7 +79047,7 @@
   {
     "id": "stratis",
     "symbol": "strax",
-    "name": "Stratis"
+    "name": "Xertra"
   },
   {
     "id": "stratos",
@@ -80313,11 +80348,6 @@
     "id": "swe-rizzo",
     "symbol": "sn45",
     "name": "SWE - Rizzo"
-  },
-  {
-    "id": "swerve-dao",
-    "symbol": "swrv",
-    "name": "Swerve"
   },
   {
     "id": "sweth",
@@ -83010,6 +83040,11 @@
     "name": "Thought"
   },
   {
+    "id": "threat-research-history-trail",
+    "symbol": "thrt",
+    "name": "Threat Research & History Trail"
+  },
+  {
     "id": "threatslayerai-by-virtuals",
     "symbol": "slayer",
     "name": "ThreatSlayerAI by Virtuals"
@@ -85140,6 +85175,11 @@
     "name": "trustInWeb3"
   },
   {
+    "id": "trust-me-bro",
+    "symbol": "trust me bro",
+    "name": "trust me bro"
+  },
+  {
     "id": "trust-me-bros-by-virtuals",
     "symbol": "trust",
     "name": "$TRUST ME BROs by Virtuals"
@@ -87190,6 +87230,11 @@
     "name": "Utility Ape"
   },
   {
+    "id": "utility-coin",
+    "symbol": "utility",
+    "name": "Utility Coin"
+  },
+  {
     "id": "utility-nexusmind",
     "symbol": "unmd",
     "name": "Utility NexusMind"
@@ -87388,11 +87433,6 @@
     "id": "vaneck-treasury-fund",
     "symbol": "vbill",
     "name": "VanEck Treasury Fund"
-  },
-  {
-    "id": "vanguard-real-estate-tokenized-stock-defichain",
-    "symbol": "dvnq",
-    "name": "Vanguard Real Estate Tokenized Stock Defichain"
   },
   {
     "id": "vanguard-xstock",
@@ -91985,11 +92025,6 @@
     "name": "Wrapped Esporte Clube Bahia (Kayen)"
   },
   {
-    "id": "wrapped-eth-defiverse",
-    "symbol": "weth",
-    "name": "Wrapped ETH (DeFiVerse)"
-  },
-  {
     "id": "wrapped-ether",
     "symbol": "wetc",
     "name": "Wrapped ETC"
@@ -92593,11 +92628,6 @@
     "id": "wrapped-oas",
     "symbol": "woas",
     "name": "Wrapped OAS"
-  },
-  {
-    "id": "wrapped-oas-defiverse",
-    "symbol": "woas",
-    "name": "Wrapped OAS (DeFiVerse)"
   },
   {
     "id": "wrapped-oasys",
@@ -96541,6 +96571,11 @@
   },
   {
     "id": "zygo-the-frog",
+    "symbol": "zygo",
+    "name": "Zygo The Frog"
+  },
+  {
+    "id": "zygo-the-frog-2",
     "symbol": "zygo",
     "name": "Zygo The Frog"
   },
