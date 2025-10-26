@@ -2115,6 +2115,11 @@
     "name": "Agent2025"
   },
   {
+    "id": "agent4x",
+    "symbol": "agent4x",
+    "name": "Agent4X"
+  },
+  {
     "id": "agentaigo",
     "symbol": "agent",
     "name": "AgentAlgo"
@@ -18492,6 +18497,11 @@
   {
     "id": "chonky",
     "symbol": "chonky",
+    "name": "CHONKY [OLD]"
+  },
+  {
+    "id": "chonky-2",
+    "symbol": "chonky",
     "name": "CHONKY"
   },
   {
@@ -19822,6 +19832,11 @@
   {
     "id": "common",
     "symbol": "cmn",
+    "name": "Common"
+  },
+  {
+    "id": "common-2",
+    "symbol": "common",
     "name": "Common"
   },
   {
@@ -25695,6 +25710,11 @@
     "name": "Dmarketplace"
   },
   {
+    "id": "dm-fun",
+    "symbol": "fun",
+    "name": "Dm.fun"
+  },
+  {
     "id": "dmt-nat",
     "symbol": "nat",
     "name": "DMT-NAT"
@@ -30642,7 +30662,7 @@
   {
     "id": "fact0rn",
     "symbol": "fact",
-    "name": "Fact0rn"
+    "name": "Factor"
   },
   {
     "id": "factor",
@@ -35655,6 +35675,11 @@
     "name": "Gleec Coin"
   },
   {
+    "id": "glhfstrategy",
+    "symbol": "glhfstr",
+    "name": "GLHFStrategy"
+  },
+  {
     "id": "glide-finance",
     "symbol": "glide",
     "name": "Glide Finance"
@@ -38223,11 +38248,6 @@
     "id": "happyai-2",
     "symbol": "sn103",
     "name": "HappyAI"
-  },
-  {
-    "id": "happy-balloon-dog",
-    "symbol": "hbd",
-    "name": "Happy Balloon Dog"
   },
   {
     "id": "happy-birthday-coin",
@@ -45590,6 +45610,11 @@
     "name": "KLIP AI"
   },
   {
+    "id": "klout-bet",
+    "symbol": "klout",
+    "name": "klout.bet"
+  },
+  {
     "id": "knight",
     "symbol": "knight",
     "name": "Darkness"
@@ -48590,6 +48615,11 @@
     "name": "LitLab Games"
   },
   {
+    "id": "lit-protocol",
+    "symbol": "litkey",
+    "name": "Lit Protocol"
+  },
+  {
     "id": "litr",
     "symbol": "litr",
     "name": "LITR"
@@ -49550,11 +49580,6 @@
     "name": "LUKSO"
   },
   {
-    "id": "lulu",
-    "symbol": "lulu",
-    "name": "LULU"
-  },
-  {
     "id": "lululemon-xstock",
     "symbol": "lulux",
     "name": "lululemon xStock"
@@ -49568,6 +49593,11 @@
     "id": "lumenswap",
     "symbol": "lsp",
     "name": "Lumenswap"
+  },
+  {
+    "id": "lumera-health",
+    "symbol": "lur",
+    "name": "Lumera Health"
   },
   {
     "id": "lumerin",
@@ -53588,6 +53618,16 @@
     "id": "miidas",
     "symbol": "miidas",
     "name": "Miidas"
+  },
+  {
+    "id": "mika-grok-companion",
+    "symbol": "mika",
+    "name": "Mika Grok Companion"
+  },
+  {
+    "id": "mika-grok-companion-2",
+    "symbol": "mika",
+    "name": "Mika Grok Companion"
   },
   {
     "id": "mikawa-inu-2",
@@ -60125,11 +60165,6 @@
     "name": "Onchain Coin"
   },
   {
-    "id": "on-chain-dynamics",
-    "symbol": "ocd",
-    "name": "On-Chain Dynamics"
-  },
-  {
     "id": "onchain-finance-and-culture",
     "symbol": "ofac",
     "name": "Onchain Finance and Culture"
@@ -64900,6 +64935,11 @@
     "name": "PLUTO"
   },
   {
+    "id": "pluto-3",
+    "symbol": "pluto",
+    "name": "Pluto"
+  },
+  {
     "id": "pluton",
     "symbol": "plu",
     "name": "Pluton"
@@ -65413,6 +65453,11 @@
     "id": "polyhedra-network",
     "symbol": "zkj",
     "name": "Polyhedra Network"
+  },
+  {
+    "id": "polymarket",
+    "symbol": "poly",
+    "name": "Polymarket"
   },
   {
     "id": "polymath",
@@ -66405,11 +66450,6 @@
     "name": "Procter & Gamble xStock"
   },
   {
-    "id": "prodigi-connect",
-    "symbol": "pdg",
-    "name": "Prodigi Connect"
-  },
-  {
     "id": "prodigy-bot",
     "symbol": "pro",
     "name": "Prodigy Bot"
@@ -66698,6 +66738,11 @@
     "id": "proton-loan",
     "symbol": "loan",
     "name": "Loan Protocol"
+  },
+  {
+    "id": "provenance-fact-check",
+    "symbol": "prov",
+    "name": "Provenance Fact-check"
   },
   {
     "id": "proximax",
@@ -70150,6 +70195,11 @@
     "name": "Rina By Arc"
   },
   {
+    "id": "ring-2",
+    "symbol": "$ring",
+    "name": "RING"
+  },
+  {
     "id": "ring-ai",
     "symbol": "ring",
     "name": "Ring AI"
@@ -72920,6 +72970,11 @@
     "name": "Self Token"
   },
   {
+    "id": "semantic-layer",
+    "symbol": "42",
+    "name": "Semantic Layer"
+  },
+  {
     "id": "senaraflow",
     "symbol": "snfl",
     "name": "SenaraFlow"
@@ -75256,7 +75311,7 @@
   },
   {
     "id": "snapx",
-    "symbol": "xanp",
+    "symbol": "xnap",
     "name": "SnapX"
   },
   {
@@ -75698,6 +75753,11 @@
     "id": "solanium",
     "symbol": "slim",
     "name": "Solanium"
+  },
+  {
+    "id": "solano",
+    "symbol": "solano",
+    "name": "Solano"
   },
   {
     "id": "solape-token",
@@ -93305,6 +93365,11 @@
     "name": "X314"
   },
   {
+    "id": "x420",
+    "symbol": "x420",
+    "name": "x420"
+  },
+  {
     "id": "x7r",
     "symbol": "x7r",
     "name": "X7R"
@@ -94785,11 +94850,6 @@
     "name": "Yield BTC.B"
   },
   {
-    "id": "yieldeth-sommelier",
-    "symbol": "yieldeth",
-    "name": "YieldETH (Sommelier)"
-  },
-  {
     "id": "yieldfarming-index",
     "symbol": "yfx",
     "name": "YieldFarming Index"
@@ -96185,6 +96245,11 @@
     "name": "Zino Pet"
   },
   {
+    "id": "zintech",
+    "symbol": "zintech",
+    "name": "Zintech"
+  },
+  {
     "id": "ziox",
     "symbol": "ziox",
     "name": "ZIOX"
@@ -96303,6 +96368,11 @@
     "id": "zkml",
     "symbol": "zkml",
     "name": "zKML"
+  },
+  {
+    "id": "zkpass",
+    "symbol": "zkp",
+    "name": "zkPass"
   },
   {
     "id": "zksl",
