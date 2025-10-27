@@ -6830,6 +6830,11 @@
     "name": "Aura BAL"
   },
   {
+    "id": "auracle",
+    "symbol": "auracle",
+    "name": "Auracle"
+  },
+  {
     "id": "aurafarming",
     "symbol": "aurafarm",
     "name": "AuraFarming"
@@ -7205,11 +7210,6 @@
     "name": "AVAX Meme Index"
   },
   {
-    "id": "avaxminerai",
-    "symbol": "avaxminerai",
-    "name": "AvaxMinerAI"
-  },
-  {
     "id": "avaxtars",
     "symbol": "avxt",
     "name": "Avaxtars"
@@ -7433,6 +7433,11 @@
     "id": "axoria",
     "symbol": "ax",
     "name": "Axoria"
+  },
+  {
+    "id": "axycoin",
+    "symbol": "axyc",
+    "name": "AxyCoin"
   },
   {
     "id": "ayin",
@@ -9095,6 +9100,11 @@
     "name": "Based Lambow"
   },
   {
+    "id": "based-llms-arena",
+    "symbol": "bllm",
+    "name": "Based LLMs Arena"
+  },
+  {
     "id": "based-manyu",
     "symbol": "manyu",
     "name": "Based Manyu"
@@ -9663,11 +9673,6 @@
     "id": "beenz",
     "symbol": "beenz",
     "name": "BEENZ"
-  },
-  {
-    "id": "beep-2",
-    "symbol": "beep",
-    "name": "Beep"
   },
   {
     "id": "beep-coin",
@@ -11058,11 +11063,6 @@
     "id": "birdflu",
     "symbol": "$birdflu",
     "name": "BIRDFLU"
-  },
-  {
-    "id": "birdie",
-    "symbol": "$birdie",
-    "name": "Birdie"
   },
   {
     "id": "birdies",
@@ -27145,6 +27145,11 @@
     "name": "DOWGE"
   },
   {
+    "id": "down-bad-gaming",
+    "symbol": "downbad",
+    "name": "Down Bad Gaming"
+  },
+  {
     "id": "dox-squad",
     "symbol": "dox",
     "name": "Dox Squad"
@@ -28918,11 +28923,6 @@
     "id": "elonxcat",
     "symbol": "exc",
     "name": "ElonXCat"
-  },
-  {
-    "id": "elosys",
-    "symbol": "elo",
-    "name": "Elosys"
   },
   {
     "id": "el-risitas",
@@ -34510,11 +34510,6 @@
     "name": "GameX"
   },
   {
-    "id": "gamex-coin",
-    "symbol": "gxc",
-    "name": "Gamex Coin"
-  },
-  {
     "id": "gamext",
     "symbol": "gmx",
     "name": "GameXT"
@@ -37471,6 +37466,11 @@
   },
   {
     "id": "group7",
+    "symbol": "group7",
+    "name": "Group7"
+  },
+  {
+    "id": "group7-2",
     "symbol": "group7",
     "name": "Group7"
   },
@@ -48660,6 +48660,11 @@
     "name": "Little Pepe"
   },
   {
+    "id": "little-pepe-5",
+    "symbol": "lilpepe",
+    "name": "Little Pepe"
+  },
+  {
     "id": "little-rabbit-v2",
     "symbol": "ltrbt",
     "name": "Little Rabbit V2"
@@ -52250,6 +52255,11 @@
     "name": "Memelinked"
   },
   {
+    "id": "mememarket",
+    "symbol": "mfun",
+    "name": "MemeMarket"
+  },
+  {
     "id": "mememe",
     "symbol": "$mememe",
     "name": "MEMEME"
@@ -53288,11 +53298,6 @@
     "id": "mexican-peso-tether",
     "symbol": "mxnt",
     "name": "Mexican Peso Tether"
-  },
-  {
-    "id": "mexico-chingon",
-    "symbol": "chingon",
-    "name": "Mexico Chingon"
   },
   {
     "id": "mey-network",
@@ -58415,6 +58420,11 @@
     "name": "Nockchain"
   },
   {
+    "id": "no-data",
+    "symbol": "ghost",
+    "name": "No Data"
+  },
+  {
     "id": "nod-cat",
     "symbol": "nod",
     "name": "nod cat"
@@ -59150,6 +59160,11 @@
     "name": "NuLink"
   },
   {
+    "id": "nulla",
+    "symbol": "nulla",
+    "name": "NULLA"
+  },
+  {
     "id": "null-matrix",
     "symbol": "null",
     "name": "NULL MATRIX"
@@ -59168,11 +59183,6 @@
     "id": "numa",
     "symbol": "numa",
     "name": "Numa"
-  },
-  {
-    "id": "num-ars",
-    "symbol": "nars",
-    "name": "Num ARS"
   },
   {
     "id": "numbers-protocol",
@@ -61388,6 +61398,11 @@
     "id": "osol",
     "symbol": "osol",
     "name": "OSOL"
+  },
+  {
+    "id": "otherdeedstrategy",
+    "symbol": "deedstr",
+    "name": "OtherdeedStrategy"
   },
   {
     "id": "otherworld",
@@ -64080,6 +64095,11 @@
     "name": "Piggy"
   },
   {
+    "id": "piggycell",
+    "symbol": "piggy",
+    "name": "Piggycell"
+  },
+  {
     "id": "piggycoinbsc",
     "symbol": "piggyc",
     "name": "PiggyCoinBSC"
@@ -66320,6 +66340,11 @@
     "name": "Principals Network"
   },
   {
+    "id": "print",
+    "symbol": "print",
+    "name": "Print"
+  },
+  {
     "id": "printer-ai",
     "symbol": "print",
     "name": "Printer AI"
@@ -67170,6 +67195,11 @@
     "name": "Pump Fun Puppet"
   },
   {
+    "id": "pump-halloween-cult",
+    "symbol": "halloween",
+    "name": "PUMP Halloween Cult 🎃"
+  },
+  {
     "id": "pumphotel",
     "symbol": "ph",
     "name": "Pumphotel"
@@ -67187,6 +67217,11 @@
   {
     "id": "pumpkin-4",
     "symbol": "pkin",
+    "name": "Pumpkin"
+  },
+  {
+    "id": "pumpkin-5",
+    "symbol": "pumpkin",
     "name": "Pumpkin"
   },
   {
@@ -68283,6 +68318,11 @@
     "id": "rage",
     "symbol": "rage",
     "name": "RAGE"
+  },
+  {
+    "id": "ragebait",
+    "symbol": "ragebait",
+    "name": "ragebait"
   },
   {
     "id": "rage-coin",
@@ -70330,6 +70370,11 @@
     "name": "Welle"
   },
   {
+    "id": "river-pts",
+    "symbol": "river pts",
+    "name": "River Pts"
+  },
+  {
     "id": "rivusdao",
     "symbol": "rivus",
     "name": "RivusDAO"
@@ -71078,6 +71123,11 @@
     "id": "ruby-2",
     "symbol": "ruby",
     "name": "RUBY"
+  },
+  {
+    "id": "ruby-coin",
+    "symbol": "ruby",
+    "name": "Ruby Coin"
   },
   {
     "id": "rubycoin-2",
@@ -78305,6 +78355,11 @@
     "name": "StareCat"
   },
   {
+    "id": "starecat-2",
+    "symbol": "starecat",
+    "name": "Starecat"
+  },
+  {
     "id": "stargate",
     "symbol": "stargate",
     "name": "Stargate"
@@ -80750,11 +80805,6 @@
     "name": "Synthetify"
   },
   {
-    "id": "synthetix-usdx",
-    "symbol": "usdx",
-    "name": "Synthetix USDx"
-  },
-  {
     "id": "synthra",
     "symbol": "syn",
     "name": "Synthra"
@@ -81753,11 +81803,6 @@
     "id": "tenx-2",
     "symbol": "tenx",
     "name": "TenX"
-  },
-  {
-    "id": "tepe",
-    "symbol": "tepe",
-    "name": "Tepe"
   },
   {
     "id": "tera-smart-money",
@@ -90845,11 +90890,6 @@
     "name": "WOLF"
   },
   {
-    "id": "wolf-game-wool",
-    "symbol": "wool",
-    "name": "Wolf Game Wool"
-  },
-  {
     "id": "wolfi-2",
     "symbol": "wolfi",
     "name": "WOLFI"
@@ -91123,6 +91163,11 @@
     "id": "world-of-dypians",
     "symbol": "wod",
     "name": "World of Dypians"
+  },
+  {
+    "id": "world-peace",
+    "symbol": "世界和平",
+    "name": "世界和平 (World Peace)"
   },
   {
     "id": "world-record-banana",
@@ -93328,6 +93373,11 @@
     "id": "wut",
     "symbol": "wut",
     "name": "WUT"
+  },
+  {
+    "id": "wu-wei",
+    "symbol": "wuwei",
+    "name": "無為 (Wu Wei)"
   },
   {
     "id": "wwemix",
