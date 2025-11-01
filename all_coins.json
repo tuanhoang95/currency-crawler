@@ -2440,6 +2440,11 @@
     "name": "AGUS"
   },
   {
+    "id": "a-hathor",
+    "symbol": "ahtr",
+    "name": "a-Hathor"
+  },
+  {
     "id": "ahatoken",
     "symbol": "aht",
     "name": "AhaToken"
@@ -3952,7 +3957,7 @@
   {
     "id": "alphakek-ai",
     "symbol": "aikek",
-    "name": "AlphaKEK.AI"
+    "name": "Alphakek"
   },
   {
     "id": "alpha-lens-x",
@@ -12315,6 +12320,11 @@
     "name": "Blockchain Cuties Universe Governance"
   },
   {
+    "id": "blockchain-fx",
+    "symbol": "bfx",
+    "name": "BlockchainFX"
+  },
+  {
     "id": "blockchain-island",
     "symbol": "bcl",
     "name": "Blockchain Island"
@@ -14155,11 +14165,6 @@
     "name": "Brain Frog"
   },
   {
-    "id": "braingent",
-    "symbol": "brain",
-    "name": "BrAIngent"
-  },
-  {
     "id": "brainlet",
     "symbol": "brainlet",
     "name": "BRAINLET"
@@ -15398,11 +15403,6 @@
     "id": "bull-4",
     "symbol": "bull",
     "name": "BULL"
-  },
-  {
-    "id": "bulla",
-    "symbol": "bulla",
-    "name": "BULLA"
   },
   {
     "id": "bulla-3",
@@ -17093,11 +17093,6 @@
     "id": "caviar-2",
     "symbol": "caviar",
     "name": "CAVIAR"
-  },
-  {
-    "id": "caviar-meme",
-    "symbol": "caviar",
-    "name": "Caviar"
   },
   {
     "id": "caviarnine-lsu-pool-lp",
@@ -23210,11 +23205,6 @@
     "name": "DEAR Token"
   },
   {
-    "id": "deathroad",
-    "symbol": "drace",
-    "name": "DeathRoad"
-  },
-  {
     "id": "debox",
     "symbol": "box",
     "name": "DeBox"
@@ -26410,11 +26400,6 @@
     "name": "Dog In Vest"
   },
   {
-    "id": "doginwotah",
-    "symbol": "water",
-    "name": "doginwotah"
-  },
-  {
     "id": "dogita",
     "symbol": "doga",
     "name": "DOGITA"
@@ -27493,11 +27478,6 @@
     "id": "drip-network",
     "symbol": "drip",
     "name": "Drip Network"
-  },
-  {
-    "id": "drivegt",
-    "symbol": "dgt",
-    "name": "DRIVEGT"
   },
   {
     "id": "droid",
@@ -29640,11 +29620,6 @@
     "name": "Eris Amplified MNTA"
   },
   {
-    "id": "eris-amplified-osmo",
-    "symbol": "amposmo",
-    "name": "Eris amplified OSMO"
-  },
-  {
     "id": "eris-amplified-whale",
     "symbol": "ampwhale",
     "name": "Eris Amplified WHALE"
@@ -30166,7 +30141,7 @@
   },
   {
     "id": "eureka-bridged-pax-gold-terra",
-    "symbol": "paxg.atom",
+    "symbol": "paxg",
     "name": "Eureka Bridged PAX Gold (Terra)"
   },
   {
@@ -33138,6 +33113,11 @@
     "id": "frame",
     "symbol": "frame",
     "name": "Frame"
+  },
+  {
+    "id": "frame-2",
+    "symbol": "frame",
+    "name": "FRAME"
   },
   {
     "id": "frame-token",
@@ -41010,11 +40990,6 @@
     "name": "iCommunity"
   },
   {
-    "id": "icompnet",
-    "symbol": "cpt",
-    "name": "iComPneT"
-  },
-  {
     "id": "icon",
     "symbol": "icx",
     "name": "ICON"
@@ -43660,6 +43635,11 @@
     "name": "Joltify"
   },
   {
+    "id": "jomon",
+    "symbol": "jomon",
+    "name": "JOMON"
+  },
+  {
     "id": "jonah",
     "symbol": "jonah",
     "name": "Jonah"
@@ -45955,6 +45935,11 @@
     "name": "Kome Chan"
   },
   {
+    "id": "komi",
+    "symbol": "komi",
+    "name": "KOMI"
+  },
+  {
     "id": "kommunitas",
     "symbol": "kom",
     "name": "Kommunitas [OLD]"
@@ -47148,6 +47133,11 @@
     "id": "law-service-token",
     "symbol": "lst",
     "name": "Law Service Token"
+  },
+  {
+    "id": "laws-of-blockchain",
+    "symbol": "code",
+    "name": "Laws of Blockchain"
   },
   {
     "id": "layer2dao",
@@ -49590,6 +49580,11 @@
     "name": "Luckify"
   },
   {
+    "id": "lucky",
+    "symbol": "lucky",
+    "name": "LUCKY"
+  },
+  {
     "id": "lucky-block",
     "symbol": "lblock",
     "name": "Lucky Block"
@@ -49883,6 +49878,11 @@
     "id": "luntra-infrastructure",
     "symbol": "$luntra",
     "name": "Luntra Infrastructure"
+  },
+  {
+    "id": "lurky",
+    "symbol": "lurky",
+    "name": "Lurky"
   },
   {
     "id": "lusd",
@@ -54555,11 +54555,6 @@
     "name": "MOCO"
   },
   {
-    "id": "mocossi-planet",
-    "symbol": "mcos",
-    "name": "Mocossi Planet"
-  },
-  {
     "id": "modclub",
     "symbol": "dcd",
     "name": "DecideAI"
@@ -57235,6 +57230,11 @@
     "name": "NEMA"
   },
   {
+    "id": "nemesis-2",
+    "symbol": "nemesis",
+    "name": "Nemesis"
+  },
+  {
     "id": "nemesis-ai-trader",
     "symbol": "nemesis",
     "name": "Nemesis AI Trader"
@@ -59188,6 +59188,11 @@
     "id": "nuance-2",
     "symbol": "sn23",
     "name": "Nuance"
+  },
+  {
+    "id": "nubila-network",
+    "symbol": "nb",
+    "name": "Nubila Network"
   },
   {
     "id": "nucleon-space",
@@ -61221,6 +61226,11 @@
   },
   {
     "id": "order-2",
+    "symbol": "order",
+    "name": "ORDER"
+  },
+  {
+    "id": "order-3",
     "symbol": "order",
     "name": "ORDER"
   },
@@ -70835,6 +70845,11 @@
     "name": "Rocket Pool ETH"
   },
   {
+    "id": "rocketsloth",
+    "symbol": "rslt",
+    "name": "RocketSloth"
+  },
+  {
     "id": "rocketx",
     "symbol": "rvf",
     "name": "RocketX Exchange"
@@ -75775,6 +75790,11 @@
     "name": "SokuSwap"
   },
   {
+    "id": "sol402-proxy",
+    "symbol": "sol402",
+    "name": "Sol402 Proxy"
+  },
+  {
     "id": "sola-ai",
     "symbol": "sola",
     "name": "SOLA AI"
@@ -76518,11 +76538,6 @@
     "id": "solstream",
     "symbol": "stream",
     "name": "Solstream"
-  },
-  {
-    "id": "soltalk-ai",
-    "symbol": "soltalk",
-    "name": "Soltalk AI"
   },
   {
     "id": "soltan",
@@ -77412,6 +77427,11 @@
   {
     "id": "speedrun",
     "symbol": "run",
+    "name": "Speedrun"
+  },
+  {
+    "id": "speedrun-2",
+    "symbol": "speed",
     "name": "Speedrun"
   },
   {
@@ -78368,6 +78388,11 @@
     "id": "stake-flow",
     "symbol": "flow",
     "name": "STAKE FLOW"
+  },
+  {
+    "id": "stakefy",
+    "symbol": "sfy",
+    "name": "Stakefy"
   },
   {
     "id": "stakehouse-keth",
@@ -87540,6 +87565,11 @@
     "name": "uTON"
   },
   {
+    "id": "utopia-3",
+    "symbol": "utopia",
+    "name": "Utopia"
+  },
+  {
     "id": "utrade",
     "symbol": "utt",
     "name": "uTrade"
@@ -93655,6 +93685,11 @@
     "name": "x444"
   },
   {
+    "id": "x4pay",
+    "symbol": "x4pay",
+    "name": "x4Pay"
+  },
+  {
     "id": "x7r",
     "symbol": "x7r",
     "name": "X7R"
@@ -93828,6 +93863,11 @@
     "id": "xception",
     "symbol": "xcept",
     "name": "XCeption"
+  },
+  {
+    "id": "xchange-2",
+    "symbol": "xchange",
+    "name": "XChange"
   },
   {
     "id": "xcksm",
@@ -95690,11 +95730,6 @@
     "name": "Zaibot"
   },
   {
-    "id": "zaichxbt",
-    "symbol": "zai",
-    "name": "ZaichXBT"
-  },
-  {
     "id": "zaif-token",
     "symbol": "zaif",
     "name": "Zaif"
@@ -96848,6 +96883,11 @@
     "id": "zoo-world",
     "symbol": "zoo",
     "name": "Zoo World"
+  },
+  {
+    "id": "zopa",
+    "symbol": "zopa",
+    "name": "ZOPA"
   },
   {
     "id": "zo-perpetuals-lp-token",
