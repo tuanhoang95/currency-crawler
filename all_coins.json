@@ -6815,6 +6815,11 @@
     "name": "Auctus"
   },
   {
+    "id": "audiera",
+    "symbol": "beat",
+    "name": "Audiera"
+  },
+  {
     "id": "audit",
     "symbol": "audit",
     "name": "Audit"
@@ -12718,11 +12723,6 @@
     "id": "bluesparrow",
     "symbol": "bluesparrow",
     "name": "BlueSparrow"
-  },
-  {
-    "id": "bluesparrow-token",
-    "symbol": "bluesparrow",
-    "name": "BlueSparrow [OLD]"
   },
   {
     "id": "blue-whale-2",
@@ -21960,11 +21960,6 @@
     "name": "CULOSUI"
   },
   {
-    "id": "cult",
-    "symbol": "cult",
-    "name": "CULT"
-  },
-  {
     "id": "cult-2",
     "symbol": "cult",
     "name": "CULT"
@@ -27010,11 +27005,6 @@
     "name": "Dorado Finance"
   },
   {
-    "id": "dora-factory",
-    "symbol": "dora",
-    "name": "Dora Factory [OLD]"
-  },
-  {
     "id": "dora-factory-2",
     "symbol": "dora",
     "name": "Dora Factory"
@@ -27228,11 +27218,6 @@
     "id": "drac-ordinals",
     "symbol": "drac",
     "name": "DRAC (Ordinals)"
-  },
-  {
-    "id": "draft",
-    "symbol": "draft",
-    "name": "Draft"
   },
   {
     "id": "draggin-karma-points",
@@ -33135,11 +33120,6 @@
     "name": "FRANCE REV FINANCE"
   },
   {
-    "id": "frank",
-    "symbol": "frank",
-    "name": "Frank"
-  },
-  {
     "id": "frankencoin",
     "symbol": "zchf",
     "name": "Frankencoin"
@@ -34093,11 +34073,6 @@
     "id": "gabin-noosum",
     "symbol": "noosum",
     "name": "Gabin Noosum"
-  },
-  {
-    "id": "gachaai",
-    "symbol": "gacha",
-    "name": "GachaAI"
   },
   {
     "id": "gaga-pepe",
@@ -42225,11 +42200,6 @@
     "name": "Interstellar Domain Order"
   },
   {
-    "id": "intexcoin",
-    "symbol": "intx",
-    "name": "INTEXCOIN"
-  },
-  {
     "id": "in-the-meme-time",
     "symbol": "itmt",
     "name": "In The MEME Time"
@@ -44555,11 +44525,6 @@
     "name": "Kaspa"
   },
   {
-    "id": "kaspa-dao",
-    "symbol": "kdao",
-    "name": "Kaspa DAO"
-  },
-  {
     "id": "kasper",
     "symbol": "kasper",
     "name": "Kasper"
@@ -45445,6 +45410,11 @@
     "name": "Kite"
   },
   {
+    "id": "kite-2",
+    "symbol": "kite",
+    "name": "Kite"
+  },
+  {
     "id": "kiteai",
     "symbol": "kiteai",
     "name": "KITEAI"
@@ -45657,7 +45627,17 @@
   {
     "id": "klima-dao",
     "symbol": "klima",
-    "name": "KlimaDAO"
+    "name": "KlimaDAO [OLD]"
+  },
+  {
+    "id": "klima-dao-2",
+    "symbol": "k2",
+    "name": "Klima Protocol K2"
+  },
+  {
+    "id": "klima-dao-old",
+    "symbol": "kvcm",
+    "name": "Klima Protocol kVCM"
   },
   {
     "id": "klink-finance",
@@ -46908,11 +46888,6 @@
     "id": "lantern-staked-sol",
     "symbol": "lanternsol",
     "name": "Lantern Staked SOL"
-  },
-  {
-    "id": "lapapuy",
-    "symbol": "lpp",
-    "name": "Lampapuy"
   },
   {
     "id": "la-peseta-2",
@@ -49055,6 +49030,11 @@
     "name": "Lol Guy"
   },
   {
+    "id": "lol-land",
+    "symbol": "lol",
+    "name": "LOL Land"
+  },
+  {
     "id": "lollybomb",
     "symbol": "bomb",
     "name": "LollyBomb"
@@ -51060,6 +51040,11 @@
     "name": "Marinade"
   },
   {
+    "id": "marina-protocol",
+    "symbol": "bay",
+    "name": "Marina Protocol"
+  },
+  {
     "id": "marine-moguls",
     "symbol": "mogul",
     "name": "Marine Moguls"
@@ -51388,11 +51373,6 @@
     "id": "masterdex",
     "symbol": "mdex",
     "name": "MasterDEX"
-  },
-  {
-    "id": "masternoder2",
-    "symbol": "mn2",
-    "name": "MasterNoder2"
   },
   {
     "id": "matchain",
@@ -53135,11 +53115,6 @@
     "name": "Metaverser"
   },
   {
-    "id": "metavirus",
-    "symbol": "mvt",
-    "name": "MetaVirus"
-  },
-  {
     "id": "metavisa",
     "symbol": "mesa",
     "name": "metavisa"
@@ -53973,11 +53948,6 @@
     "id": "mind-zero",
     "symbol": "mind",
     "name": "Mind Zero"
-  },
-  {
-    "id": "mineable",
-    "symbol": "mnb",
-    "name": "Mineable"
   },
   {
     "id": "mine-blue",
@@ -54998,11 +54968,6 @@
     "id": "monke-coin-eth",
     "symbol": "monke",
     "name": "Monke Coin"
-  },
-  {
-    "id": "monkei",
-    "symbol": "monkei",
-    "name": "Monkei"
   },
   {
     "id": "monkeonbase",
@@ -58065,11 +58030,6 @@
     "name": "NFsTay"
   },
   {
-    "id": "nft-ai",
-    "symbol": "nftai",
-    "name": "NFT Ai"
-  },
-  {
     "id": "nft-art-finance",
     "symbol": "nftart",
     "name": "NFT Art Finance"
@@ -58628,11 +58588,6 @@
     "id": "noice",
     "symbol": "noice",
     "name": "noice"
-  },
-  {
-    "id": "noike",
-    "symbol": "woosh",
-    "name": "Noike"
   },
   {
     "id": "no-internet",
@@ -66750,11 +66705,6 @@
     "name": "Prom"
   },
   {
-    "id": "prometheum-prodigy",
-    "symbol": "pmpy",
-    "name": "Prometheum Prodigy"
-  },
-  {
     "id": "prometheus-waluigi",
     "symbol": "prome",
     "name": "Prometheus Waluigi"
@@ -67818,11 +67768,6 @@
     "id": "qmcoin",
     "symbol": "qmc",
     "name": "QMCoin"
-  },
-  {
-    "id": "qmind",
-    "symbol": "qmind",
-    "name": "QMind"
   },
   {
     "id": "qna3-ai",
@@ -69645,11 +69590,6 @@
     "name": "Remint"
   },
   {
-    "id": "remittix",
-    "symbol": "rtx",
-    "name": "Remittix"
-  },
-  {
     "id": "rem-token",
     "symbol": "rem",
     "name": "REM Token"
@@ -69813,6 +69753,11 @@
     "id": "researchcoin",
     "symbol": "rsc",
     "name": "ResearchCoin"
+  },
+  {
+    "id": "reserve-3",
+    "symbol": "reserve",
+    "name": "Reserve"
   },
   {
     "id": "reserveblock",
@@ -70743,11 +70688,6 @@
     "id": "robonomics-network",
     "symbol": "xrt",
     "name": "Robonomics Network"
-  },
-  {
-    "id": "robopepe",
-    "symbol": "robopepe",
-    "name": "RoboPepe"
   },
   {
     "id": "robora",
@@ -71895,11 +71835,6 @@
     "name": "Sage Market"
   },
   {
-    "id": "sage-union",
-    "symbol": "sagu",
-    "name": "Sage Union"
-  },
-  {
     "id": "sage-universe",
     "symbol": "sage",
     "name": "Sage Universe"
@@ -72168,11 +72103,6 @@
     "id": "sandy-codex",
     "symbol": "sandy",
     "name": "Sandy Codex"
-  },
-  {
-    "id": "sangkara",
-    "symbol": "misa",
-    "name": "Sangkara"
   },
   {
     "id": "sanin",
@@ -83348,11 +83278,6 @@
     "id": "three-2",
     "symbol": "3",
     "name": "Three"
-  },
-  {
-    "id": "three-arrowz-capitel",
-    "symbol": "3ac",
-    "name": "Three Arrowz Capitel"
   },
   {
     "id": "threefold-token",
