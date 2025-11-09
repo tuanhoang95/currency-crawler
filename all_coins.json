@@ -9550,6 +9550,11 @@
     "name": "Beam"
   },
   {
+    "id": "beamable-network-token",
+    "symbol": "bmb",
+    "name": "Beamable Network Token"
+  },
+  {
     "id": "beam-bridged-avax-beam",
     "symbol": "avax",
     "name": "Beam Bridged AVAX (Beam)"
@@ -11415,11 +11420,6 @@
     "name": "Bitcoin Gold"
   },
   {
-    "id": "bitcoin-hyper-4",
-    "symbol": "hyper",
-    "name": "Bitcoin Hyper"
-  },
-  {
     "id": "bitcoin-hyper-5",
     "symbol": "hyper",
     "name": "Bitcoin Hyper"
@@ -12658,6 +12658,11 @@
     "id": "blue-chip-2",
     "symbol": "bluechip",
     "name": "Blue Chip"
+  },
+  {
+    "id": "blue-coin",
+    "symbol": "blue",
+    "name": "Blue Coin"
   },
   {
     "id": "bluecore",
@@ -15638,11 +15643,6 @@
     "id": "bunnie-2",
     "symbol": "bunnie",
     "name": "Bunnie"
-  },
-  {
-    "id": "bunny-mev-bot",
-    "symbol": "bunny",
-    "name": "BUNNY MEV BOT"
   },
   {
     "id": "bunnypark",
@@ -28530,11 +28530,6 @@
     "name": "Eggs Finance"
   },
   {
-    "id": "eggy-the-pet-egg",
-    "symbol": "eggy",
-    "name": "Eggy The Pet Egg"
-  },
-  {
     "id": "egl1",
     "symbol": "egl1",
     "name": "EGL1"
@@ -30243,6 +30238,11 @@
     "id": "evana",
     "symbol": "evana",
     "name": "EVANA"
+  },
+  {
+    "id": "eve-2",
+    "symbol": "eve",
+    "name": "EVE"
   },
   {
     "id": "eve-ai",
@@ -37630,6 +37630,11 @@
     "name": "GTETH"
   },
   {
+    "id": "gtf",
+    "symbol": "gtf",
+    "name": "GTF"
+  },
+  {
     "id": "g-token",
     "symbol": "g",
     "name": "Gravity (by Galxe)"
@@ -38523,11 +38528,6 @@
     "id": "hashbit",
     "symbol": "hbit",
     "name": "HashBit [OLD]"
-  },
-  {
-    "id": "hashbit-2",
-    "symbol": "hbit",
-    "name": "HashBit"
   },
   {
     "id": "hashflow",
@@ -48775,12 +48775,12 @@
     "name": "Little Pepe"
   },
   {
-    "id": "little-pepe-4",
+    "id": "little-pepe-5",
     "symbol": "lilpepe",
     "name": "Little Pepe"
   },
   {
-    "id": "little-pepe-5",
+    "id": "little-pepe-6",
     "symbol": "lilpepe",
     "name": "Little Pepe"
   },
@@ -51700,6 +51700,11 @@
     "name": "Maximus"
   },
   {
+    "id": "maximus-2",
+    "symbol": "maximus",
+    "name": "Maximus"
+  },
+  {
     "id": "maximus-base",
     "symbol": "base",
     "name": "Maximus BASE"
@@ -53110,11 +53115,6 @@
     "name": "Metaplex"
   },
   {
-    "id": "meta-plus-token",
-    "symbol": "mts",
-    "name": "Meta Plus Token"
-  },
-  {
     "id": "meta-pool",
     "symbol": "mpdao",
     "name": "Meta Pool DAO"
@@ -54215,11 +54215,6 @@
     "name": "MintStakeShare"
   },
   {
-    "id": "mintswaptoken",
-    "symbol": "mst",
-    "name": "MintSwapToken"
-  },
-  {
     "id": "mint-token",
     "symbol": "mt",
     "name": "Mint Token"
@@ -55218,6 +55213,11 @@
     "id": "moochii",
     "symbol": "moochii",
     "name": "Moochii"
+  },
+  {
+    "id": "mooch-the-cow",
+    "symbol": "mooch",
+    "name": "Mooch The Cow"
   },
   {
     "id": "moo-cow",
@@ -56548,11 +56548,6 @@
     "id": "muva",
     "symbol": "$muva",
     "name": "MUVA"
-  },
-  {
-    "id": "muxyai",
-    "symbol": "mai",
-    "name": "MuxyAI"
   },
   {
     "id": "muzki",
@@ -62955,6 +62950,11 @@
     "name": "Pectra Giraffe"
   },
   {
+    "id": "pecunity",
+    "symbol": "pec",
+    "name": "Pecunity"
+  },
+  {
     "id": "pedro",
     "symbol": "pedro",
     "name": "PEDRO"
@@ -63501,11 +63501,6 @@
   },
   {
     "id": "pepenode-2",
-    "symbol": "pepenode",
-    "name": "PepeNode"
-  },
-  {
-    "id": "pepenode-3",
     "symbol": "pepenode",
     "name": "PepeNode"
   },
@@ -68065,6 +68060,11 @@
     "name": "QuantifyAI"
   },
   {
+    "id": "quantify-trading",
+    "symbol": "quant",
+    "name": "Quantify Trading"
+  },
+  {
     "id": "quantixai",
     "symbol": "qai",
     "name": "QuantixAI"
@@ -69718,6 +69718,11 @@
     "id": "relign",
     "symbol": "relign",
     "name": "RELIGN"
+  },
+  {
+    "id": "re-loaded",
+    "symbol": "relo",
+    "name": "RE-LOADED"
   },
   {
     "id": "remilia",
@@ -74100,6 +74105,11 @@
     "name": "SHIFT"
   },
   {
+    "id": "shift-3",
+    "symbol": "shift",
+    "name": "Shift"
+  },
+  {
     "id": "shift-ai",
     "symbol": "shift",
     "name": "Shift AI"
@@ -75853,11 +75863,6 @@
     "id": "soil",
     "symbol": "soil",
     "name": "Soil"
-  },
-  {
-    "id": "sojak",
-    "symbol": "sojak",
-    "name": "Sojak"
   },
   {
     "id": "sokuswap",
@@ -92673,11 +92678,6 @@
     "id": "wrapped-harlequins-kayen",
     "symbol": "wquins",
     "name": "Wrapped Harlequins (Kayen)"
-  },
-  {
-    "id": "wrapped-hashtag-united-kayen",
-    "symbol": "whashtag",
-    "name": "Wrapped Hashtag United (Kayen)"
   },
   {
     "id": "wrapped-hbar",
