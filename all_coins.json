@@ -155,6 +155,11 @@
     "name": "赵长娥"
   },
   {
+    "id": "11-11",
+    "symbol": "11.11",
+    "name": "11.11"
+  },
+  {
     "id": "11am",
     "symbol": "11am",
     "name": "11am"
@@ -1428,11 +1433,6 @@
     "id": "abcnuri",
     "symbol": "abcnuri",
     "name": "abcNURI"
-  },
-  {
-    "id": "abcphar",
-    "symbol": "abcphar",
-    "name": "abcPHAR"
   },
   {
     "id": "abc-pos-pool",
@@ -7403,6 +7403,11 @@
     "id": "awoke-2",
     "symbol": "awoke",
     "name": "Awoke"
+  },
+  {
+    "id": "axcnh",
+    "symbol": "axcnh",
+    "name": "AxCNH"
   },
   {
     "id": "axe",
@@ -14545,11 +14550,6 @@
     "name": "Bridged MAGA (Wormhole)"
   },
   {
-    "id": "bridged-matic-manta-pacific",
-    "symbol": "matic",
-    "name": "Bridged MATIC (Manta Pacific)"
-  },
-  {
     "id": "bridged-polygon-lightlink",
     "symbol": "matic.e",
     "name": "Bridged Polygon (Lightlink)"
@@ -15555,11 +15555,6 @@
     "name": "BullPerks [OLD]"
   },
   {
-    "id": "bullperks-ai",
-    "symbol": "blpai",
-    "name": "BullPerks AI"
-  },
-  {
     "id": "bull-run-solana",
     "symbol": "$bull",
     "name": "Bull Run Solana"
@@ -16312,7 +16307,7 @@
   {
     "id": "canton-network",
     "symbol": "cc",
-    "name": "Canton Network"
+    "name": "Canton"
   },
   {
     "id": "canwifhat",
@@ -24810,11 +24805,6 @@
     "name": "Diverge Loop"
   },
   {
-    "id": "diamondshell",
-    "symbol": "dshell",
-    "name": "DiamondShell"
-  },
-  {
     "id": "diamond-standard-carat",
     "symbol": "carat",
     "name": "Diamond Standard Carat"
@@ -27715,11 +27705,6 @@
     "name": "Duckereum"
   },
   {
-    "id": "duckey",
-    "symbol": "duckey",
-    "name": "Duckey"
-  },
-  {
     "id": "duckie-land-multi-metaverse",
     "symbol": "mmeta",
     "name": "Duckie Land Multi Metaverse"
@@ -29200,6 +29185,11 @@
     "name": "End Federal Reserve"
   },
   {
+    "id": "endless",
+    "symbol": "eds",
+    "name": "Endless"
+  },
+  {
     "id": "endurance",
     "symbol": "ace",
     "name": "Fusionist"
@@ -29613,11 +29603,6 @@
     "id": "eric-2",
     "symbol": "eric",
     "name": "Eric"
-  },
-  {
-    "id": "eric-the-goldfish",
-    "symbol": "eric",
-    "name": "Eric the Goldfish"
   },
   {
     "id": "eris-amplified-juno",
@@ -30455,11 +30440,6 @@
     "name": "Exactly Wrapped stETH"
   },
   {
-    "id": "exatech",
-    "symbol": "ext",
-    "name": "Exatech"
-  },
-  {
     "id": "excelon",
     "symbol": "xlon",
     "name": "Excelon"
@@ -31290,11 +31270,6 @@
     "name": "Federal AI"
   },
   {
-    "id": "fedja-cat",
-    "symbol": "fedja",
-    "name": "FEDJA CAT"
-  },
-  {
     "id": "feed",
     "symbol": "feed",
     "name": "FEED"
@@ -31993,11 +31968,6 @@
     "id": "fitcoin-3",
     "symbol": "fitcoin",
     "name": "FITCOIN"
-  },
-  {
-    "id": "fitmint",
-    "symbol": "fitt",
-    "name": "Fitmint"
   },
   {
     "id": "fittoken",
@@ -39105,11 +39075,6 @@
     "name": "Hemi Bitcoin"
   },
   {
-    "id": "hemi-bridged-usdt-hemi",
-    "symbol": "usdt",
-    "name": "Hemi Bridged USDT (Hemi)"
-  },
-  {
     "id": "hemi-bridged-wbtc-hemi",
     "symbol": "wbtc",
     "name": "Hemi Bridged WBTC (Hemi)"
@@ -42420,6 +42385,11 @@
     "name": "IOI Token"
   },
   {
+    "id": "ioi-trader",
+    "symbol": "ioi",
+    "name": "IOI Trader"
+  },
+  {
     "id": "ion",
     "symbol": "ion",
     "name": "Ion"
@@ -43295,11 +43265,6 @@
     "name": "Jeetjail"
   },
   {
-    "id": "jefe",
-    "symbol": "jefe",
-    "name": "Jefe [OLD]"
-  },
-  {
     "id": "jefe-3",
     "symbol": "jefe",
     "name": "Jefe"
@@ -43978,6 +43943,11 @@
     "id": "jupiter-staked-sol",
     "symbol": "jupsol",
     "name": "Jupiter Staked SOL"
+  },
+  {
+    "id": "jupusd",
+    "symbol": "jupusd",
+    "name": "JupUSD"
   },
   {
     "id": "juris-protocol",
@@ -49628,6 +49598,11 @@
     "id": "lucia",
     "symbol": "lucia",
     "name": "LUCIA"
+  },
+  {
+    "id": "lucidum",
+    "symbol": "lucic",
+    "name": "Lucidum"
   },
   {
     "id": "luck-2",
@@ -59380,6 +59355,11 @@
     "name": "NULLA"
   },
   {
+    "id": "nullifier",
+    "symbol": "null",
+    "name": "nullifier"
+  },
+  {
     "id": "null-matrix",
     "symbol": "null",
     "name": "NULL MATRIX"
@@ -60637,6 +60617,11 @@
   {
     "id": "oobit",
     "symbol": "obt",
+    "name": "Oobit [Old]"
+  },
+  {
+    "id": "oobit-2",
+    "symbol": "oob",
     "name": "Oobit"
   },
   {
@@ -66500,11 +66485,6 @@
     "name": "Presearch"
   },
   {
-    "id": "president-exe",
-    "symbol": "aimaga",
-    "name": "President.exe"
-  },
-  {
     "id": "president-platy",
     "symbol": "platy",
     "name": "President PLATY"
@@ -67050,6 +67030,11 @@
     "name": "Sirius Chain"
   },
   {
+    "id": "prxvt-by-virtuals",
+    "symbol": "prxvt",
+    "name": "PRXVT by Virtuals"
+  },
+  {
     "id": "prystine",
     "symbol": "prys",
     "name": "Prystine"
@@ -67438,6 +67423,11 @@
     "id": "pumpbtc-2",
     "symbol": "pump",
     "name": "PumpBTC"
+  },
+  {
+    "id": "pumpcade",
+    "symbol": "pumpcade",
+    "name": "PUMPCADE"
   },
   {
     "id": "pumpcat",
@@ -72530,11 +72520,6 @@
     "name": "SATOSHI•NAKAMOTO (Bitcoin)"
   },
   {
-    "id": "satoshi-nakamoto-sol",
-    "symbol": "$godfather",
-    "name": "SATOSHI NAKAMOTO (SOL)"
-  },
-  {
     "id": "satoshi-panda",
     "symbol": "sap",
     "name": "Satoshi Panda"
@@ -76710,11 +76695,6 @@
     "name": "Solv Protocol SolvBTC.BNB"
   },
   {
-    "id": "solv-protocol-solvbtc-core",
-    "symbol": "solvbtc.core",
-    "name": "Solv Protocol SolvBTC.CORE"
-  },
-  {
     "id": "solv-protocol-solvbtc-jupiter",
     "symbol": "solvbtc.jup",
     "name": "Solv Protocol SolvBTC Jupiter"
@@ -78315,6 +78295,11 @@
     "name": "Staked Cap USD"
   },
   {
+    "id": "staked-celo",
+    "symbol": "stcelo",
+    "name": "Staked Celo"
+  },
+  {
     "id": "staked-ether",
     "symbol": "steth",
     "name": "Lido Staked Ether"
@@ -78690,6 +78675,11 @@
     "name": "Stargate Bridged USDC (Vana)"
   },
   {
+    "id": "stargate-bridged-usdt",
+    "symbol": "usdt",
+    "name": "Stargate Bridged USDT"
+  },
+  {
     "id": "stargate-bridged-usdt0",
     "symbol": "usdt0",
     "name": "Stargate Bridged USDT0"
@@ -78705,19 +78695,9 @@
     "name": "Stargate Bridged USDT (Fuse)"
   },
   {
-    "id": "stargate-bridged-usdt-peaq",
-    "symbol": "usdt",
-    "name": "Stargate Bridged USDT (Peaq)"
-  },
-  {
     "id": "stargate-bridged-usdt-plume",
     "symbol": "usdt",
     "name": "Stargate Bridged USDT (Plume)"
-  },
-  {
-    "id": "stargate-bridged-usdt-somnia",
-    "symbol": "usdt",
-    "name": "Stargate Bridged USDT (Somnia)"
   },
   {
     "id": "stargate-bridged-usdt-xdc",
@@ -88450,6 +88430,11 @@
     "name": "Veritaseum"
   },
   {
+    "id": "vernus",
+    "symbol": "ver",
+    "name": "Vernus"
+  },
+  {
     "id": "veronica",
     "symbol": "veronica",
     "name": "VERONICA by Virtuals"
@@ -92090,11 +92075,6 @@
     "name": "Wrapped Bera"
   },
   {
-    "id": "wrapped-berachain-universal",
-    "symbol": "ubera",
-    "name": "Wrapped Berachain (Universal)"
-  },
-  {
     "id": "wrapped-berkshire-hathaway-xstock",
     "symbol": "wbrk.bx",
     "name": "Wrapped Berkshire Hathaway xStock"
@@ -94392,7 +94372,7 @@
   {
     "id": "xone-bridged-usdt-xone",
     "symbol": "usdt",
-    "name": "Xone Bridged USDT (Xone)"
+    "name": "RainLink Bridged USDT (Xone)"
   },
   {
     "id": "xonxrp",
@@ -94858,11 +94838,6 @@
     "id": "y8u",
     "symbol": "y8u",
     "name": "Y8U"
-  },
-  {
-    "id": "y8u-ai",
-    "symbol": "y8u",
-    "name": "Y8U AI"
   },
   {
     "id": "yachtcoin",
