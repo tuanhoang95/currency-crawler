@@ -1725,11 +1725,6 @@
     "name": "Act I The AI Prophecy"
   },
   {
-    "id": "active-token",
-    "symbol": "active",
-    "name": "Active Token"
-  },
-  {
     "id": "actual",
     "symbol": "actual",
     "name": "ACTUAL"
@@ -2673,6 +2668,11 @@
     "id": "aida",
     "symbol": "aida",
     "name": "AIDA"
+  },
+  {
+    "id": "aida-2",
+    "symbol": "aida",
+    "name": "Aida"
   },
   {
     "id": "aidaovc",
@@ -3876,11 +3876,6 @@
   },
   {
     "id": "alpaca-2",
-    "symbol": "alpaca",
-    "name": "Alpaca"
-  },
-  {
-    "id": "alpaca-3",
     "symbol": "alpaca",
     "name": "Alpaca"
   },
@@ -7795,11 +7790,6 @@
     "name": "Baby Cheems"
   },
   {
-    "id": "baby-coq-inu",
-    "symbol": "bcoq",
-    "name": "Baby Coq Inu"
-  },
-  {
     "id": "babycrash",
     "symbol": "babycrash",
     "name": "BabyCrash"
@@ -10545,11 +10535,6 @@
     "name": "Bifrost"
   },
   {
-    "id": "bifrost-bridged-bnb-bifrost",
-    "symbol": "bnb",
-    "name": "Bifrost Bridged BNB (Bifrost)"
-  },
-  {
     "id": "bifrost-bridged-eth-bifrost",
     "symbol": "eth",
     "name": "Bifrost Bridged ETH (Bifrost)"
@@ -11260,11 +11245,6 @@
     "name": "BITBONDS"
   },
   {
-    "id": "bitbonk",
-    "symbol": "bbonk",
-    "name": "BitBonk"
-  },
-  {
     "id": "bitbook-token",
     "symbol": "bbt",
     "name": "BitBook"
@@ -11718,6 +11698,11 @@
     "id": "bit-hotel",
     "symbol": "bth",
     "name": "Bit Hotel"
+  },
+  {
+    "id": "bithotelskl",
+    "symbol": "bhskl",
+    "name": "BitHotelSKL"
   },
   {
     "id": "bitkub-coin",
@@ -15423,11 +15408,6 @@
     "id": "bulbul2dao",
     "symbol": "bulbul",
     "name": "BULBUL2DAO"
-  },
-  {
-    "id": "buldak",
-    "symbol": "bul",
-    "name": "Buldak"
   },
   {
     "id": "bulei",
@@ -21985,6 +21965,11 @@
     "name": "Cuckadoodledoo"
   },
   {
+    "id": "cucumber-trade",
+    "symbol": "cuc",
+    "name": "Cucumber Trade"
+  },
+  {
     "id": "cudis",
     "symbol": "cudis",
     "name": "Cudis"
@@ -27288,6 +27273,11 @@
     "id": "dragoma",
     "symbol": "dma",
     "name": "Dragoma"
+  },
+  {
+    "id": "dragon-4",
+    "symbol": "dragon",
+    "name": "DRAGON"
   },
   {
     "id": "dragonchain",
@@ -37775,11 +37765,6 @@
     "name": "Guild of Guardians"
   },
   {
-    "id": "guild-of-heroes",
-    "symbol": "goh",
-    "name": "Guild of Heroes"
-  },
-  {
     "id": "gulfcoin-2",
     "symbol": "gulf",
     "name": "GulfCoin"
@@ -40045,6 +40030,11 @@
     "name": "Horizon"
   },
   {
+    "id": "horizon-5",
+    "symbol": "horizon",
+    "name": "Horizon"
+  },
+  {
     "id": "horizon-oracles",
     "symbol": "horizon",
     "name": "Horizon Oracles"
@@ -41885,6 +41875,11 @@
     "name": "infraX"
   },
   {
+    "id": "infraxa",
+    "symbol": "infra",
+    "name": "Infraxa"
+  },
+  {
     "id": "ini",
     "symbol": "ini",
     "name": "INI"
@@ -42100,11 +42095,6 @@
     "name": "inSure DeFi"
   },
   {
-    "id": "insurex",
-    "symbol": "ixt",
-    "name": "iXledger"
-  },
-  {
     "id": "integral",
     "symbol": "itgr",
     "name": "Integral"
@@ -42118,6 +42108,11 @@
     "id": "integrity-dao",
     "symbol": "id",
     "name": "Integrity DAO"
+  },
+  {
+    "id": "intellex",
+    "symbol": "itlx",
+    "name": "Intellex"
   },
   {
     "id": "intellika-ai",
@@ -43305,6 +43300,11 @@
     "name": "Jeff"
   },
   {
+    "id": "jeff-ceo",
+    "symbol": "ceo",
+    "name": "Jeff CEO"
+  },
+  {
     "id": "jeffworld-token",
     "symbol": "jeff",
     "name": "JEFFWorld Token"
@@ -43798,6 +43798,11 @@
     "id": "jpmorgan-chase-xstock",
     "symbol": "jpmx",
     "name": "JPMorgan Chase xStock"
+  },
+  {
+    "id": "j-p-morgan-deposit-token",
+    "symbol": "jpmd",
+    "name": "J.P. Morgan Deposit Token"
   },
   {
     "id": "jpool",
@@ -52185,11 +52190,6 @@
     "name": "meh on TON"
   },
   {
-    "id": "mei-solutions",
-    "symbol": "mei",
-    "name": "Mei Solutions"
-  },
-  {
     "id": "melancholy-jimmy",
     "symbol": "jimmy",
     "name": "Melancholy Jimmy"
@@ -54963,11 +54963,6 @@
     "id": "monero",
     "symbol": "xmr",
     "name": "Monero"
-  },
-  {
-    "id": "monet-2",
-    "symbol": "monet",
-    "name": "MONET"
   },
   {
     "id": "monetha",
@@ -60655,11 +60650,6 @@
     "name": "Onchain Yield Coin"
   },
   {
-    "id": "oobit",
-    "symbol": "obt",
-    "name": "Oobit [Old]"
-  },
-  {
     "id": "oobit-2",
     "symbol": "oob",
     "name": "Oobit"
@@ -60808,6 +60798,11 @@
     "id": "openkaito",
     "symbol": "sn5",
     "name": "OpenKaito"
+  },
+  {
+    "id": "openkitx403",
+    "symbol": "k403",
+    "name": "OpenKitx403"
   },
   {
     "id": "openledger-2",
@@ -62690,6 +62685,11 @@
     "name": "Patriot"
   },
   {
+    "id": "patriot-2",
+    "symbol": "patriot",
+    "name": "PATRIOT"
+  },
+  {
     "id": "patrol-tao-com",
     "symbol": "sn81",
     "name": "grail"
@@ -64343,11 +64343,6 @@
     "id": "pigcatsol",
     "symbol": "pc",
     "name": "PigCat"
-  },
-  {
-    "id": "pigcoin-2",
-    "symbol": "pig",
-    "name": "Pigcoin"
   },
   {
     "id": "pigeon-in-yellow-boots",
@@ -73645,6 +73640,11 @@
     "name": "Shadow Node"
   },
   {
+    "id": "shadowos",
+    "symbol": "sos",
+    "name": "ShadowOS"
+  },
+  {
     "id": "shadows-of-hope",
     "symbol": "soh",
     "name": "Shadows Of Hope"
@@ -75335,11 +75335,6 @@
     "name": "SLUB"
   },
   {
-    "id": "slumbo",
-    "symbol": "slumbo",
-    "name": "SLUMBO"
-  },
-  {
     "id": "slurp-2",
     "symbol": "slurp",
     "name": "slurp"
@@ -75595,11 +75590,6 @@
     "name": "Smoothy"
   },
   {
-    "id": "smoovie-phone",
-    "symbol": "sp",
-    "name": "Smoovie Phone"
-  },
-  {
     "id": "smore",
     "symbol": "smore",
     "name": "SMORE"
@@ -75618,6 +75608,11 @@
     "id": "smudge-lord",
     "symbol": "smudge",
     "name": "Smudge Lord"
+  },
+  {
+    "id": "snackmoney",
+    "symbol": "snackmoney",
+    "name": "snackmoney"
   },
   {
     "id": "snailmoon",
@@ -77883,6 +77878,11 @@
     "id": "spotify-ondo-tokenized-stock",
     "symbol": "spoton",
     "name": "Spotify (Ondo Tokenized Stock)"
+  },
+  {
+    "id": "spotlight",
+    "symbol": "spotlight",
+    "name": "Spotlight"
   },
   {
     "id": "spottie-wifi",
@@ -80495,11 +80495,6 @@
     "name": "SERO"
   },
   {
-    "id": "supportfi-ai",
-    "symbol": "sfai",
-    "name": "SupportFi AI"
-  },
-  {
     "id": "supra",
     "symbol": "supra",
     "name": "Supra"
@@ -83085,6 +83080,11 @@
     "name": "the real goal"
   },
   {
+    "id": "the-real-infinite-runner",
+    "symbol": "benji",
+    "name": "The Real Infinite Runner"
+  },
+  {
     "id": "the-real-landwolf",
     "symbol": "wolf",
     "name": "LandWolf"
@@ -83593,6 +83593,11 @@
     "id": "tickerstm",
     "symbol": "tickstm",
     "name": "tickerSTM"
+  },
+  {
+    "id": "ticket",
+    "symbol": "ticket",
+    "name": "Ticket"
   },
   {
     "id": "tickle",
@@ -87473,6 +87478,11 @@
     "id": "usds",
     "symbol": "usds",
     "name": "USDS"
+  },
+  {
+    "id": "usdsui",
+    "symbol": "usdsui",
+    "name": "USDsui"
   },
   {
     "id": "usdt0",
@@ -96558,6 +96568,11 @@
     "id": "zeta-markets",
     "symbol": "z",
     "name": "Zeta Markets"
+  },
+  {
+    "id": "zetock",
+    "symbol": "ztock",
+    "name": "Zetock"
   },
   {
     "id": "zetrix",
