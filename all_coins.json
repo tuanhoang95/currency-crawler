@@ -160,11 +160,6 @@
     "name": "赵长娥"
   },
   {
-    "id": "11-11",
-    "symbol": "11.11",
-    "name": "11.11"
-  },
-  {
     "id": "11am",
     "symbol": "11am",
     "name": "11am"
@@ -4308,6 +4303,11 @@
     "id": "america1776",
     "symbol": "america",
     "name": "America1776"
+  },
+  {
+    "id": "america-first",
+    "symbol": "af",
+    "name": "America First"
   },
   {
     "id": "america-is-back",
@@ -12250,6 +12250,11 @@
     "name": "blinkdotfun"
   },
   {
+    "id": "blink-galaxy",
+    "symbol": "bg",
+    "name": "Blink Galaxy"
+  },
+  {
     "id": "blinks-gg",
     "symbol": "bgg1",
     "name": "Blinks.gg"
@@ -15150,6 +15155,11 @@
     "name": "BTC Bull Token"
   },
   {
+    "id": "btc-dex",
+    "symbol": "btcdex",
+    "name": "BTC DEX"
+  },
+  {
     "id": "btc-proxy",
     "symbol": "btcpx",
     "name": "BTC Proxy"
@@ -16453,11 +16463,6 @@
     "id": "car-2",
     "symbol": "car",
     "name": "Car"
-  },
-  {
-    "id": "carbon",
-    "symbol": "carbon",
-    "name": "Carbon"
   },
   {
     "id": "carbon-browser",
@@ -22955,6 +22960,11 @@
     "name": "DashFun Coin"
   },
   {
+    "id": "dashpay",
+    "symbol": "dashpay",
+    "name": "DashPay"
+  },
+  {
     "id": "dastra-network",
     "symbol": "dan",
     "name": "Dastra Network"
@@ -22983,6 +22993,11 @@
     "id": "datagold",
     "symbol": "dgold",
     "name": "DataGold"
+  },
+  {
+    "id": "datagram-network",
+    "symbol": "dgram",
+    "name": "Datagram Network"
   },
   {
     "id": "datai",
@@ -27658,11 +27673,6 @@
     "id": "duck-ai",
     "symbol": "duckai",
     "name": "Duck AI"
-  },
-  {
-    "id": "duckchain-bridged-usdt-duckchain",
-    "symbol": "usdt",
-    "name": "DuckChain Bridged USDT (DuckChain)"
   },
   {
     "id": "duckchain-token",
@@ -42150,11 +42160,6 @@
     "name": "Inter Milan Fan Token"
   },
   {
-    "id": "intern",
-    "symbol": "intern",
-    "name": "Intern"
-  },
-  {
     "id": "international-business-machines-xstock",
     "symbol": "ibmx",
     "name": "International Business Machines xStock"
@@ -43695,11 +43700,6 @@
     "name": "Jones GLP"
   },
   {
-    "id": "jonny-five",
-    "symbol": "jfive",
-    "name": "Jonny Five"
-  },
-  {
     "id": "jooce",
     "symbol": "jooce",
     "name": "JOOCE"
@@ -44368,11 +44368,6 @@
     "id": "kalichain",
     "symbol": "kalis",
     "name": "Kalichain"
-  },
-  {
-    "id": "kalijo",
-    "symbol": "seed",
-    "name": "Kalijo"
   },
   {
     "id": "kalmar",
@@ -45073,11 +45068,6 @@
     "id": "kgen",
     "symbol": "kgen",
     "name": "KGeN"
-  },
-  {
-    "id": "khadija",
-    "symbol": "kha",
-    "name": "KHADIJA"
   },
   {
     "id": "khamoo",
@@ -48855,6 +48845,11 @@
     "name": "lmeow"
   },
   {
+    "id": "lmeow-3",
+    "symbol": "lmeow",
+    "name": "LMEOW"
+  },
+  {
     "id": "lmgrouptoken",
     "symbol": "lmgx",
     "name": "LMGroupToken"
@@ -51780,6 +51775,11 @@
     "name": "Maya World"
   },
   {
+    "id": "mayhem-mode",
+    "symbol": "mayhem",
+    "name": "Mayhem Mode"
+  },
+  {
     "id": "maza",
     "symbol": "mzc",
     "name": "Maza"
@@ -52648,6 +52648,11 @@
     "id": "meow-meow-meow-meow",
     "symbol": "meow",
     "name": "meow meow meow meow"
+  },
+  {
+    "id": "meow-on-zora",
+    "symbol": "meow",
+    "name": "Meow on Zora"
   },
   {
     "id": "meowspace",
@@ -58866,7 +58871,7 @@
   },
   {
     "id": "non-playable-inu",
-    "symbol": "$npi",
+    "symbol": "npi",
     "name": "Non-Playable Inu"
   },
   {
@@ -69280,11 +69285,6 @@
     "name": "Real Smurf Cat BSC"
   },
   {
-    "id": "real-sociedad-fan-token",
-    "symbol": "rso",
-    "name": "Real Sociedad Fan Token"
-  },
-  {
     "id": "real-time-data-by-masa",
     "symbol": "sn42",
     "name": "Real-Time Data by Masa"
@@ -75555,6 +75555,11 @@
     "name": "smolecoin"
   },
   {
+    "id": "smol-fans",
+    "symbol": "smol",
+    "name": "Smol Fans"
+  },
+  {
     "id": "smol-pep",
     "symbol": "pep",
     "name": "smol pep"
@@ -79410,11 +79415,6 @@
     "name": "StoryFire"
   },
   {
-    "id": "stox",
-    "symbol": "stx",
-    "name": "Stox"
-  },
-  {
     "id": "stp-network",
     "symbol": "awe",
     "name": "AWE Network"
@@ -79793,6 +79793,11 @@
     "id": "suby",
     "symbol": "suby",
     "name": "SUBY"
+  },
+  {
+    "id": "success-2",
+    "symbol": "马到成功",
+    "name": "马到成功 (Success)"
   },
   {
     "id": "succession",
@@ -89868,11 +89873,6 @@
     "id": "warlegends",
     "symbol": "war",
     "name": "War Legends"
-  },
-  {
-    "id": "warlords-of-solana",
-    "symbol": "wlos",
-    "name": "Warlords of Solana"
   },
   {
     "id": "warner-bros-discovery-xstock",
