@@ -2005,6 +2005,11 @@
     "name": "Aethir"
   },
   {
+    "id": "aethonswap",
+    "symbol": "aethon",
+    "name": "AethonSwap"
+  },
+  {
     "id": "aethra-ai",
     "symbol": "aethra",
     "name": "Aethra AI"
@@ -4013,6 +4018,11 @@
     "id": "alpha-synbo-meme",
     "symbol": "asm",
     "name": "Alpha Synbo Meme"
+  },
+  {
+    "id": "alpha-technologies-token",
+    "symbol": "att",
+    "name": "Alpha Technologies Token"
   },
   {
     "id": "alpha-trader-exchange-atx",
@@ -12935,6 +12945,11 @@
     "name": "BNB MEME SZN"
   },
   {
+    "id": "bnboflegends",
+    "symbol": "bol",
+    "name": "BNBOFLEGENDS"
+  },
+  {
     "id": "bnb-pets",
     "symbol": "pets",
     "name": "BNB Pets"
@@ -17891,6 +17906,11 @@
   },
   {
     "id": "charlie-3",
+    "symbol": "charlie",
+    "name": "Charlie"
+  },
+  {
+    "id": "charlie-4",
     "symbol": "charlie",
     "name": "Charlie"
   },
@@ -24610,11 +24630,6 @@
     "name": "DexNet"
   },
   {
-    "id": "dexquark",
-    "symbol": "qrk",
-    "name": "DexQuark"
-  },
-  {
     "id": "dexrp",
     "symbol": "dxp",
     "name": "DeXRP"
@@ -26385,6 +26400,11 @@
     "name": "doginblock"
   },
   {
+    "id": "doginhat",
+    "symbol": "dih",
+    "name": "doginhat"
+  },
+  {
     "id": "doginhood",
     "symbol": "dogin",
     "name": "Department of Government Inefficiency"
@@ -27378,11 +27398,6 @@
     "id": "dreamcoin-2",
     "symbol": "dream",
     "name": "dreamcoin"
-  },
-  {
-    "id": "dream-machine",
-    "symbol": "$dream",
-    "name": "Dream machine"
   },
   {
     "id": "dream-machine-token",
@@ -29791,6 +29806,11 @@
   },
   {
     "id": "eth6900",
+    "symbol": "eth6900",
+    "name": "ETH6900"
+  },
+  {
+    "id": "eth6900-2",
     "symbol": "eth6900",
     "name": "ETH6900"
   },
@@ -32320,11 +32340,6 @@
     "name": "Flokiwifhat"
   },
   {
-    "id": "floki-x-ceo",
-    "symbol": "flōki",
-    "name": "Flōki 𝕏 CEO"
-  },
-  {
     "id": "floof",
     "symbol": "floof",
     "name": "FLOOF"
@@ -34298,11 +34313,6 @@
     "id": "gambit-2",
     "symbol": "gambit",
     "name": "Gambit"
-  },
-  {
-    "id": "gambly-io",
-    "symbol": "gmbly",
-    "name": "Gambly.io"
   },
   {
     "id": "game",
@@ -40925,6 +40935,11 @@
     "name": "iBG Finance (BSC)"
   },
   {
+    "id": "ibithub",
+    "symbol": "ibh",
+    "name": "iBitHub"
+  },
+  {
     "id": "ibiza-final-boss",
     "symbol": "boss",
     "name": "Ibiza Final Boss"
@@ -43515,11 +43530,6 @@
     "name": "JJmoji (Sol)"
   },
   {
-    "id": "jlaunchpad",
-    "symbol": "jlp",
-    "name": "Jlaunchpad"
-  },
-  {
     "id": "jobchain",
     "symbol": "job",
     "name": "Jobchain"
@@ -44748,6 +44758,11 @@
     "id": "keeta",
     "symbol": "kta",
     "name": "Keeta"
+  },
+  {
+    "id": "kei-finance",
+    "symbol": "kei",
+    "name": "KEI Finance"
   },
   {
     "id": "keira",
@@ -49590,6 +49605,11 @@
     "name": "LUCIA"
   },
   {
+    "id": "lucid-house",
+    "symbol": "lucid",
+    "name": "Lucid House"
+  },
+  {
     "id": "lucidum",
     "symbol": "lucic",
     "name": "Lucidum"
@@ -49653,11 +49673,6 @@
     "id": "lucy-ai",
     "symbol": "lucy",
     "name": "Lucy AI"
-  },
-  {
-    "id": "lucy-ai-agent",
-    "symbol": "lcy",
-    "name": "Lucy Ai Agent"
   },
   {
     "id": "ludus",
@@ -50368,11 +50383,6 @@
     "id": "magic-internet-money-avalanche",
     "symbol": "mim",
     "name": "Magic Internet Money (Avalanche)"
-  },
-  {
-    "id": "magic-internet-money-base",
-    "symbol": "mim",
-    "name": "Magic Internet Money (Base)"
   },
   {
     "id": "magic-internet-money-blast",
@@ -54995,11 +55005,6 @@
     "name": "Mongy"
   },
   {
-    "id": "monii",
-    "symbol": "m",
-    "name": "Monii"
-  },
-  {
     "id": "monitoring-the-situation",
     "symbol": "monitor",
     "name": "Monitoring the Situation"
@@ -56175,6 +56180,21 @@
     "name": "Mu Coin"
   },
   {
+    "id": "mu-digital-aznd",
+    "symbol": "aznd",
+    "name": "Mu Digital AZND"
+  },
+  {
+    "id": "mu-digital-locked-aznd",
+    "symbol": "loaznd",
+    "name": "Mu Digital Locked AZND"
+  },
+  {
+    "id": "mu-digital-mubond",
+    "symbol": "mubond",
+    "name": "Mu Digital muBOND"
+  },
+  {
     "id": "muesliswap-milk",
     "symbol": "milk",
     "name": "MuesliSwap MILK"
@@ -57020,11 +57040,6 @@
     "name": "Native"
   },
   {
-    "id": "native-decentralized-euro-protocol-share",
-    "symbol": "ndeps",
-    "name": "Native Decentralized Euro Protocol Share"
-  },
-  {
     "id": "natix-network",
     "symbol": "natix",
     "name": "NATIX Network"
@@ -57805,11 +57820,6 @@
     "name": "Neva"
   },
   {
-    "id": "never-go-full",
-    "symbol": "retard",
-    "name": "Never Go Full"
-  },
-  {
     "id": "neverpay",
     "symbol": "npay",
     "name": "NeverPay"
@@ -58083,11 +58093,6 @@
     "id": "nexusbtc",
     "symbol": "nbtc",
     "name": "NexusBTC"
-  },
-  {
-    "id": "nexuschain",
-    "symbol": "nexus",
-    "name": "NexusChain"
   },
   {
     "id": "nexus-credit-system",
@@ -58558,11 +58563,6 @@
     "id": "no1-tiktok-frog-omochi",
     "symbol": "omochi",
     "name": "No1 tiktok frog (Omochi)"
-  },
-  {
-    "id": "noahswap",
-    "symbol": "noah",
-    "name": "NoahSwap"
   },
   {
     "id": "noah-terminal",
@@ -62782,6 +62782,11 @@
   {
     "id": "payai-network",
     "symbol": "payai",
+    "name": "PayAI Network [OLD]"
+  },
+  {
+    "id": "payai-network-2",
+    "symbol": "payai",
     "name": "PayAI Network"
   },
   {
@@ -63228,11 +63233,6 @@
     "id": "penose",
     "symbol": "penose",
     "name": "Penose"
-  },
-  {
-    "id": "penpad-token",
-    "symbol": "dapp",
-    "name": "Pencils Protocol"
   },
   {
     "id": "penpie",
@@ -63718,11 +63718,6 @@
     "id": "pepi-2",
     "symbol": "pepi",
     "name": "PEPi"
-  },
-  {
-    "id": "pepig",
-    "symbol": "pepig",
-    "name": "PEPIG"
   },
   {
     "id": "pepinu",
@@ -66343,11 +66338,6 @@
     "id": "powerloom",
     "symbol": "power",
     "name": "Powerloom"
-  },
-  {
-    "id": "power-play",
-    "symbol": "power",
-    "name": "Power Play"
   },
   {
     "id": "powersnookercoin",
@@ -70478,6 +70468,11 @@
     "id": "rif-token",
     "symbol": "rif",
     "name": "Rootstock Infrastructure Framework"
+  },
+  {
+    "id": "rifts-finance",
+    "symbol": "rifts",
+    "name": "Rifts Finance"
   },
   {
     "id": "rif-us-dollar",
@@ -80150,11 +80145,6 @@
     "name": "Sunrise"
   },
   {
-    "id": "sunrise-layer",
-    "symbol": "rise",
-    "name": "Sunrise"
-  },
-  {
     "id": "sun-token",
     "symbol": "sun",
     "name": "Sun Token"
@@ -81552,7 +81542,7 @@
   {
     "id": "taraxa-bridged-usdt-taraxa",
     "symbol": "usdt",
-    "name": "Taraxa Bridged USDT (Taraxa)"
+    "name": "Ficus Root Bridged USDT (Taraxa)"
   },
   {
     "id": "tard",
@@ -82918,6 +82908,11 @@
     "id": "the-odor",
     "symbol": "odor",
     "name": "The Odor"
+  },
+  {
+    "id": "the-official-41-coin",
+    "symbol": "41",
+    "name": "The Official 41 Coin"
   },
   {
     "id": "the-official-67-coin",
@@ -84592,7 +84587,7 @@
   {
     "id": "toto-3",
     "symbol": "toto",
-    "name": "Tiamonds"
+    "name": "Toto Finance"
   },
   {
     "id": "tottenham-hotspur-fc-fan-token",
@@ -94478,11 +94473,6 @@
     "id": "xplus-ai",
     "symbol": "xpai",
     "name": "XPlus AI"
-  },
-  {
-    "id": "xpmarket",
-    "symbol": "xpm",
-    "name": "XPmarket"
   },
   {
     "id": "xp-network",
