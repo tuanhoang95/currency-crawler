@@ -3860,11 +3860,6 @@
     "name": "All Your Base"
   },
   {
-    "id": "alman",
-    "symbol": "alman",
-    "name": "Alman"
-  },
-  {
     "id": "almanak",
     "symbol": "almanak",
     "name": "Almanak"
@@ -7493,11 +7488,6 @@
     "id": "axion",
     "symbol": "axn",
     "name": "Axion"
-  },
-  {
-    "id": "axion-2",
-    "symbol": "axi",
-    "name": "Axira"
   },
   {
     "id": "axis-alive",
@@ -12755,6 +12745,11 @@
     "name": "Blue Protocol"
   },
   {
+    "id": "blue-scorpion-venom",
+    "symbol": "venom",
+    "name": "Blue Scorpion Venom"
+  },
+  {
     "id": "blue-signing-token",
     "symbol": "bst",
     "name": "Blue Signing Token"
@@ -13843,11 +13838,6 @@
     "id": "boorio-2",
     "symbol": "orio",
     "name": "Boorio"
-  },
-  {
-    "id": "boosey",
-    "symbol": "boosey",
-    "name": "BOOSEY"
   },
   {
     "id": "booshi",
@@ -19930,6 +19920,11 @@
     "name": "COMMUNITY"
   },
   {
+    "id": "community-alliance-token",
+    "symbol": "comat",
+    "name": "Community Alliance Token"
+  },
+  {
     "id": "community-business-token",
     "symbol": "cbt",
     "name": "Community Business Token"
@@ -23340,11 +23335,6 @@
     "name": "Decentralization obligatory, practicality essential"
   },
   {
-    "id": "decentralized-ai-organization",
-    "symbol": "daio",
-    "name": "Decentralized AI Organization"
-  },
-  {
     "id": "decentralized-community-investment-protocol",
     "symbol": "dcip",
     "name": "Decentralized Community Investment Protocol"
@@ -24053,11 +24043,6 @@
     "id": "degwefhat",
     "symbol": "wef",
     "name": "degwefhat"
-  },
-  {
-    "id": "dehero-community-token",
-    "symbol": "heroes",
-    "name": "Dehero Community"
   },
   {
     "id": "dehive",
@@ -29890,11 +29875,6 @@
     "name": "Ethereum Classic"
   },
   {
-    "id": "ethereum-day",
-    "symbol": "ethday",
-    "name": "Ethereum Day"
-  },
-  {
     "id": "ethereum-doge",
     "symbol": "edoge",
     "name": "Ethereum Doge"
@@ -31923,6 +31903,11 @@
     "id": "fish",
     "symbol": "fish",
     "name": "🎣"
+  },
+  {
+    "id": "fishing-frenzy",
+    "symbol": "fish",
+    "name": "Fishing Frenzy"
   },
   {
     "id": "fishkoin",
@@ -42455,11 +42440,6 @@
     "name": "IoTAI"
   },
   {
-    "id": "iota-velocimeter",
-    "symbol": "ivm",
-    "name": "Iota Velocimeter"
-  },
-  {
     "id": "iotex",
     "symbol": "iotx",
     "name": "IoTeX"
@@ -43378,6 +43358,11 @@
     "id": "jes",
     "symbol": "jes",
     "name": "jes"
+  },
+  {
+    "id": "jesse",
+    "symbol": "jesse",
+    "name": "jesse"
   },
   {
     "id": "jester",
@@ -44343,11 +44328,6 @@
     "id": "kaka",
     "symbol": "kaka",
     "name": "KAKA"
-  },
-  {
-    "id": "kaka-the-cat",
-    "symbol": "kaka",
-    "name": "KAKA the cat"
   },
   {
     "id": "kakaxa",
@@ -45773,11 +45753,6 @@
     "id": "koala-governance-token",
     "symbol": "koala",
     "name": "Koala Governance Token"
-  },
-  {
-    "id": "koba",
-    "symbol": "koba",
-    "name": "KOBA"
   },
   {
     "id": "koban",
@@ -51367,7 +51342,7 @@
   {
     "id": "mascot-of-the-trenches",
     "symbol": "rug",
-    "name": "mascot of the trenches"
+    "name": "Mascot of the Trenches"
   },
   {
     "id": "mascot-of-the-unholy-year",
@@ -51953,6 +51928,11 @@
     "id": "mech-master",
     "symbol": "mech",
     "name": "Mech Master"
+  },
+  {
+    "id": "mecofun",
+    "symbol": "meco",
+    "name": "MecoFun"
   },
   {
     "id": "meconcash",
@@ -57210,11 +57190,6 @@
     "name": "Not in Employment, Education, or Training"
   },
   {
-    "id": "nefty",
-    "symbol": "nefty",
-    "name": "NeftyBlocks"
-  },
-  {
     "id": "neged",
     "symbol": "neged",
     "name": "Neged"
@@ -57520,6 +57495,11 @@
     "name": "Nest Basis Vault"
   },
   {
+    "id": "nest-blackopal-liquidstone-ii-vault",
+    "symbol": "nopal",
+    "name": "Nest BlackOpal LiquidStone II Vault"
+  },
+  {
     "id": "nest-btc-vault",
     "symbol": "nbtc",
     "name": "Nest BTC Vault"
@@ -57538,6 +57518,11 @@
     "id": "nest-etf-vault",
     "symbol": "netf",
     "name": "Nest ETF Vault"
+  },
+  {
+    "id": "nest-goldfinch-prime-vault",
+    "symbol": "ngprime",
+    "name": "Nest Goldfinch Prime Vault"
   },
   {
     "id": "nest-institutional-core",
@@ -58938,6 +58923,11 @@
     "id": "normus",
     "symbol": "normus",
     "name": "Normus"
+  },
+  {
+    "id": "noruggies",
+    "symbol": "noruggies",
+    "name": "NORUGGIES"
   },
   {
     "id": "nosana",
@@ -76550,11 +76540,6 @@
     "name": "Solrise Finance"
   },
   {
-    "id": "sol-roulette",
-    "symbol": "roulette",
-    "name": "SOL Roulette"
-  },
-  {
     "id": "sol-runner",
     "symbol": "solrunner",
     "name": "SOL Runner"
@@ -77448,11 +77433,6 @@
     "id": "spectrecoin",
     "symbol": "alias",
     "name": "Alias"
-  },
-  {
-    "id": "spectre-network",
-    "symbol": "spr",
-    "name": "Spectre"
   },
   {
     "id": "spectrum-2",
@@ -78718,6 +78698,11 @@
     "id": "starlink",
     "symbol": "starl",
     "name": "StarLink"
+  },
+  {
+    "id": "starly-the-star-guide",
+    "symbol": "$star",
+    "name": "Starly the $STAR™ Guide"
   },
   {
     "id": "starnet-bridged-wsteth-starknet",
@@ -80115,6 +80100,11 @@
     "name": "Sunrise"
   },
   {
+    "id": "sunrise-layer",
+    "symbol": "rise",
+    "name": "Sunrise"
+  },
+  {
     "id": "sun-token",
     "symbol": "sun",
     "name": "Sun Token"
@@ -81327,7 +81317,7 @@
   {
     "id": "talus",
     "symbol": "us",
-    "name": "Talus"
+    "name": "Talus Network"
   },
   {
     "id": "tamatest",
@@ -81453,11 +81443,6 @@
     "id": "taoshi",
     "symbol": "taoshi",
     "name": "TAOSHI"
-  },
-  {
-    "id": "taotools",
-    "symbol": "taotools",
-    "name": "TAOTools"
   },
   {
     "id": "taounity",
@@ -81748,6 +81733,11 @@
     "id": "tear-2",
     "symbol": "tear",
     "name": "TEAR"
+  },
+  {
+    "id": "tea-rex",
+    "symbol": "trex",
+    "name": "Tea-REX"
   },
   {
     "id": "tech",
@@ -92935,6 +92925,11 @@
     "name": "Wrapped MistCoin"
   },
   {
+    "id": "wrapped-monad",
+    "symbol": "wmon",
+    "name": "Wrapped MON"
+  },
+  {
     "id": "wrapped-moonbeam",
     "symbol": "wglmr",
     "name": "Wrapped Moonbeam"
@@ -96645,6 +96640,11 @@
     "name": "zkApes Token"
   },
   {
+    "id": "zkaster",
+    "symbol": "zkaster",
+    "name": "zkAster"
+  },
+  {
     "id": "zkcandy",
     "symbol": "candy",
     "name": "ZKcandy"
@@ -96735,6 +96735,11 @@
     "name": "zkPass"
   },
   {
+    "id": "zkrune",
+    "symbol": "zkrune",
+    "name": "zkRune"
+  },
+  {
     "id": "zk-shine",
     "symbol": "shine",
     "name": "ZK Shine"
@@ -96773,11 +96778,6 @@
     "id": "zksync-erc20-bridged-dai-zksync",
     "symbol": "dai",
     "name": "ZKsync ERC20 Bridged DAI (zkSync)"
-  },
-  {
-    "id": "zksync-staked-eth",
-    "symbol": "zketh",
-    "name": "ZKsync Staked ETH"
   },
   {
     "id": "zkterm",
