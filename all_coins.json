@@ -3390,11 +3390,6 @@
     "name": "Alaska Gold Rush"
   },
   {
-    "id": "alaunchai",
-    "symbol": "alai",
-    "name": "AlaunchAI"
-  },
-  {
     "id": "alaya-ai",
     "symbol": "agt",
     "name": "Alaya AI"
@@ -3943,6 +3938,11 @@
     "id": "alphabet-xstock",
     "symbol": "googlx",
     "name": "Alphabet xStock"
+  },
+  {
+    "id": "alphablockai",
+    "symbol": "alpha",
+    "name": "AlphaBlockAI"
   },
   {
     "id": "alpha-city",
@@ -19140,11 +19140,6 @@
     "name": "CloudCoin Finance"
   },
   {
-    "id": "cloudgpu",
-    "symbol": "cgpu",
-    "name": "CloudGPU"
-  },
-  {
     "id": "cloudland",
     "symbol": "clo",
     "name": "Cloudland"
@@ -24150,6 +24145,11 @@
     "name": "Delysium"
   },
   {
+    "id": "demech",
+    "symbol": "dmch",
+    "name": "DeMech"
+  },
+  {
     "id": "demi",
     "symbol": "demi",
     "name": "DeMi"
@@ -26400,6 +26400,11 @@
     "name": "doginme"
   },
   {
+    "id": "dog-in-pain",
+    "symbol": "dip",
+    "name": "dog in pain"
+  },
+  {
     "id": "doginphire",
     "symbol": "fire",
     "name": "doginphire"
@@ -27646,11 +27651,6 @@
   },
   {
     "id": "duck",
-    "symbol": "duck",
-    "name": "DUCK"
-  },
-  {
-    "id": "duck-2",
     "symbol": "duck",
     "name": "DUCK"
   },
@@ -29260,11 +29260,6 @@
     "name": "enfineo"
   },
   {
-    "id": "eng-crypto",
-    "symbol": "eng",
-    "name": "Eng Crypto"
-  },
-  {
     "id": "engines-of-fury",
     "symbol": "fury",
     "name": "Engines of Fury"
@@ -30853,6 +30848,11 @@
     "id": "fanc",
     "symbol": "fanc",
     "name": "fanC"
+  },
+  {
+    "id": "fanpla",
+    "symbol": "fpl",
+    "name": "Fanpla"
   },
   {
     "id": "fan-token",
@@ -48740,6 +48740,11 @@
     "name": "Little Ugly Duck"
   },
   {
+    "id": "litusd",
+    "symbol": "litusd",
+    "name": "litUSD"
+  },
+  {
     "id": "live",
     "symbol": "live",
     "name": "SecondLive"
@@ -51305,11 +51310,6 @@
     "name": "Marvell xStock"
   },
   {
-    "id": "marvelous-nfts",
-    "symbol": "mnft",
-    "name": "Marvelous NFTs"
-  },
-  {
     "id": "marvin-2",
     "symbol": "marvin",
     "name": "Marvin"
@@ -52045,11 +52045,6 @@
     "name": "Meeds DAO"
   },
   {
-    "id": "meefie",
-    "symbol": "mft",
-    "name": "MEEFIE"
-  },
-  {
     "id": "meerkat-2",
     "symbol": "merk",
     "name": "Meerkat"
@@ -52208,11 +52203,6 @@
     "id": "meme-anarchic-numismatic-asset",
     "symbol": "mana",
     "name": "Meme Anarchic Numismatic Asset"
-  },
-  {
-    "id": "memebets",
-    "symbol": "mbet",
-    "name": "Memebets"
   },
   {
     "id": "meme-brc-20",
@@ -58075,11 +58065,6 @@
     "name": "Nexus Erebus"
   },
   {
-    "id": "nexus-pro-token",
-    "symbol": "npt",
-    "name": "Nexus Pro Token"
-  },
-  {
     "id": "nexus-pro-useu",
     "symbol": "useu",
     "name": "Nexus Pro USEU"
@@ -62120,6 +62105,11 @@
     "name": "PancakeSwap"
   },
   {
+    "id": "panchain",
+    "symbol": "pc",
+    "name": "Panchain"
+  },
+  {
     "id": "panda-academy",
     "symbol": "panda",
     "name": "Panda Academy"
@@ -62623,11 +62613,6 @@
     "id": "patrol-tao-com",
     "symbol": "sn81",
     "name": "grail"
-  },
-  {
-    "id": "pats",
-    "symbol": "pats",
-    "name": "Pats"
   },
   {
     "id": "patton",
@@ -69425,11 +69410,6 @@
     "name": "Red Genesis"
   },
   {
-    "id": "redhive",
-    "symbol": "hiv3",
-    "name": "RedHive"
-  },
-  {
     "id": "red-pepe",
     "symbol": "redpepe",
     "name": "Red Pepe"
@@ -69848,6 +69828,11 @@
     "id": "reposwap",
     "symbol": "repx",
     "name": "RepoSwap"
+  },
+  {
+    "id": "reppo",
+    "symbol": "reppo",
+    "name": "REPPO"
   },
   {
     "id": "re-protocol-reusd",
@@ -73630,11 +73615,6 @@
     "name": "Shardeum"
   },
   {
-    "id": "shard-of-notcoin-nft-bond",
-    "symbol": "wnot",
-    "name": "Shard of Notcoin NFT bond"
-  },
-  {
     "id": "shards",
     "symbol": "shards",
     "name": "Shards"
@@ -76493,11 +76473,6 @@
     "id": "solpad-finance",
     "symbol": "solpad",
     "name": "Solpad Finance"
-  },
-  {
-    "id": "solpages",
-    "symbol": "solp",
-    "name": "SolPages"
   },
   {
     "id": "solpaka",
@@ -81615,6 +81590,11 @@
     "name": "TaxSolutions AI"
   },
   {
+    "id": "taxsplit",
+    "symbol": "tax",
+    "name": "TaxSplit"
+  },
+  {
     "id": "taxy-network",
     "symbol": "taxy",
     "name": "TAXY NETWORK"
@@ -82973,6 +82953,11 @@
     "id": "the-protocol",
     "symbol": "the",
     "name": "The Protocol"
+  },
+  {
+    "id": "therapi",
+    "symbol": "thrai",
+    "name": "THERAPi"
   },
   {
     "id": "the-real-goal",
@@ -91163,11 +91148,6 @@
     "id": "woke-chain",
     "symbol": "gowoke",
     "name": "Woke Chain"
-  },
-  {
-    "id": "woke-frens",
-    "symbol": "woke",
-    "name": "Woke Frens"
   },
   {
     "id": "wokie-plumpkin-by-virtuals",
