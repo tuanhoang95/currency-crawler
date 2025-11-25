@@ -560,6 +560,11 @@
     "name": "69420"
   },
   {
+    "id": "6chicken9",
+    "symbol": "pop",
+    "name": "6Chicken9"
+  },
+  {
     "id": "-7",
     "symbol": "∅",
     "name": "Voidify"
@@ -14110,11 +14115,6 @@
     "name": "BoxBet"
   },
   {
-    "id": "boxcat",
-    "symbol": "boxcat",
-    "name": "BOXCAT"
-  },
-  {
     "id": "boysclub",
     "symbol": "boysclub",
     "name": "BoysClub"
@@ -17145,6 +17145,11 @@
     "name": "cDAO"
   },
   {
+    "id": "cdgproject",
+    "symbol": "cdg",
+    "name": "CDGProject"
+  },
+  {
     "id": "cdk",
     "symbol": "cdk",
     "name": "CDK"
@@ -18668,11 +18673,6 @@
     "id": "chumbai-valley",
     "symbol": "chmb",
     "name": "Chumbi Valley"
-  },
-  {
-    "id": "chump-change",
-    "symbol": "chump",
-    "name": "Chump Change"
   },
   {
     "id": "chunking",
@@ -33730,11 +33730,6 @@
     "name": "Fufu Token"
   },
   {
-    "id": "fug",
-    "symbol": "fug",
-    "name": "FUG"
-  },
-  {
     "id": "fug-2",
     "symbol": "fug",
     "name": "fug"
@@ -35938,6 +35933,16 @@
     "id": "gm-machine",
     "symbol": "gm",
     "name": "GM Machine"
+  },
+  {
+    "id": "gmonad",
+    "symbol": "gmonad",
+    "name": "GMONAD"
+  },
+  {
+    "id": "gmonad-2",
+    "symbol": "gmonad",
+    "name": "Gmonad"
   },
   {
     "id": "gmonchain",
@@ -38970,6 +38975,11 @@
     "name": "HELLCAT"
   },
   {
+    "id": "hello-i-m-craig",
+    "symbol": "craig",
+    "name": "Hello I'm Craig"
+  },
+  {
     "id": "hello-labs",
     "symbol": "hello",
     "name": "HELLO"
@@ -41135,6 +41145,11 @@
     "name": "i dont know"
   },
   {
+    "id": "idos",
+    "symbol": "idos",
+    "name": "IdOS"
+  },
+  {
     "id": "idriss",
     "symbol": "idriss",
     "name": "IDRISS"
@@ -42270,11 +42285,6 @@
     "name": "Invesco QQQ ETF (Ondo Tokenized ETF)"
   },
   {
-    "id": "investin",
-    "symbol": "ivn",
-    "name": "Investin"
-  },
-  {
     "id": "invest-to-earn",
     "symbol": "invest",
     "name": "INVEST TO EARN"
@@ -42553,6 +42563,11 @@
     "id": "iron-titanium-token",
     "symbol": "titan",
     "name": "IRON Titanium"
+  },
+  {
+    "id": "irys",
+    "symbol": "irys",
+    "name": "Irys"
   },
   {
     "id": "isaac-x",
@@ -46805,11 +46820,6 @@
     "name": "Landwolf"
   },
   {
-    "id": "landwolf-3",
-    "symbol": "landwolf",
-    "name": "LANDWOLF"
-  },
-  {
     "id": "landwolf-base",
     "symbol": "wolf",
     "name": "Landwolf"
@@ -48173,6 +48183,11 @@
     "id": "line-protocol",
     "symbol": "line",
     "name": "Line Protocol"
+  },
+  {
+    "id": "lineup",
+    "symbol": "lineup",
+    "name": "Lineup"
   },
   {
     "id": "lin-gang-melon",
@@ -49908,11 +49923,6 @@
     "id": "lyfebloc",
     "symbol": "lbt",
     "name": "Lyfebloc"
-  },
-  {
-    "id": "lylo-ai",
-    "symbol": "lylo",
-    "name": "Lylo.ai"
   },
   {
     "id": "lympid",
@@ -54635,6 +54645,11 @@
     "name": "Mokens League"
   },
   {
+    "id": "molandak-2",
+    "symbol": "molandak",
+    "name": "MOLANDAK"
+  },
+  {
     "id": "molecular-entity",
     "symbol": "molecular",
     "name": "Molecular Entity"
@@ -54748,6 +54763,11 @@
     "id": "monad",
     "symbol": "mon",
     "name": "Monad"
+  },
+  {
+    "id": "monadprinter",
+    "symbol": "monadp",
+    "name": "MonadPrinter"
   },
   {
     "id": "monai",
@@ -65315,11 +65335,6 @@
     "name": "Polaris Share"
   },
   {
-    "id": "polemos",
-    "symbol": "plms",
-    "name": "Polemos"
-  },
-  {
     "id": "police",
     "symbol": "police",
     "name": "POLICE"
@@ -70725,6 +70740,11 @@
     "name": "Robonomics Network"
   },
   {
+    "id": "roboos",
+    "symbol": "ros",
+    "name": "RoboOS"
+  },
+  {
     "id": "robora",
     "symbol": "rbr",
     "name": "Robora"
@@ -71955,6 +71975,11 @@
     "name": "Sally A1C"
   },
   {
+    "id": "salmonad",
+    "symbol": "sal",
+    "name": "Salmonad"
+  },
+  {
     "id": "salsa-liquid-multiversx",
     "symbol": "legld",
     "name": "SALSA Liquid MultiversX"
@@ -72983,6 +73008,11 @@
     "id": "secured-moonrat-token",
     "symbol": "smrat",
     "name": "Secured MoonRat"
+  },
+  {
+    "id": "secure-legion",
+    "symbol": "secure",
+    "name": "Secure Legion"
   },
   {
     "id": "security-token-offering",
@@ -76298,6 +76328,11 @@
     "id": "solmix",
     "symbol": "mixer",
     "name": "SolMix"
+  },
+  {
+    "id": "solmon",
+    "symbol": "solmon",
+    "name": "Solmon"
   },
   {
     "id": "solmoon-bsc",
@@ -81625,11 +81660,6 @@
     "name": "NumberGoUpTech"
   },
   {
-    "id": "tech-deck-turtle",
-    "symbol": "tdt",
-    "name": "Tech Deck Turtle"
-  },
-  {
     "id": "tectonic",
     "symbol": "tonic",
     "name": "Tectonic"
@@ -83701,11 +83731,6 @@
   },
   {
     "id": "toad",
-    "symbol": "toad",
-    "name": "TOAD"
-  },
-  {
-    "id": "toad-2",
     "symbol": "toad",
     "name": "TOAD"
   },
@@ -85805,19 +85830,9 @@
     "name": "TWTR.fun"
   },
   {
-    "id": "twurtle-the-turtle",
-    "symbol": "twurtle",
-    "name": "Twurtle the turtle"
-  },
-  {
     "id": "tx24",
     "symbol": "txt",
     "name": "Tx24"
-  },
-  {
-    "id": "txn-club",
-    "symbol": "txn",
-    "name": "TXN Club"
   },
   {
     "id": "txsync-bridged-wsteth-zksync",
@@ -87580,6 +87595,11 @@
     "name": "VALA CAPITAL MARKETS"
   },
   {
+    "id": "valannium",
+    "symbol": "valan",
+    "name": "Valannium"
+  },
+  {
     "id": "valencia-cf-fan-token",
     "symbol": "vcf",
     "name": "Valencia CF Fan Token"
@@ -88408,6 +88428,11 @@
     "id": "vetter-token",
     "symbol": "vetter",
     "name": "Vetter"
+  },
+  {
+    "id": "vettr-ai",
+    "symbol": "vettr",
+    "name": "VETTR AI"
   },
   {
     "id": "veve",
