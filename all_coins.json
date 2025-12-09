@@ -7345,6 +7345,11 @@
     "name": "Awkward Monkey"
   },
   {
+    "id": "awkward-white-people-smile",
+    "symbol": "white",
+    "name": "Awkward White People Smile"
+  },
+  {
     "id": "awoke-2",
     "symbol": "awoke",
     "name": "Awoke"
@@ -12163,6 +12168,11 @@
     "id": "blind-boxes",
     "symbol": "bles",
     "name": "Blind Boxes"
+  },
+  {
+    "id": "blink-402",
+    "symbol": "b402",
+    "name": "Blink-402"
   },
   {
     "id": "blinkdotfun",
@@ -20845,11 +20855,6 @@
     "name": "CreatorGen"
   },
   {
-    "id": "creator-platform",
-    "symbol": "ctr",
-    "name": "Creator Platform"
-  },
-  {
     "id": "credbull",
     "symbol": "cbl",
     "name": "Credbull"
@@ -21118,11 +21123,6 @@
     "id": "cross-2",
     "symbol": "cross",
     "name": "Cross"
-  },
-  {
-    "id": "cross-chain-bridge",
-    "symbol": "bridge",
-    "name": "Cross-Chain Bridge"
   },
   {
     "id": "cross-chain-degen-dao",
@@ -21880,11 +21880,6 @@
     "name": "Culture"
   },
   {
-    "id": "culture-of-solana-token",
-    "symbol": "$cost",
-    "name": "Culture of Solana Token"
-  },
-  {
     "id": "cuminu",
     "symbol": "cuminu",
     "name": "Cuminu"
@@ -22073,11 +22068,6 @@
     "id": "cyberdex",
     "symbol": "cydx",
     "name": "CyberDEX"
-  },
-  {
-    "id": "cyber-dog",
-    "symbol": "cdog",
-    "name": "Cyber Dog"
   },
   {
     "id": "cyberdoge-3",
@@ -28880,11 +28870,6 @@
     "name": "Employees"
   },
   {
-    "id": "emp-money",
-    "symbol": "emp",
-    "name": "Emp Money"
-  },
-  {
     "id": "emp-shares-v2",
     "symbol": "eshare v2",
     "name": "EMP Shares"
@@ -32035,11 +32020,6 @@
     "name": "Float Protocol"
   },
   {
-    "id": "flochi",
-    "symbol": "flochi",
-    "name": "Flochi"
-  },
-  {
     "id": "flock-2",
     "symbol": "flock",
     "name": "FLOCK"
@@ -33393,11 +33373,6 @@
     "id": "frontier-token",
     "symbol": "front",
     "name": "Frontier"
-  },
-  {
-    "id": "froodoo",
-    "symbol": "fodo",
-    "name": "FrooDoo"
   },
   {
     "id": "froppy",
@@ -37350,6 +37325,11 @@
     "name": "Grumpy Cat Coin"
   },
   {
+    "id": "grx-chain",
+    "symbol": "grx",
+    "name": "GRX Chain"
+  },
+  {
     "id": "grynvault-the-bitcoin-dragon",
     "symbol": "gryn",
     "name": "GRYNVAULT•THE•BITCOIN•DRAGON"
@@ -39348,11 +39328,6 @@
     "id": "hodooi-com",
     "symbol": "hod",
     "name": "HoDooi.com"
-  },
-  {
-    "id": "hog",
-    "symbol": "hog",
-    "name": "Hog"
   },
   {
     "id": "hog-2",
@@ -41510,11 +41485,6 @@
     "name": "INFINITY"
   },
   {
-    "id": "infinity-ai",
-    "symbol": "infy",
-    "name": "Infinity AI"
-  },
-  {
     "id": "infinity-angel",
     "symbol": "ing",
     "name": "Infinity Games"
@@ -41868,6 +41838,16 @@
     "id": "interlay",
     "symbol": "intr",
     "name": "Interlay"
+  },
+  {
+    "id": "interlink-genesis-token",
+    "symbol": "itlg",
+    "name": "InterLink Genesis Token"
+  },
+  {
+    "id": "interlink-token",
+    "symbol": "itl",
+    "name": "InterLink Token"
   },
   {
     "id": "inter-milan-fan-token",
@@ -48340,11 +48320,6 @@
     "name": "littlemanyu"
   },
   {
-    "id": "little-pepe-2",
-    "symbol": "lilpepe",
-    "name": "Little Pepe"
-  },
-  {
     "id": "little-pepe-5",
     "symbol": "lilpepe",
     "name": "Little Pepe"
@@ -48658,11 +48633,6 @@
     "id": "lola-3",
     "symbol": "lola",
     "name": "Lola"
-  },
-  {
-    "id": "lola-cat",
-    "symbol": "$lola",
-    "name": "Lola Cat"
   },
   {
     "id": "lolcat-2",
@@ -53256,6 +53226,11 @@
   },
   {
     "id": "midnight-2",
+    "symbol": "night",
+    "name": "Midnight"
+  },
+  {
+    "id": "midnight-3",
     "symbol": "night",
     "name": "Midnight"
   },
@@ -62085,11 +62060,6 @@
     "name": "Pavia"
   },
   {
-    "id": "pavise",
-    "symbol": "pavise",
-    "name": "Pavise"
-  },
-  {
     "id": "paw-2",
     "symbol": "paw",
     "name": "PAW"
@@ -67460,6 +67430,11 @@
     "name": "Quantoz USDQ"
   },
   {
+    "id": "quant-trader-agent",
+    "symbol": "quantagent",
+    "name": "Quant Trader Agent"
+  },
+  {
     "id": "quantum-2",
     "symbol": "quantum",
     "name": "Quantum"
@@ -67803,11 +67778,6 @@
     "id": "racoon",
     "symbol": "rac",
     "name": "Racoon"
-  },
-  {
-    "id": "racoondog",
-    "symbol": "raccoondog",
-    "name": "Raccoon Dog"
   },
   {
     "id": "radar",
@@ -75085,11 +75055,6 @@
     "name": "Social Lens Ai"
   },
   {
-    "id": "socialswap-token",
-    "symbol": "sst",
-    "name": "Social Swap"
-  },
-  {
     "id": "social-trade",
     "symbol": "st",
     "name": "Social Trade"
@@ -81493,11 +81458,6 @@
     "id": "tether-usd-wormhole-from-ethereum",
     "symbol": "usdt",
     "name": "Wormhole Bridged USDT (Sui)"
-  },
-  {
-    "id": "tethys-finance",
-    "symbol": "tethys",
-    "name": "Tethys Finance"
   },
   {
     "id": "tetra",
@@ -94728,11 +94688,6 @@
     "id": "yupfun-token",
     "symbol": "yupfun",
     "name": "YUPFUN Token"
-  },
-  {
-    "id": "yuro-2024",
-    "symbol": "yuro",
-    "name": "Yuro 2024"
   },
   {
     "id": "yuru-coin",
