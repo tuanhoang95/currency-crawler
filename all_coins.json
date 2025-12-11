@@ -975,11 +975,6 @@
     "name": "Aavegotchi FUD"
   },
   {
-    "id": "aavegotchi-kek",
-    "symbol": "kek",
-    "name": "Aavegotchi KEK"
-  },
-  {
     "id": "aave-gusd",
     "symbol": "agusd",
     "name": "Aave GUSD"
@@ -1873,11 +1868,6 @@
     "id": "adzilla",
     "symbol": "adzilla",
     "name": "AdZilla"
-  },
-  {
-    "id": "aegents",
-    "symbol": "aegnt",
-    "name": "Aegents"
   },
   {
     "id": "aegis-ai",
@@ -13215,11 +13205,6 @@
     "name": "Bolic AI"
   },
   {
-    "id": "bolivarcoin",
-    "symbol": "boli",
-    "name": "Bolivarcoin"
-  },
-  {
     "id": "bolt",
     "symbol": "bolt",
     "name": "Bolt"
@@ -17795,6 +17780,11 @@
     "name": "Charm AI"
   },
   {
+    "id": "charred-treasures",
+    "symbol": "charred",
+    "name": "Charred Treasures"
+  },
+  {
     "id": "chasm-ai",
     "symbol": "cai",
     "name": "Chasm"
@@ -20353,6 +20343,11 @@
     "id": "coremind",
     "symbol": "core",
     "name": "Coremind"
+  },
+  {
+    "id": "core-msci-emerging-markets-xstock",
+    "symbol": "iemgx",
+    "name": "Core MSCI Emerging Markets xStock"
   },
   {
     "id": "corepound",
@@ -25898,11 +25893,6 @@
     "id": "dogefork",
     "symbol": "dork",
     "name": "DogeFork"
-  },
-  {
-    "id": "doge-for-president",
-    "symbol": "votedoge",
-    "name": "Doge for President"
   },
   {
     "id": "dogegf",
@@ -34860,6 +34850,11 @@
     "name": "GensoKishi Metaverse"
   },
   {
+    "id": "gensyn",
+    "symbol": "ai",
+    "name": "Gensyn"
+  },
+  {
     "id": "gentleman",
     "symbol": "man",
     "name": "Gentleman"
@@ -35767,7 +35762,7 @@
   {
     "id": "gnosis-xdai-bridged-usdt-gnosis",
     "symbol": "usdt",
-    "name": "Gnosis xDai Bridged USDT (Gnosis)"
+    "name": "xDai Bridged USDT (Gnosis)"
   },
   {
     "id": "gnosis-xdai-bridged-wbtc-gnosis-chain",
@@ -40370,6 +40365,11 @@
     "name": "Hyperlane Bridged SOL (Eclipse)"
   },
   {
+    "id": "hyperlane-usd-coin",
+    "symbol": "husdc",
+    "name": "Hyperlane USD Coin"
+  },
+  {
     "id": "hyperlauncher",
     "symbol": "launch",
     "name": "Hyperlauncher"
@@ -43635,6 +43635,11 @@
     "name": "Just A Boring Guy"
   },
   {
+    "id": "just-a-chart-guy",
+    "symbol": "chartguy",
+    "name": "Just a Chart Guy"
+  },
+  {
     "id": "just-a-chill-guy",
     "symbol": "chillguy",
     "name": "Just a chill guy (ETH)"
@@ -44475,11 +44480,6 @@
     "name": "Kek on Sol"
   },
   {
-    "id": "kelp-dao",
-    "symbol": "kelp",
-    "name": "Kelp DAO"
-  },
-  {
     "id": "kelpdao-bridged-rseth-arbitrum",
     "symbol": "rseth",
     "name": "KelpDAO Bridged rsETH (Arbitrum)"
@@ -44868,6 +44868,11 @@
     "id": "kinetiq-earn-vault",
     "symbol": "vkhype",
     "name": "Kinetiq Earn Vault"
+  },
+  {
+    "id": "kinetiq-markets-lst",
+    "symbol": "kmhype",
+    "name": "Kinetiq Markets HYPE"
   },
   {
     "id": "kinetixfi",
@@ -46128,6 +46133,11 @@
     "id": "kylo-the-doge",
     "symbol": "kylo",
     "name": "Kylo The Doge"
+  },
+  {
+    "id": "kyo",
+    "symbol": "kyo",
+    "name": "Kyo"
   },
   {
     "id": "kyotoswap",
@@ -57780,11 +57790,6 @@
     "name": "Nihao"
   },
   {
-    "id": "nihao-coin",
-    "symbol": "nihao",
-    "name": "Nihao Coin"
-  },
-  {
     "id": "nihao-coin-2",
     "symbol": "nihao",
     "name": "NiHao Coin"
@@ -60495,6 +60500,11 @@
     "name": "OracleSwap"
   },
   {
+    "id": "oraclex",
+    "symbol": "oex",
+    "name": "OracleX"
+  },
+  {
     "id": "oracle-xstock",
     "symbol": "orclx",
     "name": "Oracle xStock"
@@ -61763,6 +61773,11 @@
     "id": "paragon-tweaks",
     "symbol": "prgn",
     "name": "Paragon Tweaks"
+  },
+  {
+    "id": "parallax-2",
+    "symbol": "lax",
+    "name": "Parallax"
   },
   {
     "id": "parallelai",
@@ -63935,6 +63950,11 @@
     "name": "pippin"
   },
   {
+    "id": "pippin-s-friend",
+    "symbol": "dot",
+    "name": "Pippin's Friend"
+  },
+  {
     "id": "piratecash",
     "symbol": "pirate",
     "name": "PirateCash"
@@ -64863,11 +64883,6 @@
     "id": "pol-staked-wbera",
     "symbol": "swbera",
     "name": "POL Staked WBERA"
-  },
-  {
-    "id": "polter-finance",
-    "symbol": "polter",
-    "name": "Polter"
   },
   {
     "id": "poly",
@@ -65938,6 +65953,11 @@
     "id": "private-aviation-finance-token",
     "symbol": "cino",
     "name": "Private Aviation Finance Token"
+  },
+  {
+    "id": "private-chat",
+    "symbol": "prvt",
+    "name": "Private Chat"
   },
   {
     "id": "privateum",
@@ -67868,11 +67888,6 @@
     "id": "raid-token",
     "symbol": "raid",
     "name": "Raid"
-  },
-  {
-    "id": "rai-finance",
-    "symbol": "sofi",
-    "name": "RAI Finance"
   },
   {
     "id": "raiinmaker",
@@ -70700,11 +70715,6 @@
     "name": "RUGMAN"
   },
   {
-    "id": "rugproof",
-    "symbol": "rugproof",
-    "name": "RUGPROOF"
-  },
-  {
     "id": "rugproof-launchpad",
     "symbol": "$rugproof",
     "name": "RugProof Launchpad"
@@ -71278,11 +71288,6 @@
     "id": "saitabit",
     "symbol": "saitabit",
     "name": "SaitaBit"
-  },
-  {
-    "id": "saitama-soltama",
-    "symbol": "soltama",
-    "name": "Saitama (SOLTAMA)"
   },
   {
     "id": "saito",
@@ -72088,6 +72093,11 @@
     "id": "schuman-europ",
     "symbol": "europ",
     "name": "EURØP"
+  },
+  {
+    "id": "schwab-international-equity-xstock",
+    "symbol": "schfx",
+    "name": "Schwab International Equity xStock"
   },
   {
     "id": "science-cult-mascot",
@@ -76650,11 +76660,6 @@
     "name": "Spectral"
   },
   {
-    "id": "spectral-sight",
-    "symbol": "sight",
-    "name": "Spectral Sight"
-  },
-  {
     "id": "spectre-2",
     "symbol": "spctr",
     "name": "Spectre"
@@ -76796,6 +76801,11 @@
   },
   {
     "id": "spike-2",
+    "symbol": "spike",
+    "name": "Spike"
+  },
+  {
+    "id": "spike-3",
     "symbol": "spike",
     "name": "Spike"
   },
@@ -78565,6 +78575,16 @@
     "name": "Strategic Solana Reserve"
   },
   {
+    "id": "strategy-pp-fixed-xstock",
+    "symbol": "strkx",
+    "name": "Strategy PP Fixed xStock"
+  },
+  {
+    "id": "strategy-pp-variable-xstock",
+    "symbol": "strcx",
+    "name": "Strategy PP Variable xStock"
+  },
+  {
     "id": "strategy-punks",
     "symbol": "$strpnk",
     "name": "Strategy Punks"
@@ -78901,7 +78921,7 @@
   },
   {
     "id": "success-2",
-    "symbol": "马到成功",
+    "symbol": "马到��功",
     "name": "马到成功 (Success)"
   },
   {
@@ -86890,6 +86910,11 @@
     "name": "VanEck Treasury Fund"
   },
   {
+    "id": "vanguard-total-world-xstock",
+    "symbol": "vtx",
+    "name": "Vanguard Total World xStock"
+  },
+  {
     "id": "vanguard-xstock",
     "symbol": "vtix",
     "name": "Vanguard xStock"
@@ -89860,11 +89885,6 @@
     "name": "WiFi Map"
   },
   {
-    "id": "wiflama-coin",
-    "symbol": "wflm",
-    "name": "WIFLAMA COIN"
-  },
-  {
     "id": "wifmas",
     "symbol": "wifmas",
     "name": "Wifmas"
@@ -92023,11 +92043,6 @@
     "id": "wrapped-oasys",
     "symbol": "woasys",
     "name": "Wrapped Oasys"
-  },
-  {
-    "id": "wrapped-oeth",
-    "symbol": "woeth",
-    "name": "Wrapped OETH"
   },
   {
     "id": "wrapped-og-kayen",
