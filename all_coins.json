@@ -3442,7 +3442,7 @@
   {
     "id": "alex-wrapped-usdt",
     "symbol": "susdt",
-    "name": "Bridged Tether (Alex Bridge)"
+    "name": "ALEX Bridged USDT (Stacks)"
   },
   {
     "id": "alf",
@@ -7367,7 +7367,7 @@
   {
     "id": "axelar-usdt",
     "symbol": "axlusdt",
-    "name": "Bridged Tether (Axelar)"
+    "name": "Axelar Bridged USDT"
   },
   {
     "id": "axelrod-by-virtuals",
@@ -9563,6 +9563,11 @@
     "id": "beats-on-base",
     "symbol": "beats",
     "name": "BEATS on BASE"
+  },
+  {
+    "id": "beatswap",
+    "symbol": "btx",
+    "name": "Beatswap"
   },
   {
     "id": "beaver",
@@ -13660,11 +13665,6 @@
     "name": "Boomers on Sol"
   },
   {
-    "id": "boom-fun",
-    "symbol": "boom",
-    "name": "boom.fun"
-  },
-  {
     "id": "boo-mirrorworld",
     "symbol": "xboo",
     "name": "Boo MirrorWorld"
@@ -14023,11 +14023,6 @@
     "id": "boysclubbase",
     "symbol": "$boys",
     "name": "Boysclubbase"
-  },
-  {
-    "id": "boysclub-on-sui",
-    "symbol": "boyss",
-    "name": "Boysclub on Sui"
   },
   {
     "id": "bozo-collective",
@@ -14442,47 +14437,42 @@
   {
     "id": "bridged-tether-fuse",
     "symbol": "usdt",
-    "name": "Bridged Tether (Fuse)"
+    "name": "Fuse Bridged USDT (Fuse)"
   },
   {
     "id": "bridged-tether-hashport",
     "symbol": "usdt[hts]",
-    "name": "Bridged Tether (Hashport)"
-  },
-  {
-    "id": "bridged-tether-lightlink",
-    "symbol": "usdt.e",
-    "name": "Bridged Tether (Lightlink)"
+    "name": "Hashport Bridged USDT (Hedera)"
   },
   {
     "id": "bridged-tether-linea",
     "symbol": "usdt",
-    "name": "Bridged Tether (Linea)"
+    "name": "Linea Bridged USDT (Linea)"
   },
   {
     "id": "bridged-tether-manta-pacific",
     "symbol": "usdt",
-    "name": "Bridged Tether (Manta Pacific)"
+    "name": "Manta Pacific Bridged USDT (Manta Pacific)"
   },
   {
     "id": "bridged-tether-opbnb",
     "symbol": "usdt",
-    "name": "Bridged Tether (opBNB)"
+    "name": "opBNB Bridged USDT (opBNB)"
   },
   {
     "id": "bridged-tether-scroll",
     "symbol": "usdt",
-    "name": "Bridged Tether (Scroll)"
+    "name": "Scroll Bridged USDT (Scroll)"
   },
   {
     "id": "bridged-tether-starkgate",
     "symbol": "usdt",
-    "name": "Bridged Tether (StarkGate)"
+    "name": "StarkGate Bridged USDT (StarkNet)"
   },
   {
     "id": "bridged-tether-ton-bridge",
     "symbol": "jusdt",
-    "name": "Bridged Tether (TON Bridge)"
+    "name": "TON Bridged USDT (TON)"
   },
   {
     "id": "bridged-tia-hyperlane",
@@ -15148,11 +15138,6 @@
     "id": "bucky-2",
     "symbol": "bucky",
     "name": "Bucky"
-  },
-  {
-    "id": "buddha",
-    "symbol": "buddha",
-    "name": "Buddha"
   },
   {
     "id": "buddy-2",
@@ -16263,11 +16248,6 @@
     "id": "captain-ethereum",
     "symbol": "captain",
     "name": "Captain Ethereum"
-  },
-  {
-    "id": "captain-goofy",
-    "symbol": "goof",
-    "name": "Captain GOOFY"
   },
   {
     "id": "captain-kuma",
@@ -22995,11 +22975,6 @@
     "name": "DBXen"
   },
   {
-    "id": "dca420-meme-index",
-    "symbol": "dca",
-    "name": "DCA420 Meme Index"
-  },
-  {
     "id": "dcai",
     "symbol": "dcai",
     "name": "DCAI"
@@ -27810,6 +27785,11 @@
     "name": "Early Risers"
   },
   {
+    "id": "earnausd",
+    "symbol": "earnausd",
+    "name": "earnAUSD"
+  },
+  {
     "id": "earnbet",
     "symbol": "ebet",
     "name": "EarnBet"
@@ -27818,11 +27798,6 @@
     "id": "earnm",
     "symbol": "earnm",
     "name": "Earnm"
-  },
-  {
-    "id": "earnquest",
-    "symbol": "earn",
-    "name": "EarnQuest"
   },
   {
     "id": "earth-2-essence",
@@ -28725,11 +28700,6 @@
     "name": "Ember Sword"
   },
   {
-    "id": "emdx",
-    "symbol": "emdx",
-    "name": "EMDX"
-  },
-  {
     "id": "emeow",
     "symbol": "emeow",
     "name": "emeow"
@@ -28995,6 +28965,11 @@
     "name": "England Coin"
   },
   {
+    "id": "engrave-protocol",
+    "symbol": "engrave",
+    "name": "Engrave Protocol"
+  },
+  {
     "id": "enjincoin",
     "symbol": "enj",
     "name": "Enjin Coin"
@@ -29063,11 +29038,6 @@
     "id": "enso",
     "symbol": "enso",
     "name": "Enso"
-  },
-  {
-    "id": "enterbeat",
-    "symbol": "ebt",
-    "name": "ENTERBEAT"
   },
   {
     "id": "enterisecoin",
@@ -30940,6 +30910,11 @@
     "name": "FDREAM"
   },
   {
+    "id": "fdrive-coin",
+    "symbol": "fdc",
+    "name": "FDrive Coin"
+  },
+  {
     "id": "fear",
     "symbol": "fear",
     "name": "FEAR"
@@ -31048,11 +31023,6 @@
     "id": "fefe-on-eth",
     "symbol": "fefe",
     "name": "Fefe"
-  },
-  {
-    "id": "feg",
-    "symbol": "feg",
-    "name": "feg"
   },
   {
     "id": "feg-token-2",
@@ -32863,11 +32833,6 @@
     "id": "frankencoin",
     "symbol": "zchf",
     "name": "Frankencoin"
-  },
-  {
-    "id": "frankenfrog",
-    "symbol": "ffrog",
-    "name": "FrankenFrog"
   },
   {
     "id": "frankfrankfrank",
@@ -35725,6 +35690,11 @@
     "name": "Gnosis Bridged rETH (Gnosis)"
   },
   {
+    "id": "gnosis-xdai-bridged-eurc-gnosis",
+    "symbol": "eurc.e",
+    "name": "Omnibridge Bridged EURC (Gnosis)"
+  },
+  {
     "id": "gnosis-xdai-bridged-usdc-gnosis",
     "symbol": "usdc",
     "name": "Gnosis xDAI Bridged USDC (Gnosis)"
@@ -35923,6 +35893,11 @@
     "id": "gode-chain",
     "symbol": "gode",
     "name": "Gode Chain"
+  },
+  {
+    "id": "godl-2",
+    "symbol": "godl",
+    "name": "GODL"
   },
   {
     "id": "god-of-ethereum",
@@ -38040,6 +38015,11 @@
     "name": "HARLOD"
   },
   {
+    "id": "harmonix-finance",
+    "symbol": "har",
+    "name": "Harmonix Finance"
+  },
+  {
     "id": "harmonix-khype",
     "symbol": "hakhype",
     "name": "Harmonix kHYPE"
@@ -38603,11 +38583,6 @@
     "id": "helder",
     "symbol": "hldr",
     "name": "Helder"
-  },
-  {
-    "id": "helga-inu",
-    "symbol": "helga",
-    "name": "Helga Inu"
   },
   {
     "id": "helichain",
@@ -41672,7 +41647,7 @@
   {
     "id": "instabridge-wrapped-usdt",
     "symbol": "xusdt",
-    "name": "Instabridge Wrapped USDT (Radix)"
+    "name": "Instabridge Bridged USDT (Radix)"
   },
   {
     "id": "instadapp",
@@ -46530,11 +46505,6 @@
     "name": "Larix"
   },
   {
-    "id": "larpai",
-    "symbol": "larpai",
-    "name": "LarpAI"
-  },
-  {
     "id": "larp-ai",
     "symbol": "lai",
     "name": "Larp AI"
@@ -50443,11 +50413,6 @@
     "id": "mantle-bridged-usdc-mantle",
     "symbol": "usdc",
     "name": "Mantle Bridged USDC (Mantle)"
-  },
-  {
-    "id": "mantle-bridged-usdt-mantle",
-    "symbol": "usdt",
-    "name": "Mantle Bridged USDT (Mantle)"
   },
   {
     "id": "mantle-index-four-fund",
@@ -56725,11 +56690,6 @@
     "name": "Nemo Sum"
   },
   {
-    "id": "nend",
-    "symbol": "nend",
-    "name": "NEND"
-  },
-  {
     "id": "nengcoin",
     "symbol": "neng",
     "name": "Nengcoin"
@@ -58615,6 +58575,11 @@
     "name": "NPC"
   },
   {
+    "id": "npc-2",
+    "symbol": "npc",
+    "name": "NPC"
+  },
+  {
     "id": "npc-on-solana",
     "symbol": "npcs",
     "name": "NPC On Solana"
@@ -60280,11 +60245,6 @@
     "name": "OpesAI"
   },
   {
-    "id": "opinion-finance",
-    "symbol": "opn",
-    "name": "Opinion Finance"
-  },
-  {
     "id": "opipets",
     "symbol": "opip",
     "name": "OpiPets"
@@ -60572,7 +60532,7 @@
   {
     "id": "orbit-bridge-klaytn-usd-tether",
     "symbol": "ousdt",
-    "name": "Bridged Tether (Orbit Bridge)"
+    "name": "Orbit Bridged USDT (Kaia)"
   },
   {
     "id": "orbit-bridge-klaytn-wrapped-btc",
@@ -60953,11 +60913,6 @@
     "id": "osmosis-alllink",
     "symbol": "link",
     "name": "Osmosis allLINK"
-  },
-  {
-    "id": "osmosis-allpepe",
-    "symbol": "pepe",
-    "name": "Osmosis allPEPE"
   },
   {
     "id": "osmosis-allsol",
@@ -62013,11 +61968,6 @@
     "id": "pawderick",
     "symbol": "pawderick",
     "name": "Pawderick"
-  },
-  {
-    "id": "pawpaw",
-    "symbol": "pawpaw",
-    "name": "PawPaw"
   },
   {
     "id": "paws",
@@ -65345,11 +65295,6 @@
     "name": "popcatwifhat"
   },
   {
-    "id": "popcoin",
-    "symbol": "pop",
-    "name": "Popcoin"
-  },
-  {
     "id": "popcorn-meme",
     "symbol": "pcorn",
     "name": "Popcorn"
@@ -68315,11 +68260,6 @@
     "name": "Reach"
   },
   {
-    "id": "reachx-mainnet",
-    "symbol": "rx",
-    "name": "ReachX Mainnet"
-  },
-  {
     "id": "reactive-network",
     "symbol": "react",
     "name": "Reactive Network"
@@ -70465,11 +70405,6 @@
     "name": "Rootstock Bridged USDT (Rootstock)"
   },
   {
-    "id": "rootstock-bridged-usdt-rootstock-2",
-    "symbol": "usdt",
-    "name": "Rootstock Bridged USDT (Rootstock)"
-  },
-  {
     "id": "rope-token",
     "symbol": "rope",
     "name": "Rope Token"
@@ -71788,11 +71723,6 @@
     "id": "saturn-ai",
     "symbol": "satai",
     "name": "Saturn AI"
-  },
-  {
-    "id": "satushi-nukumutu",
-    "symbol": "$nukumutu",
-    "name": "Satushi Nukumutu"
   },
   {
     "id": "satx",
@@ -77720,11 +77650,6 @@
     "name": "StampMap"
   },
   {
-    "id": "standard-protocol",
-    "symbol": "stnd",
-    "name": "Standard Protocol"
-  },
-  {
     "id": "standard-token",
     "symbol": "tst",
     "name": "TheStandard Token"
@@ -81402,7 +81327,7 @@
   {
     "id": "tether-rainbow-bridge",
     "symbol": "usdt.e",
-    "name": "Bridged Tether (Rainbow Bridge)"
+    "name": "Rainbow Bridged USDT (Near)"
   },
   {
     "id": "tether-usd-wormhole",
@@ -83530,11 +83455,6 @@
     "name": "toona"
   },
   {
-    "id": "tootcoin",
-    "symbol": "toot",
-    "name": "Tootcoin"
-  },
-  {
     "id": "topblast",
     "symbol": "bl4st",
     "name": "TOPBLAST"
@@ -84060,6 +83980,11 @@
     "name": "Traxx"
   },
   {
+    "id": "trd-network",
+    "symbol": "trd",
+    "name": "TRD Network"
+  },
+  {
     "id": "treasure-labs-loot",
     "symbol": "loot",
     "name": "Treasure Labs LOOT"
@@ -84275,6 +84200,11 @@
     "name": "Trillions"
   },
   {
+    "id": "trillions-2",
+    "symbol": "trillions",
+    "name": "trillions"
+  },
+  {
     "id": "trillions-strategy",
     "symbol": "tstr",
     "name": "trillions Strategy"
@@ -84338,11 +84268,6 @@
     "id": "triviagent-by-virtuals",
     "symbol": "trivi",
     "name": "TriviAgent by Virtuals"
-  },
-  {
-    "id": "trivian",
-    "symbol": "trivia",
-    "name": "Trivians"
   },
   {
     "id": "trog",
@@ -85320,6 +85245,11 @@
     "name": "Umbra"
   },
   {
+    "id": "umbra-2",
+    "symbol": "u1",
+    "name": "Umbra"
+  },
+  {
     "id": "umbrella-network",
     "symbol": "umb",
     "name": "Umbrella Network"
@@ -86256,8 +86186,8 @@
   },
   {
     "id": "usd0-liquid-bond",
-    "symbol": "usd0++",
-    "name": "Staked USD0"
+    "symbol": "busd0",
+    "name": "Bond USD0"
   },
   {
     "id": "usd1",
@@ -86393,6 +86323,11 @@
     "id": "usde-2",
     "symbol": "usde",
     "name": "USDE (ERD)"
+  },
+  {
+    "id": "usde-arm-lp-token",
+    "symbol": "arm-susde-usde",
+    "name": "USDe ARM LP Token"
   },
   {
     "id": "usdebt",
@@ -92185,11 +92120,6 @@
     "name": "Wrapped Robinhood xStock"
   },
   {
-    "id": "wrapped-roush-fenway-keselowski-kayen",
-    "symbol": "wroush",
-    "name": "Wrapped Roush Fenway Keselowski (Kayen)"
-  },
-  {
     "id": "wrapped-rseth",
     "symbol": "wrseth",
     "name": "Wrapped rsETH"
@@ -93250,6 +93180,11 @@
     "name": "XMAQUINA"
   },
   {
+    "id": "xmas-cult",
+    "symbol": "xmas",
+    "name": "xmas cult"
+  },
+  {
     "id": "xmeme",
     "symbol": "xmeme",
     "name": "XMEME"
@@ -93753,11 +93688,6 @@
     "id": "y",
     "symbol": "yai",
     "name": "Ÿ"
-  },
-  {
-    "id": "y2k",
-    "symbol": "y2k",
-    "name": "Y2K"
   },
   {
     "id": "y2k-2",
