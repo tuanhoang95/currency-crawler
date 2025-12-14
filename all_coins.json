@@ -960,11 +960,6 @@
     "name": "Aavegotchi"
   },
   {
-    "id": "aavegotchi-fomo",
-    "symbol": "fomo",
-    "name": "Aavegotchi FOMO"
-  },
-  {
     "id": "aave-gusd",
     "symbol": "agusd",
     "name": "Aave GUSD"
@@ -4263,6 +4258,11 @@
     "id": "american-express-xstock",
     "symbol": "axpx",
     "name": "American Express xStock"
+  },
+  {
+    "id": "american-intelligence",
+    "symbol": "ai",
+    "name": "American Intelligence"
   },
   {
     "id": "american-pepe",
@@ -9615,6 +9615,11 @@
     "name": "Bee"
   },
   {
+    "id": "beedog",
+    "symbol": "蜜蜂狗",
+    "name": "蜜蜂狗（Beedog)"
+  },
+  {
     "id": "beefy-escrowed-fantom",
     "symbol": "beftm",
     "name": "Beefy Escrowed FTM"
@@ -10968,11 +10973,6 @@
     "id": "biopassport",
     "symbol": "biot",
     "name": "Bio Passport"
-  },
-  {
-    "id": "biopop",
-    "symbol": "bopb",
-    "name": "BIOPOP"
   },
   {
     "id": "bio-protocol",
@@ -14038,11 +14038,6 @@
     "id": "bozo-the-bull",
     "symbol": "bozo",
     "name": "bozo the bull"
-  },
-  {
-    "id": "bpepe",
-    "symbol": "bpepe",
-    "name": "BPEPE"
   },
   {
     "id": "bracelet",
@@ -18620,6 +18615,11 @@
     "name": "CipherAI"
   },
   {
+    "id": "ciphernet-token",
+    "symbol": "cinet",
+    "name": "CipherNet Token"
+  },
+  {
     "id": "cipher-protocol",
     "symbol": "cipher",
     "name": "Cipher Protocol"
@@ -20048,11 +20048,6 @@
     "id": "continuum-world",
     "symbol": "um",
     "name": "Continuum World"
-  },
-  {
-    "id": "contracoin",
-    "symbol": "ctcn",
-    "name": "Contracoin"
   },
   {
     "id": "contract-address-meme",
@@ -21568,6 +21563,11 @@
     "id": "crypto-strategic-reserve",
     "symbol": "csr",
     "name": "Crypto Strategic Reserve"
+  },
+  {
+    "id": "crypto-supercycle",
+    "symbol": "supercycle",
+    "name": "Crypto SuperCycle"
   },
   {
     "id": "crypto-sustainable-token",
@@ -25970,11 +25970,6 @@
     "name": "Dogeon"
   },
   {
-    "id": "doge-on-pulsechain",
-    "symbol": "doge",
-    "name": "Doge on Pulsechain"
-  },
-  {
     "id": "doge-on-sol",
     "symbol": "$doge",
     "name": "$Doge on Sol"
@@ -28935,11 +28930,6 @@
     "name": "Energy Coin"
   },
   {
-    "id": "energy-efficient-mortgage-tokenized-stock-defichain",
-    "symbol": "deem",
-    "name": "iShares MSCI Emerging Markets ETF Defichain"
-  },
-  {
     "id": "energy-token",
     "symbol": "nrg",
     "name": "Energy Token"
@@ -28968,6 +28958,11 @@
     "id": "engrave-protocol",
     "symbol": "engrave",
     "name": "Engrave Protocol"
+  },
+  {
+    "id": "enigma-2",
+    "symbol": "enx",
+    "name": "Enigma"
   },
   {
     "id": "enjincoin",
@@ -32475,6 +32470,11 @@
     "name": "Football Coin"
   },
   {
+    "id": "football-fun",
+    "symbol": "fun",
+    "name": "Sport.fun"
+  },
+  {
     "id": "football-world-community",
     "symbol": "fwc",
     "name": "Football World Community"
@@ -33028,11 +33028,6 @@
     "id": "frenchie-2",
     "symbol": "fren",
     "name": "FRENCHIE"
-  },
-  {
-    "id": "frencoin-2",
-    "symbol": "fren",
-    "name": "Frencoin"
   },
   {
     "id": "frencoin-3",
@@ -35395,11 +35390,6 @@
     "name": "GlitzKoin"
   },
   {
-    "id": "glo",
-    "symbol": "glo",
-    "name": "GLO"
-  },
-  {
     "id": "glo-2",
     "symbol": "glo",
     "name": "GLO"
@@ -35723,11 +35713,6 @@
     "id": "g-o",
     "symbol": "sluglord",
     "name": "🌻ᔕᒪᑌGᒪOᖇᗪ🌻"
-  },
-  {
-    "id": "goask",
-    "symbol": "ask",
-    "name": "GoAsk"
   },
   {
     "id": "goat",
@@ -39918,11 +39903,6 @@
     "id": "humanity",
     "symbol": "h",
     "name": "Humanity"
-  },
-  {
-    "id": "humanize",
-    "symbol": "$hmt",
-    "name": "Humanize"
   },
   {
     "id": "humanode",
@@ -47105,11 +47085,6 @@
     "name": "Leonardo AI"
   },
   {
-    "id": "leonard-the-lizard",
-    "symbol": "lenni",
-    "name": "Leonard The Lizard"
-  },
-  {
     "id": "leoono",
     "symbol": "leo",
     "name": "LEOONO by Virtuals"
@@ -47323,11 +47298,6 @@
     "id": "lf",
     "symbol": "lf",
     "name": "LF"
-  },
-  {
-    "id": "lfgswap-finance",
-    "symbol": "lfg",
-    "name": "LFGSwap Finance"
   },
   {
     "id": "lfgswap-finance-core",
@@ -48415,11 +48385,6 @@
     "name": "LocalCoinSwap"
   },
   {
-    "id": "localtrade",
-    "symbol": "ltt",
-    "name": "LocalTrade"
-  },
-  {
     "id": "lockchain",
     "symbol": "loc",
     "name": "LockTrip"
@@ -48695,11 +48660,6 @@
     "name": "Look bro"
   },
   {
-    "id": "looking-for-cooks",
-    "symbol": "$scanning",
-    "name": "looking for cooks"
-  },
-  {
     "id": "looking-up",
     "symbol": "up",
     "name": "Looking Up"
@@ -48893,11 +48853,6 @@
     "id": "lost-bitcoin-layer",
     "symbol": "atom",
     "name": "Lost Bitcoin Layer"
-  },
-  {
-    "id": "lotion-coin",
-    "symbol": "lotion",
-    "name": "Lotion AI"
   },
   {
     "id": "lottery-token-2",
@@ -49578,6 +49533,11 @@
     "id": "macaronswap",
     "symbol": "mcrn",
     "name": "MacaronSwap"
+  },
+  {
+    "id": "macedo",
+    "symbol": "macedo",
+    "name": "macedo"
   },
   {
     "id": "machina",
@@ -60145,6 +60105,11 @@
     "name": "OpenSky Finance"
   },
   {
+    "id": "opensouls",
+    "symbol": "opensouls",
+    "name": "opensouls"
+  },
+  {
     "id": "open-source",
     "symbol": "os",
     "name": "Open Source"
@@ -67910,11 +67875,6 @@
     "name": "Rainmaker Games"
   },
   {
-    "id": "raiseme",
-    "symbol": "raiseme",
-    "name": "raiseme"
-  },
-  {
     "id": "raise-the-colours",
     "symbol": "rtc",
     "name": "Raise The Colours"
@@ -72035,11 +71995,6 @@
     "name": "Sci-Hub"
   },
   {
-    "id": "scinet",
-    "symbol": "scinet",
-    "name": "SciNet"
-  },
-  {
     "id": "sc-internacional-fan-token",
     "symbol": "saci",
     "name": "SC Internacional Fan Token"
@@ -72315,6 +72270,11 @@
     "name": "SEED"
   },
   {
+    "id": "seed-4",
+    "symbol": "seed",
+    "name": "SEED"
+  },
+  {
     "id": "seeded-network",
     "symbol": "seeded",
     "name": "Seeded Network"
@@ -72353,11 +72313,6 @@
     "id": "seek-tiger",
     "symbol": "sti",
     "name": "Seek Tiger"
-  },
-  {
-    "id": "sei-fastusd",
-    "symbol": "fastusd",
-    "name": "Sei fastUSD"
   },
   {
     "id": "seigniorage-shares",
@@ -73433,6 +73388,11 @@
     "id": "shitcoin-on-ton",
     "symbol": "shit",
     "name": "Shitcoin on TON"
+  },
+  {
+    "id": "shit-piss-skin-can",
+    "symbol": "spsc",
+    "name": "Shit Piss Skin Can"
   },
   {
     "id": "shitzu",
@@ -75880,11 +75840,6 @@
     "name": "SoMon"
   },
   {
-    "id": "so-much-higher",
-    "symbol": "smh",
-    "name": "So Much Higher"
-  },
-  {
     "id": "sonar-2",
     "symbol": "sonar",
     "name": "SONAR"
@@ -77608,6 +77563,11 @@
     "id": "stakestone-ether",
     "symbol": "stone",
     "name": "StakeStone ETH"
+  },
+  {
+    "id": "stakestone-usd",
+    "symbol": "stoneusd",
+    "name": "StakeStone USD"
   },
   {
     "id": "stake-together",
@@ -79535,6 +79495,11 @@
     "name": "Surf"
   },
   {
+    "id": "surfcash",
+    "symbol": "surf",
+    "name": "SurfCash"
+  },
+  {
     "id": "surfing-coco",
     "symbol": "coco",
     "name": "Surfing Coco"
@@ -79928,6 +79893,11 @@
     "id": "sx-rollup-bridged-usdc-sx-rollup",
     "symbol": "usdc",
     "name": "SX Rollup Bridged USDC (SX Rollup)"
+  },
+  {
+    "id": "sybex-oracle",
+    "symbol": "sybex",
+    "name": "Sybex Oracle"
   },
   {
     "id": "sybtc",
@@ -81638,11 +81608,6 @@
     "id": "the-degensons",
     "symbol": "degens",
     "name": "The Degensons"
-  },
-  {
-    "id": "the-dev-is-a-baby",
-    "symbol": "bbydev",
-    "name": "The Dev is a Baby"
   },
   {
     "id": "thedip",
@@ -87130,11 +87095,6 @@
     "name": "VelasPad"
   },
   {
-    "id": "vela-token",
-    "symbol": "vela",
-    "name": "Vela Token"
-  },
-  {
     "id": "velhalla",
     "symbol": "scar",
     "name": "ScarQuest"
@@ -90215,11 +90175,6 @@
     "name": "Wolf Skull"
   },
   {
-    "id": "wolf-solana",
-    "symbol": "wolf",
-    "name": "WOLF SOLANA"
-  },
-  {
     "id": "wolfwifballz",
     "symbol": "ballz",
     "name": "WolfWifBallz"
@@ -90433,11 +90388,6 @@
     "id": "world-model",
     "symbol": "wm",
     "name": "World Model"
-  },
-  {
-    "id": "world-of-defish",
-    "symbol": "wod",
-    "name": "World of Defish"
   },
   {
     "id": "world-of-dypians",
@@ -91105,11 +91055,6 @@
     "name": "Wrapped bNVDA"
   },
   {
-    "id": "wrapped-bologna-fc-kayen",
-    "symbol": "wbfc",
-    "name": "Wrapped Bologna FC (Kayen)"
-  },
-  {
     "id": "wrapped-bone",
     "symbol": "wbone",
     "name": "Wrapped BONE"
@@ -91430,11 +91375,6 @@
     "name": "Wrapped ETH (Taiko)"
   },
   {
-    "id": "wrapped-ethw",
-    "symbol": "wethw",
-    "name": "Wrapped ETHW"
-  },
-  {
     "id": "wrapped-eth-world-chain",
     "symbol": "weth",
     "name": "Wrapped ETH (World Chain)"
@@ -91745,11 +91685,6 @@
     "name": "Wrapped Legia Warsaw (Kayen)"
   },
   {
-    "id": "wrapped-leicester-tigers-kayen",
-    "symbol": "wtigers",
-    "name": "Wrapped Leicester Tigers (Kayen)"
-  },
-  {
     "id": "wrapped-libertas-omnibus",
     "symbol": "libertas",
     "name": "Wrapped LIBERTAS OMNIBUS"
@@ -91863,11 +91798,6 @@
     "id": "wrapped-microstrategy-xstock",
     "symbol": "wmstrx",
     "name": "Wrapped MicroStrategy xStock"
-  },
-  {
-    "id": "wrapped-millonarios-fc-kayen",
-    "symbol": "wmfc",
-    "name": "Wrapped Millonarios FC (Kayen)"
   },
   {
     "id": "wrapped-minima",
@@ -94288,11 +94218,6 @@
     "id": "yodeswap",
     "symbol": "yode",
     "name": "YodeSwap"
-  },
-  {
-    "id": "yo-exchange",
-    "symbol": "yoex",
-    "name": "YO EXCHANGE"
   },
   {
     "id": "yoink-2",
