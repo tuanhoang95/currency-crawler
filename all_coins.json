@@ -1155,11 +1155,6 @@
     "name": "Aave v3 BAL"
   },
   {
-    "id": "aave-v3-btc-b",
-    "symbol": "abtc.b",
-    "name": "Aave v3 BTC.b"
-  },
-  {
     "id": "aave-v3-cbeth",
     "symbol": "acbeth",
     "name": "Aave v3 cbETH"
@@ -2423,6 +2418,11 @@
     "id": "agus",
     "symbol": "agus",
     "name": "AGUS"
+  },
+  {
+    "id": "agusto",
+    "symbol": "agusto",
+    "name": "Agusto"
   },
   {
     "id": "a-hathor",
@@ -4912,7 +4912,7 @@
   {
     "id": "aos-2",
     "symbol": "sn79",
-    "name": "��aos"
+    "name": "τaos"
   },
   {
     "id": "apartment",
@@ -5523,11 +5523,6 @@
     "id": "archer-hunter",
     "symbol": "faster",
     "name": "Archer Hunter"
-  },
-  {
-    "id": "archeriumai",
-    "symbol": "arca",
-    "name": "ArcheriumAi"
   },
   {
     "id": "archerswap-bow",
@@ -10583,11 +10578,6 @@
     "id": "billboard",
     "symbol": "billboard",
     "name": "BILLBOARD"
-  },
-  {
-    "id": "billi",
-    "symbol": "billi",
-    "name": "Billi"
   },
   {
     "id": "billicat",
@@ -19125,6 +19115,11 @@
     "name": "The Cocktailbar"
   },
   {
+    "id": "coco-2",
+    "symbol": "coco",
+    "name": "coco"
+  },
+  {
     "id": "coco-coin",
     "symbol": "coco",
     "name": "COCO COIN"
@@ -19158,11 +19153,6 @@
     "id": "cod3x-usd",
     "symbol": "cdxusd",
     "name": "Cod3x USD"
-  },
-  {
-    "id": "coda",
-    "symbol": "coda",
-    "name": "CODA"
   },
   {
     "id": "codatta",
@@ -22360,11 +22350,6 @@
     "name": "Bridged DAI (PulseChain)"
   },
   {
-    "id": "dai-reflections",
-    "symbol": "drs",
-    "name": "DAI Reflections"
-  },
-  {
     "id": "d-a-i-wo",
     "symbol": "daiwo",
     "name": "D.A.I.Wo"
@@ -22813,6 +22798,11 @@
     "id": "datawitch",
     "symbol": "datawitch",
     "name": "Datawitch"
+  },
+  {
+    "id": "datboi",
+    "symbol": "datboi",
+    "name": "DATBOI"
   },
   {
     "id": "dat-boi",
@@ -30410,11 +30400,6 @@
     "name": "Fame MMA"
   },
   {
-    "id": "fame-protocol",
-    "symbol": "fame",
-    "name": "FAME Protocol"
-  },
-  {
     "id": "fame-reward-plus",
     "symbol": "frp",
     "name": "Fame Reward Plus"
@@ -30517,7 +30502,7 @@
   {
     "id": "farcana",
     "symbol": "far",
-    "name": "FARCANA"
+    "name": "FAR Labs"
   },
   {
     "id": "farcaster-flower",
@@ -34345,6 +34330,11 @@
     "name": "GBeast"
   },
   {
+    "id": "gboy",
+    "symbol": "gboy",
+    "name": "GBOY"
+  },
+  {
     "id": "gbtc6900",
     "symbol": "gbtc",
     "name": "GBTC6900"
@@ -35188,11 +35178,6 @@
     "id": "girl-economy-ai",
     "symbol": "girle",
     "name": "girl economy ai"
-  },
-  {
-    "id": "girls",
-    "symbol": "girls",
-    "name": "GIRLS"
   },
   {
     "id": "girls-smoking-cigs",
@@ -37146,6 +37131,11 @@
   },
   {
     "id": "grug",
+    "symbol": "grug",
+    "name": "GRUG"
+  },
+  {
+    "id": "grug-2",
     "symbol": "grug",
     "name": "GRUG"
   },
@@ -41393,6 +41383,11 @@
     "id": "infrared-bera",
     "symbol": "ibera",
     "name": "Infrared Bera"
+  },
+  {
+    "id": "infrared-finance",
+    "symbol": "ir",
+    "name": "Infrared Finance"
   },
   {
     "id": "infrasta",
@@ -45875,6 +45870,11 @@
     "name": "Kung-Fucat"
   },
   {
+    "id": "kung-fu-hamster",
+    "symbol": "kfh",
+    "name": "Kung Fu Hamster"
+  },
+  {
     "id": "kura",
     "symbol": "kura",
     "name": "Kura"
@@ -46795,6 +46795,11 @@
     "name": "Lee"
   },
   {
+    "id": "leek",
+    "symbol": "leek",
+    "name": "LEEK"
+  },
+  {
     "id": "leemonhead",
     "symbol": "leemon",
     "name": "LeemonHead"
@@ -47423,6 +47428,11 @@
     "id": "light-defi",
     "symbol": "light",
     "name": "Light Defi"
+  },
+  {
+    "id": "lighter",
+    "symbol": "light",
+    "name": "Lighter"
   },
   {
     "id": "lightlink",
@@ -48470,11 +48480,6 @@
     "name": "LOLA"
   },
   {
-    "id": "lola-2",
-    "symbol": "lola",
-    "name": "Lola"
-  },
-  {
     "id": "lola-3",
     "symbol": "lola",
     "name": "Lola"
@@ -49128,11 +49133,6 @@
     "id": "lumerin",
     "symbol": "lmr",
     "name": "Lumerin"
-  },
-  {
-    "id": "lumi-2",
-    "symbol": "$lumi",
-    "name": "LUMI"
   },
   {
     "id": "lumi-3",
@@ -49958,11 +49958,6 @@
     "id": "maicrotrader",
     "symbol": "maicro",
     "name": "maicrotrader"
-  },
-  {
-    "id": "maidsafecoin",
-    "symbol": "emaid",
-    "name": "MaidSafeCoin"
   },
   {
     "id": "mai-fantom",
@@ -51495,6 +51490,11 @@
     "name": "Melega"
   },
   {
+    "id": "mellion-coin",
+    "symbol": "mec",
+    "name": "Mellion Coin"
+  },
+  {
     "id": "mello-ai",
     "symbol": "mello",
     "name": "Mello AI"
@@ -51905,11 +51905,6 @@
     "name": "MEOW"
   },
   {
-    "id": "meow-2",
-    "symbol": "meow",
-    "name": "Meow"
-  },
-  {
     "id": "meow-3",
     "symbol": "meow",
     "name": "MEOW"
@@ -52070,11 +52065,6 @@
     "name": "MeromAI"
   },
   {
-    "id": "mero-mercury-coin",
-    "symbol": "mero",
-    "name": "MERO Mercury Coin"
-  },
-  {
     "id": "merry-christmas",
     "symbol": "mc",
     "name": "Merry Christmas"
@@ -52138,11 +52128,6 @@
     "id": "meta-2-2",
     "symbol": "meta",
     "name": "MetaDAO"
-  },
-  {
-    "id": "meta-apes-peel",
-    "symbol": "peel",
-    "name": "Meta Apes PEEL"
   },
   {
     "id": "metaarena",
@@ -53930,11 +53915,6 @@
     "name": "ModPanda"
   },
   {
-    "id": "module",
-    "symbol": "module",
-    "name": "Module"
-  },
-  {
     "id": "modulr",
     "symbol": "emdr",
     "name": "Modulr"
@@ -54433,6 +54413,11 @@
     "id": "monster-xstock",
     "symbol": "mnstx",
     "name": "Monster xStock"
+  },
+  {
+    "id": "mony",
+    "symbol": "mony",
+    "name": "JPMorgan My OnChain Net Yield Fund"
   },
   {
     "id": "moo",
@@ -56463,6 +56448,11 @@
     "id": "neet",
     "symbol": "neet",
     "name": "Not in Employment, Education, or Training"
+  },
+  {
+    "id": "nefe-coin",
+    "symbol": "nefe",
+    "name": "NEFE COIN"
   },
   {
     "id": "neged",
@@ -61165,11 +61155,6 @@
     "name": "PainStrategy"
   },
   {
-    "id": "paint",
-    "symbol": "paint",
-    "name": "MurAll"
-  },
-  {
     "id": "paint-swap",
     "symbol": "brush",
     "name": "Paintswap"
@@ -64256,6 +64241,11 @@
   },
   {
     "id": "ploi",
+    "symbol": "ploi",
+    "name": "PLOI"
+  },
+  {
+    "id": "ploi-sol",
     "symbol": "ploi",
     "name": "PLOI"
   },
@@ -73540,11 +73530,6 @@
     "name": "Sierra"
   },
   {
-    "id": "sifchain",
-    "symbol": "erowan",
-    "name": "Sifchain"
-  },
-  {
     "id": "sifu-vision-2",
     "symbol": "sifu",
     "name": "Sifu Vision"
@@ -74216,6 +74201,11 @@
   },
   {
     "id": "slop",
+    "symbol": "slop",
+    "name": "Slop"
+  },
+  {
+    "id": "slop-2",
     "symbol": "slop",
     "name": "Slop"
   },
@@ -75558,6 +75548,11 @@
     "id": "solsrch",
     "symbol": "srch",
     "name": "SolSrch"
+  },
+  {
+    "id": "solstice",
+    "symbol": "slx",
+    "name": "Solstice"
   },
   {
     "id": "solstice-eusx",
@@ -77043,11 +77038,6 @@
     "id": "stabull-finance",
     "symbol": "stabul",
     "name": "Stabull Finance"
-  },
-  {
-    "id": "stacker-ai",
-    "symbol": "$stack",
-    "name": "STACKER AI"
   },
   {
     "id": "stacking-dao",
@@ -80975,6 +80965,11 @@
     "name": "TenX"
   },
   {
+    "id": "ter",
+    "symbol": "ter",
+    "name": "TER"
+  },
+  {
     "id": "tera-smart-money",
     "symbol": "tera",
     "name": "TERA"
@@ -81318,6 +81313,11 @@
     "id": "the-amazing-digital-circus",
     "symbol": "tadc",
     "name": "The Amazing Digital Circus"
+  },
+  {
+    "id": "the-american-dream",
+    "symbol": "dream",
+    "name": "The American Dream"
   },
   {
     "id": "the-america-party",
@@ -82008,6 +82008,11 @@
     "id": "thesis-cat",
     "symbol": "quant",
     "name": "thesis cat"
+  },
+  {
+    "id": "the-sloppy-drawn-turtle",
+    "symbol": "frank",
+    "name": "The Sloppy Drawn Turtle"
   },
   {
     "id": "the-society-library",
@@ -83665,11 +83670,6 @@
     "name": "Trader"
   },
   {
-    "id": "trader-2",
-    "symbol": "trader",
-    "name": "Agent XYZ"
-  },
-  {
     "id": "traders-coin",
     "symbol": "trdc",
     "name": "Traders Coin"
@@ -83808,11 +83808,6 @@
     "id": "treasure-labs-loot",
     "symbol": "loot",
     "name": "Treasure Labs LOOT"
-  },
-  {
-    "id": "treasure-under-sea",
-    "symbol": "tus",
-    "name": "Treasure Under Sea"
   },
   {
     "id": "treasury-bond-eth-tokenized-stock-defichain",
@@ -86142,7 +86137,7 @@
   {
     "id": "usde-arm-lp-token",
     "symbol": "arm-susde-usde",
-    "name": "USDe ARM LP Token"
+    "name": "sUSDe ARM LP Token"
   },
   {
     "id": "usdebt",
@@ -86183,6 +86178,11 @@
     "id": "usdh-2",
     "symbol": "usdh",
     "name": "USDH"
+  },
+  {
+    "id": "usdkg",
+    "symbol": "usdkg",
+    "name": "USDKG"
   },
   {
     "id": "usdm-2",
@@ -89525,6 +89525,11 @@
     "name": "White Mountain Ermine"
   },
   {
+    "id": "white-rat",
+    "symbol": "wr",
+    "name": "White Rat"
+  },
+  {
     "id": "whiterock",
     "symbol": "white",
     "name": "WhiteRock"
@@ -89533,11 +89538,6 @@
     "id": "white-whale",
     "symbol": "whale",
     "name": "White Whale"
-  },
-  {
-    "id": "who-is-the-a-hole",
-    "symbol": "wita",
-    "name": "Who is the a-hole"
   },
   {
     "id": "why",
@@ -90773,11 +90773,6 @@
     "id": "wrapped-aytemiz-alanyaspor-kayen",
     "symbol": "wala",
     "name": "Wrapped Aytemiz Alanyaspor (Kayen)"
-  },
-  {
-    "id": "wrapped-bali-united-fc-kayen",
-    "symbol": "wbufc",
-    "name": "Wrapped Bali United FC (Kayen)"
   },
   {
     "id": "wrapped-banano",
@@ -92413,6 +92408,11 @@
     "id": "x8-project",
     "symbol": "x8x",
     "name": "X8X"
+  },
+  {
+    "id": "xach",
+    "symbol": "xach",
+    "name": "Xach"
   },
   {
     "id": "xahau",
@@ -94218,6 +94218,11 @@
     "id": "yousim",
     "symbol": "yousim",
     "name": "YouSim"
+  },
+  {
+    "id": "youtopia",
+    "symbol": "ytp",
+    "name": "YOUTOPIA"
   },
   {
     "id": "youves-uusd",
