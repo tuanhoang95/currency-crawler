@@ -2190,6 +2190,11 @@
     "name": "AgentLayer"
   },
   {
+    "id": "agentlisa",
+    "symbol": "lisa",
+    "name": "AgentLISA"
+  },
+  {
     "id": "agently",
     "symbol": "agi",
     "name": "Agently"
@@ -4118,6 +4123,11 @@
     "id": "amaterasu-omikami",
     "symbol": "omikami",
     "name": "AMATERASU OMIKAMI"
+  },
+  {
+    "id": "amato",
+    "symbol": "amato",
+    "name": "AMATO"
   },
   {
     "id": "amazingteamdao",
@@ -6258,11 +6268,6 @@
     "id": "assetlink",
     "symbol": "aset",
     "name": "AssetLink"
-  },
-  {
-    "id": "assetmantle",
-    "symbol": "mntl",
-    "name": "AssetMantle"
   },
   {
     "id": "assimilate",
@@ -9956,8 +9961,8 @@
   },
   {
     "id": "bepro-network",
-    "symbol": "bepro",
-    "name": "Bepro"
+    "symbol": "lx",
+    "name": "LayerX"
   },
   {
     "id": "ber",
@@ -11973,11 +11978,6 @@
     "id": "blastar",
     "symbol": "blast",
     "name": "Blastar"
-  },
-  {
-    "id": "blastcat",
-    "symbol": "bcat",
-    "name": "BlastCat"
   },
   {
     "id": "blaster",
@@ -17240,11 +17240,6 @@
     "name": "CERBEROGE"
   },
   {
-    "id": "cerberus-2",
-    "symbol": "crbrus",
-    "name": "Cerberus"
-  },
-  {
     "id": "cerebrix-ai",
     "symbol": "crbrx",
     "name": "Cerebrix AI"
@@ -22115,6 +22110,11 @@
     "name": "Cypher"
   },
   {
+    "id": "cypher-3",
+    "symbol": "cyph",
+    "name": "Cypher"
+  },
+  {
     "id": "cypher-ai-2",
     "symbol": "cypher",
     "name": "Cypher AI"
@@ -22825,11 +22825,6 @@
     "name": "daumenfrosch"
   },
   {
-    "id": "dave-coin",
-    "symbol": "$dave",
-    "name": "Dave Coin"
-  },
-  {
     "id": "davidcoin",
     "symbol": "dc",
     "name": "DavidCoin"
@@ -23003,6 +22998,11 @@
     "id": "debridge",
     "symbol": "dbr",
     "name": "deBridge"
+  },
+  {
+    "id": "debt",
+    "symbol": "$debt",
+    "name": "DEBT"
   },
   {
     "id": "debtcoin",
@@ -30215,11 +30215,6 @@
     "name": "F"
   },
   {
-    "id": "fabled-adventure-fap",
-    "symbol": "fap",
-    "name": "Fabled Adventure FAP"
-  },
-  {
     "id": "fable-of-the-dragon",
     "symbol": "tyrant",
     "name": "Fable Of The Dragon"
@@ -30835,11 +30830,6 @@
     "name": "FEAR"
   },
   {
-    "id": "fear-of-missing-out",
-    "symbol": "fomo",
-    "name": "Fear of Missing Out"
-  },
-  {
     "id": "fear-of-missing-out-2",
     "symbol": "fomo",
     "name": "Fear Of Missing Out"
@@ -31063,11 +31053,6 @@
     "id": "fetch-ai",
     "symbol": "fet",
     "name": "Artificial Superintelligence Alliance"
-  },
-  {
-    "id": "fe-tech",
-    "symbol": "fets",
-    "name": "FE TECH"
   },
   {
     "id": "fffffffffffffuuuuuuuuuuuuuuuu",
@@ -34640,11 +34625,6 @@
     "name": "GenieBot"
   },
   {
-    "id": "genie-protocol",
-    "symbol": "gnp",
-    "name": "Genie Protocol"
-  },
-  {
     "id": "genius",
     "symbol": "geni",
     "name": "Genius"
@@ -36103,6 +36083,11 @@
     "id": "gold-token",
     "symbol": "gldt",
     "name": "Gold Token"
+  },
+  {
+    "id": "gold-token-sa-dgld-tokenized-gold",
+    "symbol": "dgld",
+    "name": "Gold Token SA DGLD Tokenized Gold"
   },
   {
     "id": "gold-xstock",
@@ -42605,11 +42590,6 @@
     "name": "Janet"
   },
   {
-    "id": "janitooor",
-    "symbol": "$jani",
-    "name": "janitooor"
-  },
-  {
     "id": "janitor",
     "symbol": "janitor",
     "name": "Janitor"
@@ -43008,11 +42988,6 @@
     "id": "jiwa-lucky-frog",
     "symbol": "jiwa",
     "name": "Jiwa Lucky Frog | 吉蛙"
-  },
-  {
-    "id": "jizzrocket",
-    "symbol": "jizz",
-    "name": "JizzRocket"
   },
   {
     "id": "jjmoji",
@@ -45265,6 +45240,11 @@
     "name": "Kochi Ken ETH"
   },
   {
+    "id": "kodiak-2",
+    "symbol": "kdk",
+    "name": "Kodiak"
+  },
+  {
     "id": "kofi-aptos",
     "symbol": "kapt",
     "name": "Kofi Aptos"
@@ -46113,11 +46093,6 @@
     "id": "lab",
     "symbol": "lab",
     "name": "LAB"
-  },
-  {
-    "id": "label-foundation",
-    "symbol": "lbl",
-    "name": "LABEL AI"
   },
   {
     "id": "labradorbitcoin",
@@ -51525,11 +51500,6 @@
     "name": "Melon Dog"
   },
   {
-    "id": "melos-studio",
-    "symbol": "melos",
-    "name": "Melos Studio"
-  },
-  {
     "id": "member",
     "symbol": "member",
     "name": "member"
@@ -51740,11 +51710,6 @@
     "name": "Meme Moguls"
   },
   {
-    "id": "meme-network",
-    "symbol": "meme",
-    "name": "Meme Network"
-  },
-  {
     "id": "memento-mori",
     "symbol": "mori",
     "name": "MEMENTO•MORI (Runes)"
@@ -51818,11 +51783,6 @@
     "id": "memestrategy",
     "symbol": "memestr",
     "name": "MemeStrategy"
-  },
-  {
-    "id": "memes-vs-undead",
-    "symbol": "mvu",
-    "name": "Memes vs Undead"
   },
   {
     "id": "memetern",
@@ -52773,11 +52733,6 @@
     "id": "miaocoin",
     "symbol": "miao",
     "name": "MIAOCoin"
-  },
-  {
-    "id": "miaswap",
-    "symbol": "mia",
-    "name": "MiaSwap"
   },
   {
     "id": "micdrop",
@@ -62010,6 +61965,11 @@
     "name": "pBTC35A"
   },
   {
+    "id": "pcgamefi",
+    "symbol": "pcgamefi",
+    "name": "PCGAMEFI"
+  },
+  {
     "id": "pchain",
     "symbol": "pi",
     "name": "Plian"
@@ -63850,6 +63810,11 @@
     "name": "Pixie"
   },
   {
+    "id": "pixie-dust",
+    "symbol": "dust",
+    "name": "Pixie Dust"
+  },
+  {
     "id": "pixocracy",
     "symbol": "pix",
     "name": "Pixocracy"
@@ -65468,6 +65433,11 @@
     "id": "pre",
     "symbol": "pre",
     "name": "Pre"
+  },
+  {
+    "id": "precious-metals-usd",
+    "symbol": "pmusd",
+    "name": "Precious Metals USD"
   },
   {
     "id": "precipitate-ai",
@@ -71885,6 +71855,11 @@
     "name": "Scopuly"
   },
   {
+    "id": "scor",
+    "symbol": "scor",
+    "name": "Scor"
+  },
+  {
     "id": "scorai",
     "symbol": "scorai",
     "name": "Staking Compound ORAI"
@@ -73963,6 +73938,11 @@
     "id": "skill-issue",
     "symbol": "skill",
     "name": "Skill Issue"
+  },
+  {
+    "id": "skill-stacker",
+    "symbol": "stkr",
+    "name": "Skill Stacker"
   },
   {
     "id": "ski-mask-cat",
@@ -76135,6 +76115,11 @@
     "name": "Space"
   },
   {
+    "id": "space-4",
+    "symbol": "space",
+    "name": "Space"
+  },
+  {
     "id": "space-and-time",
     "symbol": "sxt",
     "name": "Space and Time"
@@ -76816,11 +76801,6 @@
   },
   {
     "id": "spurdo-sparde",
-    "symbol": "spurdo",
-    "name": "Spurdo Spärde"
-  },
-  {
-    "id": "spurdo-sparde-2",
     "symbol": "spurdo",
     "name": "Spurdo Spärde"
   },
@@ -86040,11 +86020,6 @@
     "name": "USDB"
   },
   {
-    "id": "usd-bit",
-    "symbol": "usdbit",
-    "name": "USD BIT"
-  },
-  {
     "id": "usdbr",
     "symbol": "usdbr",
     "name": "USDbr"
@@ -91788,6 +91763,11 @@
     "id": "wrapped-parasail-staked-peaq",
     "symbol": "wstpeaq",
     "name": "Wrapped Parasail Staked PEAQ"
+  },
+  {
+    "id": "wrapped-parex",
+    "symbol": "wprx",
+    "name": "Wrapped PRX"
   },
   {
     "id": "wrapped-paris-saint-germain-kayen",
