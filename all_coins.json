@@ -285,6 +285,11 @@
     "name": "1"
   },
   {
+    "id": "1-year-can-change-your-life",
+    "symbol": "year",
+    "name": "1 year can change your life"
+  },
+  {
     "id": "2004-pepe",
     "symbol": "bog",
     "name": "2004 PEPE"
@@ -10246,7 +10251,7 @@
   },
   {
     "id": "bianqiche",
-    "symbol": "币安汽车",
+    "symbol": "币��汽车",
     "name": "币安汽车 (Bianqiche)"
   },
   {
@@ -12473,11 +12478,6 @@
     "id": "blubi",
     "symbol": "blubi",
     "name": "Blubi"
-  },
-  {
-    "id": "blue-2",
-    "symbol": "blue",
-    "name": "Blue"
   },
   {
     "id": "blue-3",
@@ -17052,7 +17052,7 @@
   {
     "id": "celium",
     "symbol": "sn51",
-    "name": "Celium"
+    "name": "lium"
   },
   {
     "id": "cellar",
@@ -17283,11 +17283,6 @@
     "id": "cgai",
     "symbol": "cgai",
     "name": "CGAI"
-  },
-  {
-    "id": "cgeth-hashkey-cloud",
-    "symbol": "cgeth.hashkey",
-    "name": "cgETH Hashkey Cloud"
   },
   {
     "id": "cghs",
@@ -17668,6 +17663,11 @@
     "id": "chasm-ai",
     "symbol": "cai",
     "name": "Chasm"
+  },
+  {
+    "id": "chat",
+    "symbol": "chat",
+    "name": "chat"
   },
   {
     "id": "chatgpt-cat",
@@ -20962,7 +20962,7 @@
   {
     "id": "cross-2",
     "symbol": "cross",
-    "name": "Cross"
+    "name": "CROSS"
   },
   {
     "id": "cross-chain-degen-dao",
@@ -28750,11 +28750,6 @@
     "name": "Energy Dollar"
   },
   {
-    "id": "energy-token",
-    "symbol": "nrg",
-    "name": "Energy Token"
-  },
-  {
     "id": "energy-web-token",
     "symbol": "ewt",
     "name": "Energy Web"
@@ -33763,11 +33758,6 @@
     "id": "gamee",
     "symbol": "gmee",
     "name": "GAMEE"
-  },
-  {
-    "id": "gamefantasystar",
-    "symbol": "gfs",
-    "name": "GameFantasyStar"
   },
   {
     "id": "game-fantasy-token",
@@ -38945,6 +38935,11 @@
     "name": "HodlAssets"
   },
   {
+    "id": "hodl-boyz",
+    "symbol": "hodl",
+    "name": "HODL BOYZ"
+  },
+  {
     "id": "hodl-coin",
     "symbol": "hodl",
     "name": "HODL Coin"
@@ -43135,6 +43130,11 @@
     "name": "Juice"
   },
   {
+    "id": "juice-3",
+    "symbol": "juice",
+    "name": "JUICE"
+  },
+  {
     "id": "juicebox",
     "symbol": "jbx",
     "name": "Juicebox"
@@ -45415,11 +45415,6 @@
     "name": "kpk"
   },
   {
-    "id": "kpop",
-    "symbol": "kpop",
-    "name": "KPOP"
-  },
-  {
     "id": "k-pop-click-coin",
     "symbol": "kpc",
     "name": "K-POP CLICK COIN"
@@ -47180,6 +47175,11 @@
     "name": "Lifeform"
   },
   {
+    "id": "life-usd",
+    "symbol": "lusd",
+    "name": "LIFE USD"
+  },
+  {
     "id": "lifi",
     "symbol": "lifi",
     "name": "LIFI"
@@ -47573,6 +47573,11 @@
     "id": "liquid",
     "symbol": "◯",
     "name": "Liquid"
+  },
+  {
+    "id": "liquid-2",
+    "symbol": "liquid",
+    "name": "liquid"
   },
   {
     "id": "liquid-agent",
@@ -48900,6 +48905,11 @@
     "name": "Lulu the Ostrich"
   },
   {
+    "id": "lumen",
+    "symbol": "lumen",
+    "name": "LUMEN"
+  },
+  {
     "id": "lumenswap",
     "symbol": "lsp",
     "name": "Lumenswap"
@@ -50133,6 +50143,11 @@
     "id": "mantra-dao",
     "symbol": "om",
     "name": "MANTRA"
+  },
+  {
+    "id": "mantra-usd",
+    "symbol": "mantrausd",
+    "name": "MANTRA USD"
   },
   {
     "id": "manyu",
@@ -57880,6 +57895,11 @@
     "name": "Normie"
   },
   {
+    "id": "normie-4",
+    "symbol": "normie",
+    "name": "Normie"
+  },
+  {
     "id": "normilio",
     "symbol": "normilio",
     "name": "Normilio"
@@ -59243,11 +59263,6 @@
     "id": "omnis-genesis-by-virtuals",
     "symbol": "omni",
     "name": "Omnis Genesis by Virtuals"
-  },
-  {
-    "id": "omnitensor",
-    "symbol": "omnit",
-    "name": "OmniTensor"
   },
   {
     "id": "omnity-network-bridged-ckbtc",
@@ -61283,11 +61298,6 @@
     "id": "paragonsdao",
     "symbol": "pdt",
     "name": "ParagonsDAO"
-  },
-  {
-    "id": "paragon-tweaks",
-    "symbol": "prgn",
-    "name": "Paragon Tweaks"
   },
   {
     "id": "parallax-2",
@@ -77935,11 +77945,6 @@
     "name": "stonks"
   },
   {
-    "id": "stonksdao",
-    "symbol": "stonks",
-    "name": "STONKSDAO"
-  },
-  {
     "id": "stonks-on-eth",
     "symbol": "stonks",
     "name": "Stonks on ETH"
@@ -81895,6 +81900,11 @@
     "name": "the void"
   },
   {
+    "id": "the-white-whale",
+    "symbol": "whitewhale",
+    "name": "The White Whale"
+  },
+  {
     "id": "the-winkyverse",
     "symbol": "wnk",
     "name": "Winkies"
@@ -85608,11 +85618,6 @@
     "id": "uptos",
     "symbol": "uptos",
     "name": "UPTOS"
-  },
-  {
-    "id": "upup-space",
-    "symbol": "upp",
-    "name": "Upup Space"
   },
   {
     "id": "upvember",
