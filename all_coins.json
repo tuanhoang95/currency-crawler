@@ -1580,6 +1580,11 @@
     "name": "Ace Data Cloud"
   },
   {
+    "id": "ace-data-cloud-2",
+    "symbol": "ace",
+    "name": "Ace Data Cloud"
+  },
+  {
     "id": "acent",
     "symbol": "ace",
     "name": "Acent"
@@ -2653,11 +2658,6 @@
     "id": "ai-dev-agent",
     "symbol": "aidev",
     "name": "AI Dev Agent"
-  },
-  {
-    "id": "aidi-finance-2",
-    "symbol": "aidi",
-    "name": "Aidi Finance"
   },
   {
     "id": "ai-factory",
@@ -4845,11 +4845,6 @@
     "name": "Anthropic PreStocks"
   },
   {
-    "id": "anti-goatse",
-    "symbol": "ag",
-    "name": "Anti-Goatse"
-  },
-  {
     "id": "antimatter",
     "symbol": "tune",
     "name": "Bitune"
@@ -6995,11 +6990,6 @@
     "name": "Autoincentive"
   },
   {
-    "id": "autolayer",
-    "symbol": "lay3r",
-    "name": "Autolayer"
-  },
-  {
     "id": "automata",
     "symbol": "ata",
     "name": "Automata"
@@ -8378,11 +8368,6 @@
     "id": "bakkt",
     "symbol": "bakkt",
     "name": "BAKKT"
-  },
-  {
-    "id": "baklava",
-    "symbol": "bava",
-    "name": "Baklava"
   },
   {
     "id": "bakso",
@@ -9950,6 +9935,11 @@
     "name": "BEPE"
   },
   {
+    "id": "bepe-3",
+    "symbol": "bepe",
+    "name": "BEPE"
+  },
+  {
     "id": "bepro-network",
     "symbol": "lx",
     "name": "LayerX"
@@ -10251,7 +10241,7 @@
   },
   {
     "id": "bianqiche",
-    "symbol": "币��汽车",
+    "symbol": "币安汽车",
     "name": "币安汽车 (Bianqiche)"
   },
   {
@@ -10928,11 +10918,6 @@
     "id": "biometric-financial",
     "symbol": "biofi",
     "name": "Biometric Financial"
-  },
-  {
-    "id": "bionergy",
-    "symbol": "bio",
-    "name": "Bionergy"
   },
   {
     "id": "biopassport",
@@ -12985,6 +12970,11 @@
     "name": "Bobo on SOL"
   },
   {
+    "id": "bobo-the-base",
+    "symbol": "bobo",
+    "name": "Bobo the Base"
+  },
+  {
     "id": "bobo-the-bear",
     "symbol": "bobo",
     "name": "Bobo the Bear"
@@ -14205,11 +14195,6 @@
     "name": "Brevis"
   },
   {
-    "id": "brewlabs-2",
-    "symbol": "brew",
-    "name": "Brewlabs"
-  },
-  {
     "id": "brewski",
     "symbol": "brewski",
     "name": "Brewski"
@@ -14553,11 +14538,6 @@
     "id": "bridged-wrapped-bitcoin-starkgate",
     "symbol": "wbtc",
     "name": "Bridged Wrapped Bitcoin (StarkGate)"
-  },
-  {
-    "id": "bridged-wrapped-bitcoin-ton-bridge",
-    "symbol": "jwbtc",
-    "name": "Bridged Wrapped Bitcoin (TON Bridge)"
   },
   {
     "id": "bridged-wrapped-bitcoin-worldchain",
@@ -22060,11 +22040,6 @@
     "name": "Cypher"
   },
   {
-    "id": "cypher-ai-2",
-    "symbol": "cypher",
-    "name": "Cypher AI"
-  },
-  {
     "id": "cypher-app",
     "symbol": "cypher",
     "name": "Cypher App"
@@ -24013,11 +23988,6 @@
     "id": "desearch",
     "symbol": "sn22",
     "name": "Desearch"
-  },
-  {
-    "id": "desend-ai",
-    "symbol": "dsai",
-    "name": "DeSend Ai"
   },
   {
     "id": "desk",
@@ -39480,6 +39450,11 @@
     "name": "HOUSE"
   },
   {
+    "id": "house-3",
+    "symbol": "auction",
+    "name": "House"
+  },
+  {
     "id": "housecoin-2",
     "symbol": "house",
     "name": "Housecoin"
@@ -44475,6 +44450,11 @@
     "name": "Kindness For The Soul SOUL"
   },
   {
+    "id": "kindsoul",
+    "symbol": "kns",
+    "name": "KindSoul"
+  },
+  {
     "id": "kine-protocol",
     "symbol": "kine",
     "name": "Kine Protocol"
@@ -48675,6 +48655,11 @@
     "name": "Love Monster"
   },
   {
+    "id": "love-you-my-dear-see-you-tomorrow",
+    "symbol": "爱你老己",
+    "name": "爱你老己 明天见 (Love you, my dear. See you tomorrow.)"
+  },
+  {
     "id": "lowcap",
     "symbol": "lowcap",
     "name": "LOWCAP"
@@ -49353,11 +49338,6 @@
     "id": "mad-meerkat-optimizer",
     "symbol": "mmo",
     "name": "Mad Meerkat Optimizer"
-  },
-  {
-    "id": "madonna-del-gatto",
-    "symbol": "gatto",
-    "name": "Madonna del gatto"
   },
   {
     "id": "mad-pepe",
@@ -51940,11 +51920,6 @@
     "name": "Meta BSC"
   },
   {
-    "id": "metabusdcoin",
-    "symbol": "mlz",
-    "name": "MetaLabz"
-  },
-  {
     "id": "metacade",
     "symbol": "mcade",
     "name": "Metacade"
@@ -53900,11 +53875,6 @@
     "name": "MonadPrinter"
   },
   {
-    "id": "monai",
-    "symbol": "monai",
-    "name": "Monai"
-  },
-  {
     "id": "monat-money",
     "symbol": "monat",
     "name": "Monat Money"
@@ -55208,11 +55178,6 @@
     "id": "muhdo-hub",
     "symbol": "dna",
     "name": "Muhdo Hub"
-  },
-  {
-    "id": "mula-ai",
-    "symbol": "mula",
-    "name": "Mula AI"
   },
   {
     "id": "mullenarmy",
@@ -57960,11 +57925,6 @@
     "name": "UNO"
   },
   {
-    "id": "not-a-chill-guy",
-    "symbol": "phillip",
-    "name": "NOT A CHILL GUY"
-  },
-  {
     "id": "not-a-cult",
     "symbol": "cult",
     "name": "NOT A CULT"
@@ -59938,11 +59898,6 @@
     "id": "option-room",
     "symbol": "room",
     "name": "OptionRoom"
-  },
-  {
-    "id": "optionsai",
-    "symbol": "option",
-    "name": "OptionsAI"
   },
   {
     "id": "optopia-ai",
@@ -65663,11 +65618,6 @@
     "id": "project-xeno",
     "symbol": "gxe",
     "name": "PROJECT XENO"
-  },
-  {
-    "id": "prol-ai",
-    "symbol": "prol",
-    "name": "Prol AI"
   },
   {
     "id": "prometeus",
@@ -75750,6 +75700,11 @@
     "name": "SoSoValue"
   },
   {
+    "id": "soter",
+    "symbol": "soter",
+    "name": "Soter"
+  },
+  {
     "id": "soulbazaar",
     "symbol": "$souls",
     "name": "SoulBazaar"
@@ -84675,6 +84630,11 @@
     "name": "Udinese Calcio Fan Token"
   },
   {
+    "id": "udog",
+    "symbol": "udog",
+    "name": "UDOG"
+  },
+  {
     "id": "uerii",
     "symbol": "uerii",
     "name": "UERII"
@@ -85763,6 +85723,11 @@
     "id": "usd1-wlfi",
     "symbol": "usd1",
     "name": "USD1"
+  },
+  {
+    "id": "usd-2",
+    "symbol": "usd+",
+    "name": "USD+"
   },
   {
     "id": "usd2-usd2",
@@ -86933,11 +86898,6 @@
     "id": "vera-ai",
     "symbol": "vera",
     "name": "Vera AI"
-  },
-  {
-    "id": "veraone",
-    "symbol": "vro",
-    "name": "VeraOne"
   },
   {
     "id": "verasity",
@@ -88655,11 +88615,6 @@
     "name": "Web3Frontier"
   },
   {
-    "id": "web3-no-value",
-    "symbol": "w3n",
-    "name": "Web3 No Value"
-  },
-  {
     "id": "web3shot",
     "symbol": "w3s",
     "name": "Web3Shot"
@@ -89250,11 +89205,6 @@
     "name": "White Monster"
   },
   {
-    "id": "white-mountain-ermine",
-    "symbol": "ermine",
-    "name": "White Mountain Ermine"
-  },
-  {
     "id": "white-rat",
     "symbol": "wr",
     "name": "White Rat"
@@ -89693,6 +89643,11 @@
     "id": "wojakpepe",
     "symbol": "wope",
     "name": "WojakPepe"
+  },
+  {
+    "id": "woka-network",
+    "symbol": "woka",
+    "name": "Woka Network"
   },
   {
     "id": "woke-chain",
@@ -91093,11 +91048,6 @@
     "id": "wrapped-gsys-bluelotusdao",
     "symbol": "wgsys",
     "name": "Wrapped GSYS (BlueLotusDAO)"
-  },
-  {
-    "id": "wrapped-h1",
-    "symbol": "wh1",
-    "name": "Wrapped H1"
   },
   {
     "id": "wrapped-hbar",
