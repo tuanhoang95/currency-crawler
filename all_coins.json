@@ -3375,11 +3375,6 @@
     "name": "Aldrin"
   },
   {
-    "id": "alea",
-    "symbol": "alea",
-    "name": "Alea"
-  },
-  {
     "id": "aleo",
     "symbol": "aleo",
     "name": "ALEO"
@@ -12075,6 +12070,11 @@
     "name": "Blind Boxes"
   },
   {
+    "id": "blindfold-finance",
+    "symbol": "blind",
+    "name": "Blindfold Finance"
+  },
+  {
     "id": "blink-402",
     "symbol": "b402",
     "name": "Blink-402"
@@ -12978,11 +12978,6 @@
     "id": "bobo-the-bear",
     "symbol": "bobo",
     "name": "Bobo the Bear"
-  },
-  {
-    "id": "bobs",
-    "symbol": "bobs",
-    "name": "BOBS"
   },
   {
     "id": "bob-the-snek",
@@ -21810,11 +21805,6 @@
     "name": "Cute Cat Candle"
   },
   {
-    "id": "cute-cthulhu",
-    "symbol": "cthulhu",
-    "name": "Cute Cthulhu"
-  },
-  {
     "id": "cute-style",
     "symbol": "cutie",
     "name": "Cute Style"
@@ -22718,11 +22708,6 @@
     "id": "datboi",
     "symbol": "datboi",
     "name": "DATBOI"
-  },
-  {
-    "id": "dat-boi",
-    "symbol": "waddup",
-    "name": "Dat Boi"
   },
   {
     "id": "dat-boi-2",
@@ -27188,11 +27173,6 @@
     "id": "ducatus",
     "symbol": "ducx",
     "name": "DucatusX"
-  },
-  {
-    "id": "duck",
-    "symbol": "duck",
-    "name": "DUCK"
   },
   {
     "id": "duck-ai",
@@ -34675,11 +34655,6 @@
     "name": "Ghibli Kapibala"
   },
   {
-    "id": "ghibli-michi",
-    "symbol": "gmichi",
-    "name": "ghibli michi"
-  },
-  {
     "id": "ghibli-mubarak",
     "symbol": "gmubarak",
     "name": "Ghibli Mubarak"
@@ -37815,11 +37790,6 @@
     "name": "Hasbulla's Cat"
   },
   {
-    "id": "hasbulla-s-chicken",
-    "symbol": "conor",
-    "name": "Hasbulla's Chicken"
-  },
-  {
     "id": "hash-2",
     "symbol": "hash",
     "name": "Provenance Blockchain"
@@ -39795,16 +39765,6 @@
     "name": "HYDRA"
   },
   {
-    "id": "hydra-bridged-usdc-hydra",
-    "symbol": "usdc",
-    "name": "Hydra Bridged USDC (Hydra)"
-  },
-  {
-    "id": "hydrachain-bridged-wbtc-hydra",
-    "symbol": "wbtc",
-    "name": "Hydrachain Bridged WBTC (Hydra)"
-  },
-  {
     "id": "hydradao",
     "symbol": "hydra",
     "name": "HydraDAO"
@@ -39988,6 +39948,11 @@
     "id": "hyperlane-bridged-sol-eclipse",
     "symbol": "sol",
     "name": "Hyperlane Bridged SOL (Eclipse)"
+  },
+  {
+    "id": "hyperlane-bridged-usdc-mantra-evm",
+    "symbol": "usdc",
+    "name": "Hyperlane Bridged USDC (Mantra EVM)"
   },
   {
     "id": "hyperlane-bridged-usdt-radix",
@@ -42713,6 +42678,11 @@
     "id": "jfin-coin",
     "symbol": "jfin",
     "name": "JFIN Coin"
+  },
+  {
+    "id": "jggl",
+    "symbol": "jggl",
+    "name": "JGGL"
   },
   {
     "id": "jiffpom",
@@ -45765,6 +45735,11 @@
     "name": "KYRA"
   },
   {
+    "id": "kyrgyz-som-stablecoin",
+    "symbol": "kgst",
+    "name": "Kyrgyz Som Stablecoin"
+  },
+  {
     "id": "kyros",
     "symbol": "kyros",
     "name": "Kyros"
@@ -46278,6 +46253,11 @@
     "id": "launchpool",
     "symbol": "lpool",
     "name": "Launchpool"
+  },
+  {
+    "id": "launchr-2",
+    "symbol": "launchr",
+    "name": "Launchr"
   },
   {
     "id": "launchtokenbot",
@@ -47543,6 +47523,11 @@
     "id": "liora",
     "symbol": "liora",
     "name": "Liora"
+  },
+  {
+    "id": "liqcom",
+    "symbol": "lico",
+    "name": "Liqcom"
   },
   {
     "id": "liq-protocol",
@@ -53765,6 +53750,11 @@
     "name": "Molecular Entity"
   },
   {
+    "id": "molecular-token",
+    "symbol": "mole",
+    "name": "Molecular Token"
+  },
+  {
     "id": "molecule-3",
     "symbol": "molecule",
     "name": "Molecule"
@@ -57365,11 +57355,6 @@
     "name": "Nillion"
   },
   {
-    "id": "nimbora-staked-starknet",
-    "symbol": "sstrk",
-    "name": "Nimbora Staked STRK"
-  },
-  {
     "id": "nimbus-ai",
     "symbol": "nai",
     "name": "Nimbus AI"
@@ -59385,11 +59370,6 @@
     "name": "One Path"
   },
   {
-    "id": "one-play",
-    "symbol": "op",
-    "name": "One Play"
-  },
-  {
     "id": "one-punch-cat",
     "symbol": "punch",
     "name": "ONE PUNCH CAT"
@@ -60308,11 +60288,6 @@
     "id": "origami-ibgt-auto-compounder",
     "symbol": "oribgt",
     "name": "Origami iBGT Auto-Compounder"
-  },
-  {
-    "id": "origent-ai",
-    "symbol": "ori",
-    "name": "Origent Ai"
   },
   {
     "id": "origin-dollar",
@@ -62798,11 +62773,6 @@
     "id": "phantom-of-the-kill-alternative-imitation-oshi",
     "symbol": "oshi",
     "name": "OSHI3"
-  },
-  {
-    "id": "phantom-protocol",
-    "symbol": "phm",
-    "name": "Phantom Protocol"
   },
   {
     "id": "phantom-staked-sol",
@@ -67973,6 +67943,11 @@
     "id": "real-time-data-by-masa",
     "symbol": "sn42",
     "name": "Real-Time Data by Masa"
+  },
+  {
+    "id": "real-token",
+    "symbol": "real",
+    "name": "Real Token"
   },
   {
     "id": "realtoken-ecosystem-governance",
@@ -73398,6 +73373,11 @@
     "id": "silver-4",
     "symbol": "silver",
     "name": "SILVER"
+  },
+  {
+    "id": "silver-coin-2",
+    "symbol": "silver",
+    "name": "silver coin"
   },
   {
     "id": "silvercoin-2",
@@ -79565,11 +79545,6 @@
     "name": "Synapse Bridged wAVAX (DFK Chain)"
   },
   {
-    "id": "synapse-network-2",
-    "symbol": "zksnp",
-    "name": "Synapse Network"
-  },
-  {
     "id": "synapz",
     "symbol": "synapz",
     "name": "SYNAPZ"
@@ -81108,6 +81083,11 @@
     "id": "the-black-sheep",
     "symbol": "shigga",
     "name": "the black sheep"
+  },
+  {
+    "id": "the-black-whale",
+    "symbol": "blackwhale",
+    "name": "The Black Whale"
   },
   {
     "id": "the-blinking-ai-cat-catfather",
@@ -83848,6 +83828,11 @@
     "id": "tron",
     "symbol": "trx",
     "name": "TRON"
+  },
+  {
+    "id": "tronbank",
+    "symbol": "tbk",
+    "name": "TronBank"
   },
   {
     "id": "tron-bsc",
@@ -90590,11 +90575,6 @@
     "name": "Wrapped Broadcom xStock"
   },
   {
-    "id": "wrapped-bsc-young-boys-kayen",
-    "symbol": "wybo",
-    "name": "Wrapped BSC Young Boys (Kayen)"
-  },
-  {
     "id": "wrapped-btc-21-co",
     "symbol": "21btc",
     "name": "21.co Wrapped BTC"
@@ -91430,6 +91410,11 @@
     "name": "Wrapped OKB"
   },
   {
+    "id": "wrapped-om",
+    "symbol": "wom",
+    "name": "Wrapped OM"
+  },
+  {
     "id": "wrapped-one",
     "symbol": "wone",
     "name": "Wrapped One"
@@ -91623,11 +91608,6 @@
     "id": "wrapped-shido",
     "symbol": "wshido",
     "name": "Wrapped Shido"
-  },
-  {
-    "id": "wrapped-sint-truidense-voetbalvereniging-kayen",
-    "symbol": "wstv",
-    "name": "Wrapped Sint-Truidense Voetbalvereniging (Kayen)"
   },
   {
     "id": "wrapped-sl-benfica-kayen",
@@ -93378,11 +93358,6 @@
     "id": "yes-3",
     "symbol": "yes",
     "name": "YES"
-  },
-  {
-    "id": "yes-but",
-    "symbol": "yesbut",
-    "name": "Yes, But"
   },
   {
     "id": "yes-chad",
