@@ -2710,6 +2710,11 @@
     "name": "AI Judge Companion"
   },
   {
+    "id": "aiko-by-elizaos",
+    "symbol": "aiko",
+    "name": "Aiko by ElizaOS"
+  },
+  {
     "id": "ailayer-token",
     "symbol": "ail",
     "name": "AILayer Token"
@@ -6800,11 +6805,6 @@
     "name": "Aura Finance"
   },
   {
-    "id": "auralex-ai",
-    "symbol": "aura",
-    "name": "Auralex AI"
-  },
-  {
     "id": "aura-network",
     "symbol": "aura",
     "name": "Aura Network"
@@ -10860,6 +10860,11 @@
     "name": "Bingo"
   },
   {
+    "id": "bingold",
+    "symbol": "bigod",
+    "name": "Bingold"
+  },
+  {
     "id": "bingus-the-cat",
     "symbol": "bingus",
     "name": "Bingus The Cat"
@@ -12355,11 +12360,6 @@
     "name": "BlockyBoy by Matt Furie"
   },
   {
-    "id": "blocsport-one",
-    "symbol": "bls",
-    "name": "Metacourt"
-  },
-  {
     "id": "blocx-2",
     "symbol": "blocx",
     "name": "BLOCX."
@@ -13518,6 +13518,11 @@
     "id": "book-of-bitcoin",
     "symbol": "boob",
     "name": "Book Of Bitcoin"
+  },
+  {
+    "id": "book-of-bsc",
+    "symbol": "bob",
+    "name": "Book Of BSC"
   },
   {
     "id": "book-of-dyor",
@@ -18735,11 +18740,6 @@
     "name": "Claynosaurz Strategy"
   },
   {
-    "id": "clayton",
-    "symbol": "clay",
-    "name": "Clayton"
-  },
-  {
     "id": "clbtc",
     "symbol": "clbtc",
     "name": "clBTC"
@@ -19498,6 +19498,11 @@
     "id": "collab-land",
     "symbol": "collab",
     "name": "Collab.Land"
+  },
+  {
+    "id": "collabrachain",
+    "symbol": "colla",
+    "name": "CollabraChain"
   },
   {
     "id": "collateralized-debt-token",
@@ -20688,11 +20693,6 @@
     "id": "creatorgen",
     "symbol": "creator",
     "name": "CreatorGen"
-  },
-  {
-    "id": "credbull",
-    "symbol": "cbl",
-    "name": "Credbull"
   },
   {
     "id": "cred-coin-pay",
@@ -22830,11 +22830,6 @@
     "name": "DCAI"
   },
   {
-    "id": "dcntrl-network",
-    "symbol": "dcnx",
-    "name": "DCNTRL Network"
-  },
-  {
     "id": "dcomy",
     "symbol": "dco",
     "name": "DCOMY"
@@ -23873,11 +23868,6 @@
     "id": "depin-baby",
     "symbol": "depin",
     "name": "DePIN Baby"
-  },
-  {
-    "id": "depinet",
-    "symbol": "depin",
-    "name": "Depinet"
   },
   {
     "id": "depins",
@@ -33555,11 +33545,6 @@
     "name": "gAInzy"
   },
   {
-    "id": "gaisha-ai",
-    "symbol": "gaisha",
-    "name": "Gaisha AI"
-  },
-  {
     "id": "gaj",
     "symbol": "gaj",
     "name": "Gaj Finance"
@@ -34348,6 +34333,11 @@
     "id": "gemxbt",
     "symbol": "gemxbt",
     "name": "gemxbt"
+  },
+  {
+    "id": "gencity",
+    "symbol": "gencit",
+    "name": "GenCity"
   },
   {
     "id": "genealpha",
@@ -39443,11 +39433,6 @@
     "id": "hover-cat",
     "symbol": "hcat",
     "name": "Hover Cat"
-  },
-  {
-    "id": "how-did-you-make-it",
-    "symbol": "crypto",
-    "name": "How Did You Make It?"
   },
   {
     "id": "howinu",
@@ -44580,6 +44565,11 @@
     "name": "Kinto"
   },
   {
+    "id": "kinton-the-frog",
+    "symbol": "kinton",
+    "name": "kinton the frog"
+  },
+  {
     "id": "kintsugi",
     "symbol": "kint",
     "name": "Kintsugi"
@@ -46140,6 +46130,11 @@
     "name": "Larp AI"
   },
   {
+    "id": "larpball",
+    "symbol": "larpball",
+    "name": "larpball"
+  },
+  {
     "id": "larp-detective-agency",
     "symbol": "$agency",
     "name": "Larp Detective Agency"
@@ -47603,11 +47598,6 @@
     "id": "liquid-hype-yield",
     "symbol": "liquidhype",
     "name": "Liquid HYPE Yield"
-  },
-  {
-    "id": "liquidifty",
-    "symbol": "lqt",
-    "name": "Lifty"
   },
   {
     "id": "liquidity",
@@ -50515,11 +50505,6 @@
     "name": "Mask Network"
   },
   {
-    "id": "masknumber",
-    "symbol": "mask",
-    "name": "MaskNumber"
-  },
-  {
     "id": "masq",
     "symbol": "masq",
     "name": "MASQ"
@@ -51323,11 +51308,6 @@
     "id": "meme-brc-20",
     "symbol": "meme",
     "name": "MEME (Ordinals)"
-  },
-  {
-    "id": "memecast-ai",
-    "symbol": "mcai",
-    "name": "MEMECAST.AI"
   },
   {
     "id": "memechan",
@@ -68730,11 +68710,6 @@
     "name": "Resolv wstUSR"
   },
   {
-    "id": "resource-protocol",
-    "symbol": "source",
-    "name": "ReSource Protocol"
-  },
-  {
     "id": "respect-the-pump",
     "symbol": "pump",
     "name": "Respect The Pump"
@@ -72885,6 +72860,11 @@
     "name": "Shinobi"
   },
   {
+    "id": "shiny-rock",
+    "symbol": "rock",
+    "name": "shiny rock"
+  },
+  {
     "id": "shiro-neko-2",
     "symbol": "shiro",
     "name": "Shiro Neko"
@@ -76360,11 +76340,6 @@
     "name": "Sponge"
   },
   {
-    "id": "spookyshiba-2",
-    "symbol": "spky",
-    "name": "SpookyShiba"
-  },
-  {
     "id": "spookyswap",
     "symbol": "boo",
     "name": "SpookySwap [Old]"
@@ -77993,6 +77968,11 @@
     "id": "straitsx-xusd",
     "symbol": "xusd",
     "name": "StraitsX XUSD"
+  },
+  {
+    "id": "strata-senior-usde",
+    "symbol": "srusde",
+    "name": "Strata Senior USDe"
   },
   {
     "id": "strategic-bitcoin-reserve",
@@ -80600,11 +80580,6 @@
     "name": "Tensora"
   },
   {
-    "id": "tensorhub",
-    "symbol": "thub",
-    "name": "TensorHub"
-  },
-  {
     "id": "tensorium",
     "symbol": "tnsr",
     "name": "Tensorium [OLD]"
@@ -81360,6 +81335,11 @@
     "name": "The Kingdom Coin"
   },
   {
+    "id": "the-krill",
+    "symbol": "krill",
+    "name": "The Krill"
+  },
+  {
     "id": "the-last-job",
     "symbol": "quit",
     "name": "The Last Job"
@@ -81458,6 +81438,11 @@
     "id": "the-night-riders",
     "symbol": "tnr",
     "name": "The Night Riders"
+  },
+  {
+    "id": "the-norman",
+    "symbol": "normie",
+    "name": "The Norman"
   },
   {
     "id": "the-nutting-professor",
@@ -85035,6 +85020,11 @@
     "name": "UniLayer"
   },
   {
+    "id": "unilend-usd",
+    "symbol": "uniusd",
+    "name": "Unilend USD"
+  },
+  {
     "id": "unio-coin",
     "symbol": "unio",
     "name": "Unio Coin"
@@ -86966,8 +86956,8 @@
   },
   {
     "id": "vertek",
-    "symbol": "vrtk",
-    "name": "Vertek"
+    "symbol": "xrs",
+    "name": "Xauras"
   },
   {
     "id": "vertex-protocol",
@@ -90328,11 +90318,6 @@
     "id": "wrapped-apecoin-universal",
     "symbol": "uape",
     "name": "Wrapped ApeCoin (Universal)"
-  },
-  {
-    "id": "wrapped-apollon-limassol-kayen",
-    "symbol": "wapl",
-    "name": "Wrapped Apollon Limassol (Kayen)"
   },
   {
     "id": "wrapped-apple-xstock",
@@ -93978,6 +93963,11 @@
     "id": "yupfun-token",
     "symbol": "yupfun",
     "name": "YUPFUN Token"
+  },
+  {
+    "id": "yurei",
+    "symbol": "yurei",
+    "name": "Yurei"
   },
   {
     "id": "yuru-coin",
