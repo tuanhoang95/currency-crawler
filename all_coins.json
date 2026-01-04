@@ -5430,11 +5430,6 @@
     "name": "Legend of Arcadia"
   },
   {
-    "id": "arcade-2",
-    "symbol": "arc",
-    "name": "Arcade"
-  },
-  {
     "id": "arcade-protocol",
     "symbol": "arcd",
     "name": "Arcade"
@@ -14170,11 +14165,6 @@
     "name": "Bridge402"
   },
   {
-    "id": "bridged-andromeda",
-    "symbol": "sandr",
-    "name": "Bridged Andromeda"
-  },
-  {
     "id": "bridged-arbitrum-lightlink",
     "symbol": "arb.e",
     "name": "Bridged Arbitrum (Lightlink)"
@@ -18025,11 +18015,6 @@
     "name": "Chinau"
   },
   {
-    "id": "chinchilla",
-    "symbol": "chilla",
-    "name": "ChinCHILLa"
-  },
-  {
     "id": "chinese-andy",
     "symbol": "andwu",
     "name": "Chinese Andy"
@@ -21225,6 +21210,11 @@
     "name": "Crypto Journey"
   },
   {
+    "id": "cryptokaleo",
+    "symbol": "cryptokaleo",
+    "name": "cryptokaleo"
+  },
+  {
     "id": "cryptoloots",
     "symbol": "cloots",
     "name": "CryptoLoots"
@@ -22475,11 +22465,6 @@
     "name": "Dasha"
   },
   {
-    "id": "dashfun-coin",
-    "symbol": "dfun",
-    "name": "DashFun Coin"
-  },
-  {
     "id": "dashpay",
     "symbol": "dashpay",
     "name": "DashPay"
@@ -22623,11 +22608,6 @@
     "id": "dawae-3",
     "symbol": "dawae",
     "name": "DaWae"
-  },
-  {
-    "id": "dawg-2",
-    "symbol": "dawg",
-    "name": "dawg"
   },
   {
     "id": "dawg-coin",
@@ -27565,11 +27545,6 @@
     "name": "Ecorpay"
   },
   {
-    "id": "ecoterra",
-    "symbol": "ecoterra",
-    "name": "Ecoterra"
-  },
-  {
     "id": "ecotrader",
     "symbol": "ect",
     "name": "Ecotrader"
@@ -28323,11 +28298,6 @@
     "id": "emorya-finance",
     "symbol": "emr",
     "name": "Emorya Finance"
-  },
-  {
-    "id": "emoticoin-2",
-    "symbol": "emoti",
-    "name": "EMOTICOIN"
   },
   {
     "id": "emotional-support-alligator",
@@ -30683,11 +30653,6 @@
     "id": "fiat24-usd",
     "symbol": "usd24",
     "name": "Fiat24 USD"
-  },
-  {
-    "id": "fibo-token",
-    "symbol": "fibo",
-    "name": "FibSwap DEX"
   },
   {
     "id": "fidelity-digital-interest-token",
@@ -33215,11 +33180,6 @@
     "name": "G"
   },
   {
-    "id": "g8day",
-    "symbol": "g8d",
-    "name": "G8DAY"
-  },
-  {
     "id": "g920",
     "symbol": "g920",
     "name": "G920"
@@ -33683,11 +33643,6 @@
     "id": "gamium",
     "symbol": "gmm",
     "name": "Gamium"
-  },
-  {
-    "id": "gami-world",
-    "symbol": "gami",
-    "name": "GAMI WORLD"
   },
   {
     "id": "gamma-strategies",
@@ -35790,11 +35745,6 @@
     "name": "GOGGLES"
   },
   {
-    "id": "google-tokenized-stock-defichain",
-    "symbol": "dgoogl",
-    "name": "Google Tokenized Stock Defichain"
-  },
-  {
     "id": "goompy",
     "symbol": "goompy",
     "name": "Goompy"
@@ -37633,11 +37583,6 @@
     "id": "havah",
     "symbol": "hvh",
     "name": "HAVAH"
-  },
-  {
-    "id": "haven1",
-    "symbol": "h1",
-    "name": "Haven1"
   },
   {
     "id": "haven1-bridged-coinbase-wrapped-btc",
@@ -42250,6 +42195,11 @@
     "name": "JEJE"
   },
   {
+    "id": "jeje-2",
+    "symbol": "jeje",
+    "name": "jeje"
+  },
+  {
     "id": "jellffishcoin",
     "symbol": "jellyfc",
     "name": "JellfFishCoin"
@@ -43023,6 +42973,11 @@
     "id": "justice-for-iryna",
     "symbol": "iryna",
     "name": "Justice for Iryna"
+  },
+  {
+    "id": "justice-for-marlee",
+    "symbol": "marlee",
+    "name": "Justice for Marlee"
   },
   {
     "id": "justice-for-pizza-guy",
@@ -44925,11 +44880,6 @@
     "name": "CyberKongz"
   },
   {
-    "id": "kong-sui",
-    "symbol": "kong",
-    "name": "KONG SUI"
-  },
-  {
     "id": "kongswap",
     "symbol": "kong",
     "name": "KongSwap"
@@ -46830,11 +46780,6 @@
     "name": "Lifinity"
   },
   {
-    "id": "lift-dollar",
-    "symbol": "usdl",
-    "name": "Lift Dollar"
-  },
-  {
     "id": "lightbeam-courier-coin",
     "symbol": "lbcc",
     "name": "Lightbeam Courier Coin"
@@ -48060,11 +48005,6 @@
     "name": "LoomSync"
   },
   {
-    "id": "loopburn",
-    "symbol": "lbp",
-    "name": "LoopBurn"
-  },
-  {
     "id": "loopcoin",
     "symbol": "lpc",
     "name": "Loopcoin"
@@ -48178,11 +48118,6 @@
     "id": "lorenzo-stbtc",
     "symbol": "stbtc",
     "name": "Lorenzo stBTC"
-  },
-  {
-    "id": "lorenzo-wrapped-bitcoin",
-    "symbol": "enzobtc",
-    "name": "Lorenzo Wrapped Bitcoin"
   },
   {
     "id": "lormhole",
@@ -49338,11 +49273,6 @@
     "id": "maiar",
     "symbol": "maiar",
     "name": "MAIAR"
-  },
-  {
-    "id": "mai-arbitrum",
-    "symbol": "mimatic",
-    "name": "MAI (Arbitrum)"
   },
   {
     "id": "maiar-dex",
@@ -53788,16 +53718,6 @@
     "id": "moocat",
     "symbol": "moocat",
     "name": "MooCat [OLD]"
-  },
-  {
-    "id": "moocat-2",
-    "symbol": "moocat",
-    "name": "MooCat"
-  },
-  {
-    "id": "moocca",
-    "symbol": "moca",
-    "name": "Moocca"
   },
   {
     "id": "moochii",
@@ -59940,6 +59860,11 @@
     "name": "Orochi Network"
   },
   {
+    "id": "orta-chain",
+    "symbol": "orta",
+    "name": "Orta Chain"
+  },
+  {
     "id": "orynth",
     "symbol": "ory",
     "name": "ORYNTH"
@@ -60553,6 +60478,11 @@
     "id": "panchain",
     "symbol": "pc",
     "name": "Panchain"
+  },
+  {
+    "id": "panda-3",
+    "symbol": "panda",
+    "name": "Panda"
   },
   {
     "id": "panda-academy",
@@ -61338,11 +61268,6 @@
     "id": "pear-protocol",
     "symbol": "pear",
     "name": "Pear Protocol"
-  },
-  {
-    "id": "pear-swap",
-    "symbol": "pear",
-    "name": "Pear Swap"
   },
   {
     "id": "pebo",
@@ -73330,6 +73255,11 @@
     "name": "SL Benfica Fan Token"
   },
   {
+    "id": "sleeperbot",
+    "symbol": "zzzz",
+    "name": "SleeperBot"
+  },
+  {
     "id": "sleepless-ai",
     "symbol": "ai",
     "name": "Sleepless AI"
@@ -74838,6 +74768,11 @@
     "id": "soma-finance",
     "symbol": "soma",
     "name": "SOMA.finance"
+  },
+  {
+    "id": "somaliscan",
+    "symbol": "ss",
+    "name": "somaliscan"
   },
   {
     "id": "som-bonkmon-fraud",
@@ -89108,6 +89043,11 @@
     "id": "wolf-2",
     "symbol": "wolf",
     "name": "WOLF"
+  },
+  {
+    "id": "wolfenstein",
+    "symbol": "wolf",
+    "name": "Wolfenstein"
   },
   {
     "id": "wolfi-2",
