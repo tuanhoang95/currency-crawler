@@ -225,6 +225,11 @@
     "name": "1MBABYDOGE"
   },
   {
+    "id": "1-meme-can-change-your-life",
+    "symbol": "meme",
+    "name": "1 meme can change your life"
+  },
+  {
     "id": "1million-nfts",
     "symbol": "1mil",
     "name": "1MillionNFTs"
@@ -7115,6 +7120,11 @@
     "name": "AVC"
   },
   {
+    "id": "avc-2",
+    "symbol": "avc",
+    "name": "AVC"
+  },
+  {
     "id": "aventus",
     "symbol": "avt",
     "name": "Aventus"
@@ -9862,7 +9872,7 @@
   {
     "id": "ber",
     "symbol": "ber",
-    "name": "ber"
+    "name": "BER"
   },
   {
     "id": "berachain-bera",
@@ -10973,11 +10983,6 @@
     "id": "bitbrawl",
     "symbol": "brawl",
     "name": "Brawl AI Layer"
-  },
-  {
-    "id": "bitcanna",
-    "symbol": "bcna",
-    "name": "BitCanna"
   },
   {
     "id": "bitcast",
@@ -13038,11 +13043,6 @@
     "id": "bomber-coin",
     "symbol": "bcoin",
     "name": "Bomb Crypto (BNB)"
-  },
-  {
-    "id": "bomberronin",
-    "symbol": "bomb",
-    "name": "Bomber Ronin"
   },
   {
     "id": "bombie",
@@ -15235,11 +15235,6 @@
     "name": "BUMPCOIN"
   },
   {
-    "id": "bumper",
-    "symbol": "bump",
-    "name": "Bumper"
-  },
-  {
     "id": "bumshaft",
     "symbol": "bumshaft",
     "name": "Bumshaft"
@@ -15458,11 +15453,6 @@
     "id": "buttcoin-4",
     "symbol": "buttcoin",
     "name": "Buttcoin"
-  },
-  {
-    "id": "buttcoin-5",
-    "symbol": "buttcoin",
-    "name": "BUTTCOIN"
   },
   {
     "id": "buttcoin-6",
@@ -22475,11 +22465,6 @@
     "name": "Datagram Network"
   },
   {
-    "id": "datai",
-    "symbol": "datai",
-    "name": "Datai"
-  },
-  {
     "id": "data-lake",
     "symbol": "lake",
     "name": "Data Lake"
@@ -28075,11 +28060,6 @@
     "name": "Elon4AfD"
   },
   {
-    "id": "elon-doge-token",
-    "symbol": "edoge",
-    "name": "ElonDoge.io"
-  },
-  {
     "id": "elon-goat",
     "symbol": "egt",
     "name": "Elon GOAT"
@@ -32210,11 +32190,6 @@
     "name": "France Coin"
   },
   {
-    "id": "france-rev-finance",
-    "symbol": "frf",
-    "name": "FRANCE REV FINANCE"
-  },
-  {
     "id": "frankencoin",
     "symbol": "zchf",
     "name": "Frankencoin"
@@ -32456,11 +32431,6 @@
   },
   {
     "id": "fric",
-    "symbol": "fric",
-    "name": "FRIC"
-  },
-  {
-    "id": "fric-2",
     "symbol": "fric",
     "name": "FRIC"
   },
@@ -34685,6 +34655,11 @@
     "name": "Gleec Coin"
   },
   {
+    "id": "glegle",
+    "symbol": "glegle",
+    "name": "glegle"
+  },
+  {
     "id": "glhfstrategy",
     "symbol": "glhfstr",
     "name": "GLHFStrategy"
@@ -35343,11 +35318,6 @@
     "id": "gold-6",
     "symbol": "$gold",
     "name": "$GOLD"
-  },
-  {
-    "id": "gold-7",
-    "symbol": "gold",
-    "name": "GOLD"
   },
   {
     "id": "gold8",
@@ -36648,11 +36618,6 @@
     "id": "gui-inu",
     "symbol": "gui",
     "name": "Gui Inu"
-  },
-  {
-    "id": "guildfi",
-    "symbol": "gf",
-    "name": "GuildFi"
   },
   {
     "id": "guild-of-guardians",
@@ -43950,6 +43915,11 @@
     "name": "Kilopi"
   },
   {
+    "id": "kilroy-was-here",
+    "symbol": "kilroy",
+    "name": "Kilroy was here"
+  },
+  {
     "id": "kilt-protocol-2",
     "symbol": "kilt",
     "name": "KILT Protocol [OLD]"
@@ -47270,11 +47240,6 @@
     "name": "Liquid Staked SOL"
   },
   {
-    "id": "liquid-staking-derivative",
-    "symbol": "lsd",
-    "name": "Liquid Staking Derivative"
-  },
-  {
     "id": "liquid-staking-token",
     "symbol": "lst",
     "name": "Liquid Staking Token"
@@ -48738,11 +48703,6 @@
     "id": "m2",
     "symbol": "m2",
     "name": "M2"
-  },
-  {
-    "id": "m-2",
-    "symbol": "m",
-    "name": "M by M0"
   },
   {
     "id": "m2-global-wealth-limited-mmx",
@@ -52925,6 +52885,11 @@
     "name": "MAXX AI"
   },
   {
+    "id": "mixoor",
+    "symbol": "mixoor",
+    "name": "Mixoor"
+  },
+  {
     "id": "miya",
     "symbol": "miya",
     "name": "Miya"
@@ -54220,11 +54185,6 @@
     "name": "MORRIS"
   },
   {
-    "id": "morse",
-    "symbol": "morse",
-    "name": "Morse"
-  },
-  {
     "id": "mortgage-coin",
     "symbol": "mortgage",
     "name": "Mortgage Coin"
@@ -54358,11 +54318,6 @@
     "id": "mouse-in-pasta",
     "symbol": "stuck",
     "name": "Mouse In Pasta"
-  },
-  {
-    "id": "mova",
-    "symbol": "mova",
-    "name": "MOVA"
   },
   {
     "id": "mova-2",
@@ -71595,11 +71550,6 @@
     "name": "Shaicoin"
   },
   {
-    "id": "shakaka",
-    "symbol": "shkk",
-    "name": "Shakaka"
-  },
-  {
     "id": "shakey-ai",
     "symbol": "shakey",
     "name": "Shakey AI"
@@ -73333,11 +73283,6 @@
     "id": "smart-layer-network",
     "symbol": "sln",
     "name": "Smart Layer Network"
-  },
-  {
-    "id": "smart-lending-ai",
-    "symbol": "slai",
-    "name": "Smart Lending AI"
   },
   {
     "id": "smartmall-token",
@@ -79567,7 +79512,7 @@
   {
     "id": "tcy",
     "symbol": "tcy",
-    "name": "TCY"
+    "name": "THORChain Yield"
   },
   {
     "id": "tdccp",
@@ -83170,6 +83115,11 @@
     "name": "TROPPY"
   },
   {
+    "id": "trove",
+    "symbol": "trove",
+    "name": "Trove"
+  },
+  {
     "id": "troy",
     "symbol": "troy",
     "name": "TROY"
@@ -83188,11 +83138,6 @@
     "id": "true",
     "symbol": "true",
     "name": "Truemarkets"
-  },
-  {
-    "id": "true-base-army",
-    "symbol": "tba",
-    "name": "True Base Army"
   },
   {
     "id": "truebit-protocol",
@@ -88953,11 +88898,6 @@
     "id": "wolfwifballz",
     "symbol": "ballz",
     "name": "WolfWifBallz"
-  },
-  {
-    "id": "wolt",
-    "symbol": "wolt",
-    "name": "Wolt"
   },
   {
     "id": "wolverinu-2",
