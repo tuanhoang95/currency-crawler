@@ -1410,6 +1410,11 @@
     "name": "Abbott xStock"
   },
   {
+    "id": "abbvie-ondo-tokenized-stock",
+    "symbol": "abbvon",
+    "name": "AbbVie (Ondo Tokenized Stock)"
+  },
+  {
     "id": "abbvie-xstock",
     "symbol": "abbvx",
     "name": "AbbVie xStock"
@@ -1493,6 +1498,11 @@
     "id": "aborean",
     "symbol": "abx",
     "name": "Aborean"
+  },
+  {
+    "id": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
+    "symbol": "pallon",
+    "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)"
   },
   {
     "id": "abschad",
@@ -3110,6 +3120,11 @@
     "name": "aixCB by Virtuals"
   },
   {
+    "id": "aixdrop",
+    "symbol": "aixdrop",
+    "name": "AIXDROP"
+  },
+  {
     "id": "aix-network",
     "symbol": "aix",
     "name": "AIX Network"
@@ -4190,6 +4205,11 @@
     "name": "AMC"
   },
   {
+    "id": "amc-entertainment-ondo-tokenized-stocks",
+    "symbol": "amcon",
+    "name": "AMC Entertainment (Ondo Tokenized Stock)"
+  },
+  {
     "id": "amd-ondo-tokenized-stock",
     "symbol": "amdon",
     "name": "AMD (Ondo Tokenized Stock)"
@@ -4223,6 +4243,11 @@
     "id": "america-is-back",
     "symbol": "aib",
     "name": "AMERICA IS BACK"
+  },
+  {
+    "id": "american-airlines-group-ondo-tokenized-stocks",
+    "symbol": "aalon",
+    "name": "American Airlines Group (Ondo Tokenized Stock)"
   },
   {
     "id": "american-coin",
@@ -4308,6 +4333,11 @@
     "id": "ameri-coin",
     "symbol": "amc",
     "name": "Americoin"
+  },
+  {
+    "id": "amgen-ondo-tokenized-stocks",
+    "symbol": "amgnon",
+    "name": "Amgen (Ondo Tokenized Stock)"
   },
   {
     "id": "ami",
@@ -4413,6 +4443,11 @@
     "id": "analog",
     "symbol": "anlog",
     "name": "Analog"
+  },
+  {
+    "id": "analog-devices-ondo-tokenized-stocks",
+    "symbol": "adion",
+    "name": "Analog Devices (Ondo Tokenized Stock)"
   },
   {
     "id": "analos",
@@ -5145,6 +5180,11 @@
     "name": "Apple xStock"
   },
   {
+    "id": "applied-materials-ondo-tokenized-stocks",
+    "symbol": "amaton",
+    "name": "Applied Materials (Ondo Tokenized Stock)"
+  },
+  {
     "id": "applovin-ondo-tokenized-stock",
     "symbol": "appon",
     "name": "AppLovin (Ondo Tokenized Stock)"
@@ -5490,6 +5530,11 @@
     "name": "Arch Balanced Portfolio"
   },
   {
+    "id": "archer-aviation-ondo-tokenized-stocks",
+    "symbol": "achron",
+    "name": "Archer Aviation (Ondo Tokenized Stock)"
+  },
+  {
     "id": "archer-hunter",
     "symbol": "faster",
     "name": "Archer Hunter"
@@ -5713,6 +5758,11 @@
     "id": "arise-chikun",
     "symbol": "chikun",
     "name": "Arise Chikun"
+  },
+  {
+    "id": "arista-networks-ondo-tokenized-stocks",
+    "symbol": "aneton",
+    "name": "Arista Networks (Ondo Tokenized Stock)"
   },
   {
     "id": "aristo",
@@ -7425,6 +7475,11 @@
     "name": "B2Baby"
   },
   {
+    "id": "b2gold-ondo-tokenized-stocks",
+    "symbol": "btgon",
+    "name": "B2Gold (Ondo Tokenized Stock)"
+  },
+  {
     "id": "b2share",
     "symbol": "b2share",
     "name": "B2SHARE"
@@ -8455,11 +8510,6 @@
     "name": "BAM by Scotty"
   },
   {
-    "id": "bamk-of-nakamoto-dollar",
-    "symbol": "🏦",
-    "name": "BAMK•OF•NAKAMOTO•DOLLAR"
-  },
-  {
     "id": "banana",
     "symbol": "banana",
     "name": "Banana"
@@ -8568,6 +8618,11 @@
     "id": "bankless-dao",
     "symbol": "bank",
     "name": "Bankless DAO"
+  },
+  {
+    "id": "bank-of-america-ondo-tokenized-stocks",
+    "symbol": "bacon",
+    "name": "Bank of America (Ondo Tokenized Stock)"
   },
   {
     "id": "bank-of-america-xstock",
@@ -10340,6 +10395,11 @@
     "name": "Big Balls"
   },
   {
+    "id": "bigbear-ai-holdings-ondo-tokenized-stocks",
+    "symbol": "bbaion",
+    "name": "BigBear.ai Holdings (Ondo Tokenized Stock)"
+  },
+  {
     "id": "big-bear-bald-eagle",
     "symbol": "eagle",
     "name": "Big Bear Bald Eagle"
@@ -10463,6 +10523,11 @@
     "id": "bikera",
     "symbol": "imera",
     "name": "Bikera"
+  },
+  {
+    "id": "bilibili-ondo-tokenized-stocks",
+    "symbol": "bilion",
+    "name": "Bilibili (Ondo Tokenized Stock)"
   },
   {
     "id": "bilira",
@@ -11480,6 +11545,11 @@
     "name": "BitMind"
   },
   {
+    "id": "bitmine-immersion-technologies-ondo-tokenized-stocks",
+    "symbol": "bmnron",
+    "name": "BitMine Immersion Technologies (Ondo Tokenized Stock)"
+  },
+  {
     "id": "bitminerx",
     "symbol": "bmx",
     "name": "BitMinerX"
@@ -12188,6 +12258,11 @@
     "id": "blocknet",
     "symbol": "block",
     "name": "Blocknet"
+  },
+  {
+    "id": "block-ondo-tokenized-stocks",
+    "symbol": "xyzon",
+    "name": "Block (Ondo Tokenized Stock)"
   },
   {
     "id": "block-raccoon-s-a",
@@ -14745,11 +14820,6 @@
     "name": "Brazilian Digital"
   },
   {
-    "id": "bscbook",
-    "symbol": "book",
-    "name": "Bscbook"
-  },
-  {
     "id": "bscex",
     "symbol": "bscx",
     "name": "BSCEX"
@@ -14853,6 +14923,11 @@
     "id": "bubblebid",
     "symbol": "bbb",
     "name": "Bubblebid"
+  },
+  {
+    "id": "bubblelabs",
+    "symbol": "bubble",
+    "name": "BubbleLabs"
   },
   {
     "id": "bubblemaps",
@@ -15163,6 +15238,11 @@
     "id": "bullishmarketcap",
     "symbol": "$bmc",
     "name": "BullishMarketCap"
+  },
+  {
+    "id": "bullish-ondo-tokenized-stocks",
+    "symbol": "blshon",
+    "name": "Bullish (Ondo Tokenized Stock)"
   },
   {
     "id": "bullish-start",
@@ -16188,6 +16268,11 @@
     "id": "carv",
     "symbol": "carv",
     "name": "CARV"
+  },
+  {
+    "id": "carvana-ondo-tokenized-stocks",
+    "symbol": "cvnaon",
+    "name": "Carvana (Ondo Tokenized Stock)"
   },
   {
     "id": "cas9",
@@ -17438,6 +17523,11 @@
     "id": "charles-2",
     "symbol": "king",
     "name": "Charles"
+  },
+  {
+    "id": "charles-schwab-ondo-tokenized-stocks",
+    "symbol": "schwon",
+    "name": "Charles Schwab (Ondo Tokenized Stock)"
   },
   {
     "id": "charles-the-chad",
@@ -19020,11 +19110,6 @@
     "name": "Cofinex"
   },
   {
-    "id": "coge-coin",
-    "symbol": "coge",
-    "name": "Coge Coin"
-  },
-  {
     "id": "cogito-protocol",
     "symbol": "cgv",
     "name": "Cogito Finance"
@@ -19730,6 +19815,11 @@
     "name": "Connex"
   },
   {
+    "id": "conocophillips-ondo-tokenized-stocks",
+    "symbol": "copon",
+    "name": "ConocoPhillips (Ondo Tokenized Stock)"
+  },
+  {
     "id": "conscious-token",
     "symbol": "conscious",
     "name": "Conscious Token"
@@ -20268,6 +20358,11 @@
     "id": "counterparty",
     "symbol": "xcp",
     "name": "Counterparty"
+  },
+  {
+    "id": "coupang-ondo-tokenized-stocks",
+    "symbol": "cpngon",
+    "name": "Coupang (Ondo Tokenized Stock)"
   },
   {
     "id": "couphype",
@@ -20813,6 +20908,11 @@
     "id": "crow-computer",
     "symbol": "crow",
     "name": "Crow Computer"
+  },
+  {
+    "id": "crowdstrike-ondo-tokenized-stocks",
+    "symbol": "crwdon",
+    "name": "CrowdStrike (Ondo Tokenized Stock)"
   },
   {
     "id": "crowdstrike-xstock",
@@ -22165,11 +22265,6 @@
     "name": "Danzo"
   },
   {
-    "id": "daobase",
-    "symbol": "bee",
-    "name": "DAOBase"
-  },
-  {
     "id": "daohaus",
     "symbol": "haus",
     "name": "DAOhaus"
@@ -22950,6 +23045,11 @@
     "name": "Deeployer"
   },
   {
+    "id": "deepnode",
+    "symbol": "dn",
+    "name": "DeepNode"
+  },
+  {
     "id": "deepr",
     "symbol": "deepr",
     "name": "DEEPR"
@@ -22988,6 +23088,11 @@
     "id": "deep-worm",
     "symbol": "worm",
     "name": "Deep Worm"
+  },
+  {
+    "id": "deere-ondo-tokenized-stocks",
+    "symbol": "deon",
+    "name": "Deere (Ondo Tokenized Stock)"
   },
   {
     "id": "deerman",
@@ -23563,6 +23668,11 @@
     "id": "denchcoin",
     "symbol": "dench",
     "name": "DENCHCOIN"
+  },
+  {
+    "id": "denison-mines-ondo-tokenized-stocks",
+    "symbol": "dnnon",
+    "name": "Denison Mines (Ondo Tokenized Stock)"
   },
   {
     "id": "dent",
@@ -26073,6 +26183,11 @@
     "id": "dominica-coin",
     "symbol": "dmc",
     "name": "Dominica Coin"
+  },
+  {
+    "id": "dominion",
+    "symbol": "dom",
+    "name": "Dominion"
   },
   {
     "id": "dominium-2",
@@ -29640,6 +29755,11 @@
     "name": "Exverse"
   },
   {
+    "id": "exxon-mobil-ondo-tokenized-stocks",
+    "symbol": "xomon",
+    "name": "Exxon Mobil (Ondo Tokenized Stock)"
+  },
+  {
     "id": "exxon-mobil-xstock",
     "symbol": "xomx",
     "name": "Exxon Mobil xStock"
@@ -30955,6 +31075,11 @@
     "name": "first StonFi on gas pump"
   },
   {
+    "id": "first-trust-global-tactical-commodity-strategy-fund-ondo-tokenized-stock",
+    "symbol": "ftgcon",
+    "name": "First Trust Global Tactical Commodity Strategy Fund (Ondo Tokenized Stock)"
+  },
+  {
     "id": "fisco",
     "symbol": "fscc",
     "name": "FISCO Coin"
@@ -31993,11 +32118,6 @@
     "id": "fort-block-games",
     "symbol": "fbg",
     "name": "Fort Block Games"
-  },
-  {
-    "id": "for-the-people-xbt",
-    "symbol": "ftpxbt",
-    "name": "FOR THE PEOPLE XBT"
   },
   {
     "id": "fortify-ai",
@@ -33930,6 +34050,11 @@
     "name": "Gemini Dollar"
   },
   {
+    "id": "gemini-space-station-ondo-tokenized-stock",
+    "symbol": "gemion",
+    "name": "Gemini Space Station (Ondo Tokenized Stock)"
+  },
+  {
     "id": "gemlink",
     "symbol": "glink",
     "name": "GemLink"
@@ -34758,6 +34883,11 @@
     "id": "global-virtual-coin",
     "symbol": "gvc",
     "name": "Global Virtual Coin"
+  },
+  {
+    "id": "global-x-copper-miners-etf-ondo-tokenized-etf",
+    "symbol": "copxon",
+    "name": "Global X Copper Miners ETF (Ondo Tokenized ETF)"
   },
   {
     "id": "globe-derivative-exchange",
@@ -35920,6 +36050,11 @@
     "name": "GRAB AI"
   },
   {
+    "id": "grab-holdings-ondo-tokenized-stock",
+    "symbol": "grabon",
+    "name": "Grab Holdings (Ondo Tokenized Stock)"
+  },
+  {
     "id": "gracy",
     "symbol": "gracy",
     "name": "Gracy"
@@ -36283,6 +36418,11 @@
     "id": "grindery-x",
     "symbol": "gx",
     "name": "Grindery X"
+  },
+  {
+    "id": "grindr-ondo-tokenized-stock",
+    "symbol": "grndon",
+    "name": "Grindr (Ondo Tokenized Stock)"
   },
   {
     "id": "gringo",
@@ -38635,6 +38775,11 @@
     "name": "Homebrew Robotics Club"
   },
   {
+    "id": "home-depot-ondo-tokenized-stock",
+    "symbol": "hdon",
+    "name": "Home Depot (Ondo Tokenized Stock)"
+  },
+  {
     "id": "home-depot-xstock",
     "symbol": "hdx",
     "name": "Home Depot xStock"
@@ -40380,6 +40525,11 @@
     "name": "Incoin"
   },
   {
+    "id": "incomrwa",
+    "symbol": "irwa",
+    "name": "IncomRWA"
+  },
+  {
     "id": "inc-reward-service",
     "symbol": "irs",
     "name": "INC Reward Service"
@@ -41075,6 +41225,11 @@
     "name": "Intuition"
   },
   {
+    "id": "intuitive-surgical-ondo-tokenized-stock",
+    "symbol": "isrgon",
+    "name": "Intuitive Surgical (Ondo Tokenized Stock)"
+  },
+  {
     "id": "intuit-ondo-tokenized-stock",
     "symbol": "intuon",
     "name": "Intuit (Ondo Tokenized Stock)"
@@ -41123,6 +41278,16 @@
     "id": "inverse-finance",
     "symbol": "inv",
     "name": "Inverse Finance"
+  },
+  {
+    "id": "invesco-db-commodity-index-tracking-fund-ondo-tokenized-etf",
+    "symbol": "dbcon",
+    "name": "Invesco DB Commodity Index Tracking Fund (Ondo Tokenized ETF)"
+  },
+  {
+    "id": "invesco-optimum-yld-dvsfd-cmd-str-no-k-1-etf-ondo-tokenized-etf",
+    "symbol": "pdbcon",
+    "name": "Invesco Optimum Yld Dvsfd Cmd Str No K-1 ETF (Ondo Tokenized ETF)"
   },
   {
     "id": "invesco-qqq-etf-ondo-tokenized-etf",
@@ -41330,6 +41495,11 @@
     "name": "Irena Coin Apps"
   },
   {
+    "id": "iren-ondo-tokenized-stock",
+    "symbol": "irenon",
+    "name": "IREN (Ondo Tokenized Stock)"
+  },
+  {
     "id": "i-r-i-s",
     "symbol": "iris",
     "name": "I.R.I.S"
@@ -41415,6 +41585,11 @@
     "name": "Isengard NFT Marketplace"
   },
   {
+    "id": "ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf",
+    "symbol": "sgovon",
+    "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)"
+  },
+  {
     "id": "ishares-20-year-treasury-bond-etf-ondo-tokenized-etf",
     "symbol": "tlton",
     "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)"
@@ -41448,6 +41623,11 @@
     "id": "ishares-core-us-aggregate-bond-etf-ondo-tokenized-etf",
     "symbol": "aggon",
     "name": "iShares Core US Aggregate Bond ETF (Ondo Tokenized ETF)"
+  },
+  {
+    "id": "ishares-flexible-income-active-etf-ondo-tokenized-etf",
+    "symbol": "bincon",
+    "name": "iShares Flexible Income Active ETF (Ondo Tokenized ETF)"
   },
   {
     "id": "ishares-gold-trust-ondo-tokenized-stock",
@@ -41888,6 +42068,11 @@
     "id": "janro-the-rat",
     "symbol": "janro",
     "name": "Janro The Rat"
+  },
+  {
+    "id": "janus-henderson-aaa-clo-etf-ondo-tokenized-etf",
+    "symbol": "jaaaon",
+    "name": "Janus Henderson AAA CLO ETF (Ondo Tokenized ETF)"
   },
   {
     "id": "janus-henderson-anemoy-aaa-clo-fund",
@@ -42378,6 +42563,11 @@
     "id": "john-pork-2",
     "symbol": "pork",
     "name": "John Pork"
+  },
+  {
+    "id": "johnson-johnson-ondo-tokenized-stock",
+    "symbol": "jnjon",
+    "name": "Johnson & Johnson (Ondo Tokenized Stock)"
   },
   {
     "id": "johnson-johnson-xstock",
@@ -43223,6 +43413,11 @@
     "id": "kanye",
     "symbol": "ye",
     "name": "Kanye"
+  },
+  {
+    "id": "kanzhun-ondo-tokenized-stock",
+    "symbol": "bzon",
+    "name": "Kanzhun (Ondo Tokenized Stock)"
   },
   {
     "id": "kanzzai",
@@ -44360,6 +44555,11 @@
     "name": "Kizuna"
   },
   {
+    "id": "kla-ondo-tokenized",
+    "symbol": "klacon",
+    "name": "KLA (Ondo Tokenized)"
+  },
+  {
     "id": "klaus",
     "symbol": "klaus",
     "name": "KLAUS"
@@ -44913,6 +45113,11 @@
     "id": "k-pop-on-solana",
     "symbol": "kpop",
     "name": "K-Pop on Solana"
+  },
+  {
+    "id": "kr8tiv",
+    "symbol": "kr8tiv",
+    "name": "KR8TIV"
   },
   {
     "id": "kraken-ink",
@@ -45535,6 +45740,11 @@
     "name": "Lamina1"
   },
   {
+    "id": "lam-research-ondo-tokenized",
+    "symbol": "lrcxon",
+    "name": "Lam Research (Ondo Tokenized)"
+  },
+  {
     "id": "lanacoin",
     "symbol": "lana",
     "name": "LanaCoin"
@@ -46055,6 +46265,16 @@
     "name": "Ledgity Token"
   },
   {
+    "id": "ledgity-yield-eur",
+    "symbol": "lyeur",
+    "name": "Ledgity Yield EUR"
+  },
+  {
+    "id": "ledgity-yield-usd",
+    "symbol": "lyusd",
+    "name": "Ledgity Yield USD"
+  },
+  {
     "id": "ledog-dog",
     "symbol": "dog",
     "name": "LEDOG (DOG)"
@@ -46520,6 +46740,11 @@
     "name": "脸谱"
   },
   {
+    "id": "li-auto-ondo-tokenized",
+    "symbol": "lion",
+    "name": "Li Auto (Ondo Tokenized)"
+  },
+  {
     "id": "liberland-lld",
     "symbol": "lld",
     "name": "Liberland LLD"
@@ -46533,11 +46758,6 @@
     "id": "libertai",
     "symbol": "ltai",
     "name": "LibertAI"
-  },
-  {
-    "id": "libertarian-dog",
-    "symbol": "liberta",
-    "name": "Libertarian Dog"
   },
   {
     "id": "libertum",
@@ -47660,16 +47880,6 @@
     "name": "Locus Finance"
   },
   {
-    "id": "locust-pocus",
-    "symbol": "cicada",
-    "name": "Locust Pocus"
-  },
-  {
-    "id": "lodestar",
-    "symbol": "lode",
-    "name": "Lodestar"
-  },
-  {
     "id": "lodesupply",
     "symbol": "lode",
     "name": "LODEsupply"
@@ -48148,6 +48358,11 @@
     "id": "lower",
     "symbol": "lower",
     "name": "lower"
+  },
+  {
+    "id": "lowe-s-ondo-tokenized",
+    "symbol": "lowon",
+    "name": "Lowe's (Ondo Tokenized)"
   },
   {
     "id": "low-quality-cat",
@@ -50030,6 +50245,11 @@
     "name": "MVL"
   },
   {
+    "id": "mastec-ondo-tokenized",
+    "symbol": "mtzon",
+    "name": "MasTec (Ondo Tokenized)"
+  },
+  {
     "id": "masterbot",
     "symbol": "$bot",
     "name": "MasterBOT"
@@ -51188,6 +51408,11 @@
     "id": "merchminter",
     "symbol": "mrchr",
     "name": "MerchMinter"
+  },
+  {
+    "id": "merck-ondo-tokenized",
+    "symbol": "mrkon",
+    "name": "Merck (Ondo Tokenized)"
   },
   {
     "id": "merck-xstock",
@@ -53095,6 +53320,11 @@
     "name": "Modefi"
   },
   {
+    "id": "moderna-ondo-tokenized",
+    "symbol": "mrnaon",
+    "name": "Moderna (Ondo Tokenized)"
+  },
+  {
     "id": "modern-innovation-network-token",
     "symbol": "minx",
     "name": "Modern Innovation Network Token"
@@ -53433,11 +53663,6 @@
     "id": "mongcoin",
     "symbol": "mong",
     "name": "MongCoin"
-  },
-  {
-    "id": "mongol-nft",
-    "symbol": "mnft",
-    "name": "Mongol NFT"
   },
   {
     "id": "mongoose",
@@ -54425,6 +54650,11 @@
     "name": "mPendle"
   },
   {
+    "id": "mp-materials-ondo-tokenized",
+    "symbol": "mpon",
+    "name": "MP Materials (Ondo Tokenized)"
+  },
+  {
     "id": "mpool",
     "symbol": "mult pool",
     "name": "MPOOL"
@@ -54833,6 +55063,11 @@
     "id": "museum-of-memes",
     "symbol": "mom",
     "name": "Museum Of Memes"
+  },
+  {
+    "id": "mush",
+    "symbol": "mush",
+    "name": "MUSH"
   },
   {
     "id": "music-by-virtuals",
@@ -55975,6 +56210,11 @@
     "name": "NET Dollar"
   },
   {
+    "id": "netease-ondo-tokenized",
+    "symbol": "nteson",
+    "name": "NetEase (Ondo Tokenized)"
+  },
+  {
     "id": "netflix-ondo-tokenized-stock",
     "symbol": "nflxon",
     "name": "Netflix (Ondo Tokenized Stock)"
@@ -56405,6 +56645,11 @@
     "name": "Next Earth"
   },
   {
+    "id": "nextera-energy-ondo-tokenized",
+    "symbol": "neeon",
+    "name": "NextEra Energy (Ondo Tokenized)"
+  },
+  {
     "id": "next-gen-pepe",
     "symbol": "pepe",
     "name": "Next Gen PEPE"
@@ -56833,6 +57078,11 @@
     "id": "niob",
     "symbol": "niob",
     "name": "NIOB"
+  },
+  {
+    "id": "nio-ondo-tokenized",
+    "symbol": "nioon",
+    "name": "NIO (Ondo Tokenized)"
   },
   {
     "id": "nirvana-ana-2",
@@ -58035,6 +58285,11 @@
     "name": "OccamFi"
   },
   {
+    "id": "occidental-petroleum-ondo-tokenized",
+    "symbol": "oxyon",
+    "name": "Occidental Petroleum (Ondo Tokenized)"
+  },
+  {
     "id": "oceanfi",
     "symbol": "ocf",
     "name": "OceanFi"
@@ -58315,6 +58570,11 @@
     "name": "OID"
   },
   {
+    "id": "oil-rig",
+    "symbol": "oil",
+    "name": "Oil Rig"
+  },
+  {
     "id": "oil-token",
     "symbol": "oil",
     "name": "Oil Token"
@@ -58373,6 +58633,11 @@
     "id": "okie",
     "symbol": "okie",
     "name": "OKIE"
+  },
+  {
+    "id": "oklo-ondo-tokenized",
+    "symbol": "okloon",
+    "name": "Oklo (Ondo Tokenized)"
   },
   {
     "id": "oklo-xstock",
@@ -58665,6 +58930,11 @@
     "name": "Oncology Network"
   },
   {
+    "id": "ondas-holdings-ondo-tokenized",
+    "symbol": "ondson",
+    "name": "Ondas Holdings (Ondo Tokenized)"
+  },
+  {
     "id": "ondaxbt",
     "symbol": "onda",
     "name": "ondaxbt"
@@ -58840,6 +59110,11 @@
     "name": "OnPulse"
   },
   {
+    "id": "on-semiconductor-ondo-tokenized",
+    "symbol": "onon",
+    "name": "ON Semiconductor (Ondo Tokenized)"
+  },
+  {
     "id": "ontact",
     "symbol": "ontact",
     "name": "OnTact"
@@ -58903,6 +59178,11 @@
     "id": "oops",
     "symbol": "oops",
     "name": "OOPS"
+  },
+  {
+    "id": "oora",
+    "symbol": "oora",
+    "name": "oora"
   },
   {
     "id": "oort",
@@ -58978,6 +59258,11 @@
     "id": "opendelta-gmci30",
     "symbol": "og30",
     "name": "OpenDelta GMCI30"
+  },
+  {
+    "id": "opendoor-technologies-ondo-tokenized",
+    "symbol": "openon",
+    "name": "Opendoor Technologies (Ondo Tokenized)"
   },
   {
     "id": "openeden",
@@ -59150,6 +59435,11 @@
     "name": "OpenZK Network"
   },
   {
+    "id": "opera-ondo-tokenized",
+    "symbol": "opraon",
+    "name": "Opera (Ondo Tokenized)"
+  },
+  {
     "id": "operating-system",
     "symbol": "opsys",
     "name": "Operating System"
@@ -59283,6 +59573,11 @@
     "id": "opus-cash",
     "symbol": "cash",
     "name": "Opus CASH"
+  },
+  {
+    "id": "opus-the-trencher",
+    "symbol": "opus",
+    "name": "Opus The Trencher"
   },
   {
     "id": "opx-live",
@@ -59778,6 +60073,11 @@
     "id": "oscar-2",
     "symbol": "gopro cat",
     "name": "OSCAR"
+  },
+  {
+    "id": "oscar-health-ondo-tokenized",
+    "symbol": "oscron",
+    "name": "Oscar Health (Ondo Tokenized)"
   },
   {
     "id": "oscar-the-octo",
@@ -61065,6 +61365,11 @@
     "name": "PCM"
   },
   {
+    "id": "pdd-holdings-ondo-tokenized",
+    "symbol": "pddon",
+    "name": "PDD Holdings (Ondo Tokenized)"
+  },
+  {
     "id": "pdx-coin",
     "symbol": "pdx",
     "name": "PDX Coin"
@@ -61845,11 +62150,6 @@
     "name": "PEPi"
   },
   {
-    "id": "pepinu",
-    "symbol": "pepinu",
-    "name": "Pepinu"
-  },
-  {
     "id": "pepito-2",
     "symbol": "pepito",
     "name": "Pepito"
@@ -62108,6 +62408,11 @@
     "id": "pfizer-xstock",
     "symbol": "pfex",
     "name": "Pfizer xStock"
+  },
+  {
+    "id": "pg-e-ondo-tokenized",
+    "symbol": "pcgon",
+    "name": "PG&E (Ondo Tokenized)"
   },
   {
     "id": "pha",
@@ -62680,6 +62985,11 @@
     "name": "Pino TRX"
   },
   {
+    "id": "pinterest-ondo-tokenized",
+    "symbol": "pinson",
+    "name": "Pinterest (Ondo Tokenized)"
+  },
+  {
     "id": "pinto",
     "symbol": "pinto",
     "name": "Pinto"
@@ -63030,11 +63340,6 @@
     "name": "PlasticHero"
   },
   {
-    "id": "plata-network",
-    "symbol": "plata",
-    "name": "Plata Network"
-  },
-  {
     "id": "platform-of-meme-coins",
     "symbol": "payu",
     "name": "Platform of meme coins"
@@ -63273,6 +63578,11 @@
     "id": "plugin",
     "symbol": "pli",
     "name": "Plugin"
+  },
+  {
+    "id": "plug-power-ondo-tokenized",
+    "symbol": "plugon",
+    "name": "Plug Power (Ondo Tokenized)"
   },
   {
     "id": "plume",
@@ -65020,6 +65330,21 @@
     "name": "Propy"
   },
   {
+    "id": "proshares-short-qqq-ondo-tokenized",
+    "symbol": "psqon",
+    "name": "ProShares Short QQQ (Ondo Tokenized)"
+  },
+  {
+    "id": "proshares-ultrapro-qqq-ondo-tokenized",
+    "symbol": "tqqqon",
+    "name": "ProShares UltraPro QQQ (Ondo Tokenized)"
+  },
+  {
+    "id": "proshares-ultrapro-short-qqq-ondo-tokenized",
+    "symbol": "sqqqon",
+    "name": "ProShares UltraPro Short QQQ (Ondo Tokenized)"
+  },
+  {
     "id": "prospective",
     "symbol": "pros",
     "name": "Prospective"
@@ -65853,11 +66178,6 @@
     "id": "pyrate",
     "symbol": "pyrate",
     "name": "PYRATE"
-  },
-  {
-    "id": "pyrin",
-    "symbol": "pyi",
-    "name": "Pyrin"
   },
   {
     "id": "pyth-eth",
@@ -66773,6 +67093,11 @@
     "id": "rally-3",
     "symbol": "rally",
     "name": "RALLY"
+  },
+  {
+    "id": "ramcoin-2",
+    "symbol": "ram",
+    "name": "RAMCOIN"
   },
   {
     "id": "ramen",
@@ -68470,6 +68795,11 @@
     "name": "Rigel Protocol"
   },
   {
+    "id": "rigetti-computing-ondo-tokenized",
+    "symbol": "rgtion",
+    "name": "Rigetti Computing (Ondo Tokenized)"
+  },
+  {
     "id": "rigoblock",
     "symbol": "grg",
     "name": "RigoBlock"
@@ -68638,6 +68968,11 @@
     "id": "river-pts",
     "symbol": "river pts",
     "name": "River Pts"
+  },
+  {
+    "id": "rivian-automotive-ondo-tokenized",
+    "symbol": "rivnon",
+    "name": "Rivian Automotive (Ondo Tokenized)"
   },
   {
     "id": "rivusdao",
@@ -69323,6 +69658,11 @@
     "id": "rss3",
     "symbol": "rss3",
     "name": "RSS3"
+  },
+  {
+    "id": "rtx-ondo-tokenized",
+    "symbol": "rtxon",
+    "name": "RTX (Ondo Tokenized)"
   },
   {
     "id": "rubic",
@@ -70223,6 +70563,11 @@
     "id": "sanin-inu",
     "symbol": "sani",
     "name": "Sanin Inu"
+  },
+  {
+    "id": "sanity-united",
+    "symbol": "sut",
+    "name": "Sanity United"
   },
   {
     "id": "sanji",
@@ -73515,6 +73860,11 @@
     "name": "Snapmuse.io"
   },
   {
+    "id": "snap-ondo-tokenized",
+    "symbol": "snapon",
+    "name": "Snap (Ondo Tokenized)"
+  },
+  {
     "id": "snappy",
     "symbol": "snap",
     "name": "Snappy"
@@ -74935,6 +75285,11 @@
     "name": "Soul Scanner"
   },
   {
+    "id": "soundhound-ai-ondo-tokenized",
+    "symbol": "sounon",
+    "name": "SoundHound AI (Ondo Tokenized)"
+  },
+  {
     "id": "sound-linx",
     "symbol": "sdlx",
     "name": "SoundLinX"
@@ -75263,6 +75618,11 @@
     "id": "spawn-tools",
     "symbol": "spawn",
     "name": "Spawn Tools"
+  },
+  {
+    "id": "spdr-gold-shares-ondo-tokenized",
+    "symbol": "gldon",
+    "name": "SPDR Gold Shares (Ondo Tokenized)"
   },
   {
     "id": "spdr-s-p-500-etf-ondo-tokenized-etf",
@@ -75673,6 +76033,11 @@
     "id": "sprotostrategy",
     "symbol": "sprstr",
     "name": "SprotoStrategy"
+  },
+  {
+    "id": "sprott-nickel-miners-etf-ondo-tokenized",
+    "symbol": "niklon",
+    "name": "Sprott Nickel Miners ETF (Ondo Tokenized)"
   },
   {
     "id": "s-p-small-cap-xstock",
@@ -79835,6 +80200,11 @@
     "name": "TERATTO"
   },
   {
+    "id": "terawulf-ondo-tokenized",
+    "symbol": "wulfon",
+    "name": "Terawulf (Ondo Tokenized)"
+  },
+  {
     "id": "terawulf-xstock",
     "symbol": "wulfx",
     "name": "TeraWulf xStock"
@@ -80060,6 +80430,11 @@
     "name": "Texan"
   },
   {
+    "id": "texas-instruments-ondo-tokenized",
+    "symbol": "txnon",
+    "name": "Texas Instruments (Ondo Tokenized)"
+  },
+  {
     "id": "texitcoin",
     "symbol": "txc",
     "name": "TEXITcoin"
@@ -80158,6 +80533,11 @@
     "id": "the-4th-pillar",
     "symbol": "four",
     "name": "4th Pillar FOUR"
+  },
+  {
+    "id": "the9bit",
+    "symbol": "9bit",
+    "name": "The9bit"
   },
   {
     "id": "the-abyss",
@@ -82280,11 +82660,6 @@
     "name": "Tornado Cash"
   },
   {
-    "id": "toro-2",
-    "symbol": "$toro",
-    "name": "EL-Toro"
-  },
-  {
     "id": "torq-swap",
     "symbol": "tqs",
     "name": "Torq Swap"
@@ -83103,11 +83478,6 @@
     "id": "troy",
     "symbol": "troy",
     "name": "TROY"
-  },
-  {
-    "id": "trrue",
-    "symbol": "trrue",
-    "name": "TRRUE"
   },
   {
     "id": "trubadger",
@@ -84365,6 +84735,11 @@
     "name": "United States of Memerica"
   },
   {
+    "id": "united-states-oil-fund-ondo-tokenized",
+    "symbol": "usoon",
+    "name": "United States Oil Fund (Ondo Tokenized)"
+  },
+  {
     "id": "unite-the-kingdom",
     "symbol": "utk",
     "name": "UNITE THE KINGDOM"
@@ -85530,14 +85905,29 @@
     "name": "Vanar Chain"
   },
   {
+    "id": "vaneck-rare-earth-and-strategic-metals-etf-ondo-tokenized",
+    "symbol": "remxon",
+    "name": "VanEck Rare Earth and Strategic Metals ETF (Ondo Tokenized)"
+  },
+  {
     "id": "vaneck-treasury-fund",
     "symbol": "vbill",
     "name": "VanEck Treasury Fund"
   },
   {
+    "id": "vanguard-total-stock-market-etf-ondo-tokenized",
+    "symbol": "vtion",
+    "name": "Vanguard Total Stock Market ETF (Ondo Tokenized)"
+  },
+  {
     "id": "vanguard-total-world-xstock",
     "symbol": "vtx",
     "name": "Vanguard Total World xStock"
+  },
+  {
+    "id": "vanguard-value-etf-ondo-tokenized",
+    "symbol": "vtvon",
+    "name": "Vanguard Value ETF (Ondo Tokenized)"
   },
   {
     "id": "vanguard-xstock",
@@ -86090,14 +86480,14 @@
     "name": "Verida Token"
   },
   {
-    "id": "veritas",
-    "symbol": "vpt",
-    "name": "Veritas"
-  },
-  {
     "id": "veritaseum",
     "symbol": "veri",
     "name": "Veritaseum"
+  },
+  {
+    "id": "verizon-ondo-tokenized",
+    "symbol": "vzon",
+    "name": "Verizon (Ondo Tokenized)"
   },
   {
     "id": "vernus",
@@ -86158,6 +86548,11 @@
     "id": "vertical-ai",
     "symbol": "vertai",
     "name": "Vertical AI"
+  },
+  {
+    "id": "vertiv-ondo-tokenized",
+    "symbol": "vrton",
+    "name": "Vertiv (Ondo Tokenized)"
   },
   {
     "id": "vertus",
@@ -86643,6 +87038,11 @@
     "id": "visiongame",
     "symbol": "vision",
     "name": "VisionGame"
+  },
+  {
+    "id": "vistra-ondo-tokenized",
+    "symbol": "vston",
+    "name": "Vistra (Ondo Tokenized)"
   },
   {
     "id": "vistra-xstock",
@@ -88035,11 +88435,6 @@
     "name": "wenlambo"
   },
   {
-    "id": "wenlive-fun",
-    "symbol": "wenlive",
-    "name": "wenlive.fun"
-  },
-  {
     "id": "wenpad-labs",
     "symbol": "labs",
     "name": "Wenpad Labs [OLD]"
@@ -88648,6 +89043,16 @@
     "id": "wisdomise",
     "symbol": "wsdm",
     "name": "Wisdomise AI"
+  },
+  {
+    "id": "wisdomtree-floating-rate-treasury-fund-ondo-tokenized",
+    "symbol": "usfron",
+    "name": "WisdomTree Floating Rate Treasury Fund (Ondo Tokenized)"
+  },
+  {
+    "id": "wisdomtree-us-quality-dividend-growth-fund-ondo-tokenized",
+    "symbol": "dgrwon",
+    "name": "WisdomTree US Quality Dividend Growth Fund (Ondo Tokenized)"
   },
   {
     "id": "wise-monkey",
@@ -92513,11 +92918,6 @@
     "id": "yellow-umbrella",
     "symbol": "yu",
     "name": "Yellow Umbrella"
-  },
-  {
-    "id": "yes-3",
-    "symbol": "yes",
-    "name": "YES"
   },
   {
     "id": "yes-chad",
